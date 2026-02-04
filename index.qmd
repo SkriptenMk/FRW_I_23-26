@@ -1,7 +1,9 @@
 ---
 title: "FRW Abschlusstraining"
 listing:
-  contents: posts
+  contents:
+    - "posts/*/index.qmd"
+    - "posts/*/index.ipynb"
   sort: "date desc"
   type: default
   categories: true

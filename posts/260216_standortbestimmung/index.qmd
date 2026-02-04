@@ -108,3 +108,5 @@ Ein Produkt hat variable Kosten von CHF 45.- und einen Verkaufspreis von CHF 75.
    senken, um den Absatz zu steigern. Was passiert mit dem
    Deckungsbeitrag und der Nutzschwelle? (Kurze Begründung). (3
    Pkt.) 
+
+[-> Musterlösung](musterloesung.qmd)
