@@ -100,9 +100,11 @@ date-format: "D. MMMM YYYY"
 | 49 | Verluste Ford. | Delkredere | 200.00 | Erhöhung um die Differenz. |
 | 50 | Delkredere | Verluste Ford. | 200.00 | Ziel: 4'000. Vorher: 4'200. Reduktion um 200. |
 
+:  {tbl-colwidths="[5,25,25,10,35]"}
+
 ---
 
-### 💡 Experten-Tipps & Stolpersteine (BM-Niveau)
+# 💡 Experten-Tipps & Stolpersteine (BM-Niveau)
 
 1.  **Nettomethode beachten:** In BM-Prüfungen ist die Nettomethode Standard. Das bedeutet, dass Rabatte, Skonti und Verluste immer **inklusive** einer MWST-Korrektur gebucht werden müssen, sofern der ursprüngliche Betrag MWST-pflichtig war.
 2.  **Skonto-Falle:** Der Skonto wird oft auf dem Bruttobetrag (inkl. MWST) berechnet, muss aber buchhalterisch in "Netto-Skonto" (Ertragsminderung) und "MWST-Anteil" (MWST-Korrektur) aufgeteilt werden.
@@ -114,6 +116,5 @@ date-format: "D. MMMM YYYY"
     *   Zahlungseingang für Forderung aus dem **laufenden Jahr**: Buchung über `Verluste Forderungen`.
     *   Zahlungseingang für Forderung aus dem **Vorjahr**: Buchung über `ausserordentlicher Ertrag`. Hier wird die MWST nicht mehr korrigiert, da der Steuerfall rechtlich im Vorjahr abgeschlossen wurde.
 5.  **Kostenvorschüsse:** Wenn wir für eine Betreibung bezahlen (`FLL / Kasse`), fordern wir dieses Geld vom Kunden zurück. Es ist also kein Aufwand, sondern eine Erhöhung der Forderung. Erst wenn der Kunde definitiv nicht zahlt, wird dieser Betrag zusammen mit der Warenforderung abgeschrieben.
-6.  
 
 [$\leftarrow$ Zurück zur Hauptseite](index.qmd)
