@@ -1,0 +1,112 @@
+---
+title: "Standortbestimmung"
+author: "Jacques Mock Schindler"
+date: "2026-02-16"
+date-format: "D. MMMM YYYY"
+image: "image.jpg"
+---
+
+Die folgenden Aufgaben dienen der Abklärung des Wissenstandes. Sie
+sollen helfen, gezielt Lücken zu identifizieren.
+
+# Teil 1: Umfassende Formelsammlung (Hilfsmittel)
+
+Diese Formeln decken die wesentlichen Bereiche der BM-Prüfungen (Finanzielle Führung) ab.
+
+### Liquidität
+*   **Liquiditätsgrad 1 (Cash Ratio):** 
+    $$
+    \frac{\text{Flüssige Mittel} \times 100}{\text{Kurzfristiges
+    Fremdkapital}}
+    $$
+*   **Liquiditätsgrad 2 (Quick Ratio):** 
+    $$
+    \frac{(\text{Flüssige Mittel} + \text{Forderungen}) \times
+    100}{\text{Kurzfristiges Fremdkapital}}
+    $$
+*   **Liquiditätsgrad 3 (Current Ratio):** 
+    $$
+    \frac{\text{Umlaufvermögen} \times 100}{\text{Kurzfristiges
+    Fremdkapital}}
+    $$
+
+### Sicherheit / Finanzierung
+*   **Eigenfinanzierungsgrad:** 
+    $$
+    \frac{\text{Eigenkapital} \times 100}{\text{Gesamtkapital}}
+    $$
+*   **Anlagedeckungsgrad 2 (Goldene Bilanzregel):** 
+    $$
+    \frac{(\text{Eigenkapital} + \text{langfr. Fremdkapital}) \times
+    100}{\text{Anlagevermögen}}
+    $$
+
+### Rentabilität
+*   **Eigenkapitalrendite (ROE):** 
+    $$
+    \frac{\text{Reingewinn} \times 100}{\text{Durchschnittliches
+    Eigenkapital}}
+    $$
+*   **Gesamtkapitalrendite (ROI):** 
+    $$
+    \frac{(\text{Reingewinn} + \text{Fremdkapitalzinsen}) \times
+    100}{\text{Durchschnittliches Gesamtkapital}}
+    $$
+
+---
+
+# Teil 2: Standortbestimmung
+
+### Aufgabe 1: Geldflussrechnung (12 Punkte | 20 Min.)
+Die "Swiss-Tech AG" (Handelsbetrieb) weist für das Jahr 2025 folgende summarische Daten aus (Beträge in CHF 1'000):
+
+| Nr. | Sachverhalt | Betrag |
+| :--- | :--- | ---: |
+| 1 | Warenverkäufe auf Kredit | 2'400 |
+| 2 | Zunahme FLL (Debitoren) | 40 |
+| 3 | Wareneinkäufe auf Kredit (Einstandswert) | 950 |
+| 4 | Abnahme VLL (Kreditoren) | 20 |
+| 5 | Zunahme Warenvorrat | 30 |
+| 6 | Personalaufwand (bar bezahlt) | 700 |
+| 7 | Abschreibungen auf Maschinen | 120 |
+| 8 | Barverkauf einer alten Maschine (Buchwert 15) | 18 |
+| 9 | Kauf einer neuen EDV-Anlage (Bankzahlung) | 60 |
+| 10 | Rückzahlung eines langfristigen Darlehens | 100 |
+| 11 | Barbezug von Dividenden durch die Aktionäre | 50 |
+| 12 | Reingewinn gemäss Erfolgsrechnung | 240 |
+
+:  {tbl-colwidths="[20,60,20]"}
+
+**Aufgaben:**
+
+1. Erstellen Sie die Geldflussrechnung mit direktem Ausweis des Cashflows (Betriebsbereich). (4 Pkt.)
+2. Erstellen Sie den Investitions- und Finanzierungsbereich. (4 Pkt.)
+3. Zeigen Sie den Cashflow indirekt (Nachweis) auf. (3 Pkt.)
+4. Wie hoch ist der Free Cashflow? (1 Pkt.)
+
+---
+
+### Aufgabe 2: Anspruchsvolle Buchungssätze (8 Punkte | 15 Min.)
+Verbuchen Sie folgende Fälle für die "Alpina AG". Verwenden Sie KMU-Konten. (MWST 8.1% nur wenn verlangt).
+
+| Nr. | Sachverhalt | Soll | Haben | Betrag |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Ein im Vorjahr abgeschriebener Kunde überweist überraschend CHF 1'200 auf unser Bankkonto. | | | |
+| 2 | Kauf einer Maschine für CHF 50'000 (exkl. 8.1% MWST). Die alte Maschine (Buchwert 0) wird für CHF 5'000 an Zahlung genommen. Rest per Bank. | | | |
+| 3 | Wir begleichen eine Rechnung aus Deutschland über EUR 4'000. Einbuchungskurs war 0.98. Tageskurs bei Bankzahlung: 0.95. | | | |
+| 4 | Abgrenzung am 31.12.: Wir haben die Büromiete für Jan. und Feb. im Voraus bezahlt (total CHF 6'000). | | | |
+
+:  {tbl-colwidths="[5,30,25,15,15]"}
+
+---
+
+### Aufgabe 3: Break-Even & Interpretation (5 Punkte | 10 Min.)
+Ein Produkt hat variable Kosten von CHF 45.- und einen Verkaufspreis von CHF 75.-. Die fixen Kosten betragen pro Monat CHF 90'000.-.
+
+1. Berechnen Sie die Nutzschwelle (mengenmässig) pro Monat. (2 Pkt.)
+2. Die Geschäftsleitung entscheidet, den Verkaufspreis auf CHF 70.- zu
+   senken, um den Absatz zu steigern. Was passiert mit dem
+   Deckungsbeitrag und der Nutzschwelle? (Kurze Begründung). (3
+   Pkt.) 
+
+[$\rightarrow$ Musterlösung](musterloesung.qmd)

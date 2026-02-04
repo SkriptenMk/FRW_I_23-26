@@ -1,7 +1,9 @@
 ---
 title: "FRW Abschlusstraining"
 listing:
-  contents: posts
+  contents:
+    - "posts/*/index.qmd"
+    - "posts/*/index.ipynb"
   sort: "date desc"
   type: default
   categories: true
@@ -35,7 +37,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 19.03.2026 | Unternehmensanalyse II - Kennzahlen interpretieren |
 | 23.03.2026 | Geldflussrechnung I - Direkte Methode |
 | 26.03.2026 | Geldflussrechnung II - Indirekte Methode |
-| 30.03.2026 | Capol |
+| 30.03.2026 | Vorstellung Studienprogramm FH GR |
 | 02.04.2026 | Geldflussrechnung III - Investition & Finanzierung |
 | 09.04.2026 | Kostenrechnung I - BAB Grundlagen |
 | 13.04.2026 | Kostenrechnung II - Umlagen & Zuschläge |
