@@ -13,34 +13,22 @@ sollen helfen, gezielt Lücken zu identifizieren.
 
 Diese Formeln decken die wesentlichen Bereiche der BM-Prüfungen (Finanzielle Führung) ab.
 
-### 1. Geldflussrechnung (GFR)
-*   **Cashflow (direkt):** Liquiditätswirksamer Ertrag (Zahlungen von Kunden) ./. liquiditätswirksamer Aufwand (Zahlungen an Lieferanten, Personal, Zinsen, Übriges).
-*   **Cashflow (indirekt):** Reingewinn + liquiditätsunwirksamer Aufwand (Abschreibungen, Bildung Rückstellungen, Verluste aus Anlageverkauf) ./. liquiditätsunwirksamer Ertrag (Auflösung Rückstellungen, Gewinne aus Anlageverkauf).
-*   **Free Cashflow:** Cashflow aus Betriebstätigkeit + Cashflow aus Investitionstätigkeit (Nettoinvestitionen).
-
-### 2. Liquidität
+### Liquidität
 *   **Liquiditätsgrad 1 (Cash Ratio):** $\frac{\text{Flüssige Mittel} \times 100}{\text{Kurzfristiges Fremdkapital}}$ (Ziel: 10–30%)
 *   **Liquiditätsgrad 2 (Quick Ratio):** $\frac{(\text{Flüssige Mittel} + \text{Forderungen}) \times 100}{\text{Kurzfristiges Fremdkapital}}$ (Ziel: mind. 100%)
 *   **Liquiditätsgrad 3 (Current Ratio):** $\frac{\text{Umlaufvermögen} \times 100}{\text{Kurzfristiges Fremdkapital}}$ (Ziel: 150–200%)
 
-### 3. Sicherheit / Finanzierung
+### Sicherheit / Finanzierung
 *   **Eigenfinanzierungsgrad:** $\frac{\text{Eigenkapital} \times 100}{\text{Gesamtkapital}}$ (Ziel: 30–60%)
 *   **Anlagedeckungsgrad 2 (Goldene Bilanzregel):** $\frac{(\text{Eigenkapital} + \text{langfr. Fremdkapital}) \times 100}{\text{Anlagevermögen}}$ (Ziel: > 100%)
 
-### 4. Rentabilität
+### Rentabilität
 *   **Eigenkapitalrendite (ROE):** $\frac{\text{Reingewinn} \times 100}{\text{Durchschnittliches Eigenkapital}}$
 *   **Gesamtkapitalrendite (ROI):** $\frac{(\text{Reingewinn} + \text{Fremdkapitalzinsen}) \times 100}{\text{Durchschnittliches Gesamtkapital}}$
 
 ---
 
-# Teil 2: Prüfungsbogen (Schülerversion)
-
-**Titel:** Standortbestimmung FRW – Geldflussrechnung & Abschluss  
-**Zeit:** 45 Minuten  
-**Max. Punktzahl:** 25 Punkte  
-**Erlaubte Hilfsmittel:** Taschenrechner (nicht programmierbar), Formelsammlung.
-
----
+# Teil 2: Standortbestimmung
 
 ### Aufgabe 1: Geldflussrechnung (12 Punkte | 20 Min.)
 Die "Swiss-Tech AG" (Handelsbetrieb) weist für das Jahr 2025 folgende summarische Daten aus (Beträge in CHF 1'000):
@@ -61,14 +49,14 @@ Die "Swiss-Tech AG" (Handelsbetrieb) weist für das Jahr 2025 folgende summarisc
 | 12 | Reingewinn gemäss Erfolgsrechnung | 240 |
 
 **Aufgaben:**
-a) Erstellen Sie die Geldflussrechnung mit direktem Ausweis des Cashflows (Betriebsbereich). (4 Pkt.)
-b) Erstellen Sie den Investitions- und Finanzierungsbereich. (4 Pkt.)
-c) Zeigen Sie den Cashflow indirekt (Nachweis) auf. (3 Pkt.)
-d) Wie hoch ist der **Free Cashflow**? (1 Pkt.)
+1. Erstellen Sie die Geldflussrechnung mit direktem Ausweis des Cashflows (Betriebsbereich). (4 Pkt.)
+2.  Erstellen Sie den Investitions- und Finanzierungsbereich. (4 Pkt.)
+3. Zeigen Sie den Cashflow indirekt (Nachweis) auf. (3 Pkt.)
+4.  Wie hoch ist der **Free Cashflow**? (1 Pkt.)
 
 ---
 
-### Aufgabe 2: Anspruchsvolle Journalisierung (8 Punkte | 15 Min.)
+### Aufgabe 2: Anspruchsvolle Buchungssätze (8 Punkte | 15 Min.)
 Verbuchen Sie folgende Fälle für die "Alpina AG". Verwenden Sie KMU-Konten. (MWST 8.1% nur wenn verlangt).
 
 | Nr. | Sachverhalt | Soll | Haben | Betrag |
@@ -83,66 +71,9 @@ Verbuchen Sie folgende Fälle für die "Alpina AG". Verwenden Sie KMU-Konten. (M
 ### Aufgabe 3: Break-Even & Interpretation (5 Punkte | 10 Min.)
 Ein Produkt hat variable Kosten von CHF 45.- und einen Verkaufspreis von CHF 75.-. Die fixen Kosten betragen pro Monat CHF 90'000.-.
 
-a) Berechnen Sie die Nutzschwelle (mengenmässig) pro Monat. (2 Pkt.)
-b) Die Geschäftsleitung entscheidet, den Verkaufspreis auf CHF 70.- zu senken, um den Absatz zu steigern. Was passiert mit dem **Deckungsbeitrag** und der **Nutzschwelle**? (Kurze Begründung). (3 Pkt.)
+1. Berechnen Sie die Nutzschwelle (mengenmässig) pro Monat. (2 Pkt.)
+2. Die Geschäftsleitung entscheidet, den Verkaufspreis auf CHF 70.- zu
+   senken, um den Absatz zu steigern. Was passiert mit dem
+   **Deckungsbeitrag** und der **Nutzschwelle**? (Kurze Begründung). (3
+   Pkt.) 
 
----
----
-
-# Teil 3: Lösungsschlüssel & Experten-Tipps
-
-### Lösung Aufgabe 1: Geldflussrechnung
-
-**a) Betriebstätigkeit (direkt):**
-*   Zahlungen von Kunden: 2'400 (Umsatz) - 40 (Zunahme FLL) = **2'360**
-*   Zahlungen an Lieferanten: 950 (Einkauf) + 30 (Zunahme Vorrat) + 20 (Abnahme VLL) = **-1'000**
-*   Lohnzahlungen: **-700**
-*   **Cashflow = 660**
-
-**b) Investition & Finanzierung:**
-*   **Investition:** +18 (Verkauf Maschine) - 60 (Kauf EDV) = **-42 (Mittelabfluss)**
-*   **Finanzierung:** -100 (Darlehen) - 50 (Dividenden) = **-150 (Mittelabfluss)**
-*   **Veränderung Flüssige Mittel:** 660 - 42 - 150 = **+468**
-
-**c) Indirekter Nachweis:**
-*   Reingewinn: 240
-*   + Abschreibungen: 120
-*   - Zunahme FLL: -40
-*   + Zunahme VLL (hier Abnahme, also minus): -20
-*   - Zunahme Warenvorrat: -30
-*   - Gewinn aus Anlagenverkauf (18 - 15): -3
-*   *(Korrektur/Abstimmung notwendig: 240+120-40-20-30-3 = 267. Achtung: In der Praxis müssen alle Barposten im Reingewinn enthalten sein).*
-
-**d) Free Cashflow:** 660 (CF Betrieb) - 42 (CF Invest) = **618**.
-
----
-
-### Lösung Aufgabe 2: Journalisierung
-1.  **Bank / a.o. Ertrag** 1'200 (Da Vorjahr abgeschlossen).
-2.  **Maschinen / VLL** 50'000; **Deb. Vorst. / VLL** 4'050; **VLL / Maschinen** 5'000; **VLL / Bank** 49'050.
-3.  **VLL / Bank** 3'800 (4k x 0.95); **VLL / Finanzerfolg** 120 (Kursgewinn).
-4.  **ARA / Raumaufwand** 6'000.
-
----
-
-### Lösung Aufgabe 3: Break-Even
-a) DB pro Stück = 75 - 45 = 30. Nutzschwelle = 90'000 / 30 = **3'000 Stück**.
-b) Der DB sinkt auf 25 (70 - 45). Die Nutzschwelle steigt (90'000 / 25 = 3'600 Stück). Man muss also 600 Stück mehr verkaufen, nur um die Fixkosten zu decken.
-
----
-
-### Experten-Tipps & Stolpersteine
-*   **GFR-Falle:** Eine *Zunahme* der FLL (Forderungen) ist ein *Minus* im Cashflow, da das Geld noch nicht auf dem Konto ist. Eine *Abnahme* der VLL (Kreditoren) ist ebenfalls ein *Minus*, da Geld abgeflossen ist, um Schulden zu tilgen.
-*   **Investitionsbereich:** Hier werden nur die *tatsächlichen* Zahlungen erfasst. Der Buchwert einer verkauften Maschine interessiert nur für den indirekten Nachweis (Gewinn/Verlust-Elimination).
-*   **MWST:** In der BM-Prüfung wird oft die Nettomethode verlangt. Achten Sie strikt auf "exkl." vs. "inkl.". Aktueller Satz 8.1% (seit 1.1.2024).
-
----
-
-### Notenskala (Linear, Note 4 bei 60%)
-*   25.0 Pkt: 6.0
-*   22.5 Pkt: 5.5
-*   20.0 Pkt: 5.0
-*   17.5 Pkt: 4.5
-*   **15.0 Pkt: 4.0**
-*   12.5 Pkt: 3.5
-*   10.0 Pkt: 3.0
