@@ -3,7 +3,6 @@ title: "Musterlösung zur Standortbestimmung"
 author: "Jacques Mock Schindler"
 date: "2026-02-16"
 date-format: "D. MMMM YYYY"
-image: "image.jpg"
 ---
 
 

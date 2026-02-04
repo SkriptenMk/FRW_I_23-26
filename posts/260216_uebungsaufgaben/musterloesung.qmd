@@ -1,0 +1,119 @@
+---
+title: "Musterlösung zum Warenhandel und den Forderungen"
+author: "Jacques Mock Schindler"
+date: "2026-02-16"
+date-format: "D. MMMM YYYY"
+---
+
+# Lösungen & Erklärungen
+
+| Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Kasse | Warenertrag | 1'000.00 | **Nettomethode:** Erst Ertrag, dann MWST trennen. |
+| | Kasse | Geschuldete MWST | 81.00 | (1'081 / 1.081 * 0.081 = 81) |
+| 2 | FLL | Warenertrag | 5'000.00 | "Exkl." bedeutet: MWST kommt noch dazu. |
+| | FLL | Geschuldete MWST | 405.00 | (5'000 * 0.081) |
+| 3 | VLL | Warenaufwand | 400.00 | Rücksendung = Umkehrung des Einkaufs. |
+| | VLL | Guthaben Vorsteuer | 32.40 | Vorsteuerkorrektur nicht vergessen! |
+| 4 | Warenertrag | FLL | 200.00 | Rücksendung Kunde = Ertragsminderung. |
+| | Geschuldete MWST | FLL | 16.20 | (216.20 / 1.081 * 0.081) |
+| 5 | Warenaufwand | Kasse | 50.00 | Bezugskosten erhöhen den Einstandspreis. |
+| 6 | Warenaufwand | VLL | 300.00 | Bücher unterliegen dem reduzierten Satz. |
+| | Guthaben Vorsteuer | VLL | 7.80 | (300 * 0.026) |
+| 7 | Warenertrag | FLL | 200.00 | Rabatt ist eine nachträgliche Ertragsminderung. |
+| | Geschuldete MWST | FLL | 16.20 | MWST-Korrektur auf dem Rabattbetrag. |
+| 8 | FLL | Warenertrag | 500.00 | Lebensmittel = 2.6%. |
+| | FLL | Geschuldete MWST | 13.00 | (513 / 1.026 * 0.026) |
+| 9 | Privat | Warenaufwand | 100.00 | Eigenverbrauch zum Einstandspreis (Gegenbuchung Aufwand). |
+| | Privat | Geschuldete MWST | 8.10 | Eigenverbrauch ist steuerpflichtig! |
+| 10 | VLL | Warenaufwand | 100.00 | Mängelrabatt = Aufwandminderung. |
+| | VLL | Guthaben Vorsteuer | 8.10 | (108.10 / 1.081 * 0.081) |
+| 11 | Geschuldete MWST | Guthaben Vorsteuer | 5'000.00 | Verrechnung der Vorsteuer mit der Umsatzsteuer. |
+| 12 | Geschuldete MWST | Bank | 7'000.00 | Zahlung der Restschuld (12'000 - 5'000). |
+| 13 | Warenaufwand | VLL | 10'000.00 | Standardbuchung Warenbezug. |
+| | Guthaben Vorsteuer | VLL | 810.00 | Vorsteuer auf 10'000. |
+| 14 | FLL | Warenertrag | 80.00 | Versandkosten an Kunden = Nebenertrag (Warenertrag). |
+| | FLL | Geschuldete MWST | 6.48 | MWST folgt der Hauptleistung. |
+| 15 | Kasse | Warenertrag | 200.00 | Ertrag zum reduzierten Satz. |
+| | Kasse | Geschuldete MWST | 5.20 | (200 * 0.026) |
+| 16 | Bank | FLL | 1'059.38 | Zahlung (1'081 * 98%). |
+| | Warenertrag | FLL | 20.00 | Skonto auf Netto-Basis (1'000 * 2%). |
+| | Geschuldete MWST | FLL | 1.62 | MWST-Korrektur auf dem Skonto (20 * 8.1%). |
+| 17 | VLL | Bank | 2'097.14 | Totalrechnung war 2'162.00 inkl. MWST. |
+| | VLL | Warenaufwand | 60.00 | Skonto (2'000 * 3%). |
+| | VLL | Guthaben Vorsteuer | 4.86 | MWST-Korrektur (60 * 8.1%). |
+| 18 | Bank | FLL | 4'750.00 | Zahlungseingang (5'000 - 5% von 5'000). |
+| | Warenertrag | FLL | 231.27 | Rabattanteil Netto (250 / 1.081). |
+| | Geschuldete MWST | FLL | 18.73 | MWST-Anteil auf Rabatt. |
+| 19 | VLL | Bank | 1'059.38 | (1'081 * 98%) |
+| | VLL | Warenaufwand | 20.00 | Netto-Skonto. |
+| | VLL | Guthaben Vorsteuer | 1.62 | Vorsteuer-Korrektur. |
+| 20 | Bank | FLL | 3'178.14 | (3'243 * 98%). |
+| | Warenertrag | FLL | 60.00 | Netto-Skonto (3'000 * 2%). |
+| | Geschuldete MWST | FLL | 4.86 | MWST-Korrektur. |
+| 21 | VLL | Post | 843.34 | Rechnung war 864.80. Rabatt 20 + 1.62 MWST. |
+| | VLL | Warenaufwand | 20.00 | Mängelrabatt mindert Einkaufspreis. |
+| | VLL | Guthaben Vorsteuer | 1.62 | Korrektur Vorsteuer. |
+| 22 | Bank | FLL | 388.00 | (400 * 97%). |
+| | Warenertrag | FLL | 11.10 | Netto-Skonto (12.00 / 1.081). |
+| | Geschuldete MWST | FLL | 0.90 | MWST-Anteil auf Skonto. |
+| 23 | Bank | FLL | 1'470.00 | Bei 1'500 ist MWST oft schon weg-gerechnet in Aufgaben. |
+| | Warenertrag | FLL | 27.75 | (30 / 1.081) |
+| | Geschuldete MWST | FLL | 2.25 | (30 - 27.75) |
+| 24 | VLL | Bank | 102.70 | (108.10 * 95%). |
+| | VLL | Warenaufwand | 5.00 | Skonto Netto (108.10 / 1.081 * 5%). |
+| | VLL | Guthaben Vorsteuer | 0.40 | Korrektur. |
+| 25 | Bank | FLL | 10'593.80 | Zahlung inkl. MWST (10'810 * 98%). |
+| | Warenertrag | FLL | 200.00 | Skonto Netto. |
+| | Geschuldete MWST | FLL | 16.20 | Skonto MWST. |
+| 26 | Verluste Ford. | FLL | 1'000.00 | Nettoverlust. |
+| | Geschuldete MWST | FLL | 81.00 | Rückbuchung der MWST (Staat zahlt zurück). |
+| 27 | Bank | Verluste Ford. | 500.00 | Rückbuchung im gleichen Jahr -> Konto Verluste. |
+| 28 | Bank | FLL | 400.00 | Erhaltene Zahlung. |
+| | Verluste Ford. | FLL | 555.04 | Netto-Abschreibung (600 / 1.081). |
+| | Geschuldete MWST | FLL | 44.96 | MWST-Rückbuchung auf Verlustanteil. |
+| 29 | Bank | a.o. Ertrag | 1'200.00 | **Wichtig:** Vorjahr abgeschlossen -> a.o. Ertrag. |
+| 30 | FLL | Kasse | 70.00 | Vorschuss erhöht die Forderung gegen den Kunden. |
+| 31 | Finanzaufwand | Kasse | 15.00 | Zinsen sind Finanzaufwand. |
+| 32 | Verluste Ford. | FLL | 2'000.00 | Netto-Betrag. |
+| | Geschuldete MWST | FLL | 162.00 | (2'162 / 1.081 * 0.081) |
+| 33 | Bank | a.o. Ertrag | 300.00 | Periodenfremder Ertrag. |
+| 34 | Bank | FLL | 2'000.00 | (20% von 10'000 + MWST-Anteil). |
+| | Verluste Ford. | FLL | 8'000.00 | Netto-Verlust. |
+| | Geschuldete MWST | FLL | 648.00 | Rückbuchung auf die 80% Verlust. |
+| 35 | Bank | Verluste Ford. | 400.00 | Da gleiches Jahr, Korrektur des Aufwandskontos. |
+| 36 | Verluste Ford. | FLL | 2'100.00 | 70% von 3'000. |
+| | Geschuldete MWST | FLL | 170.10 | (2'100 * 8.1%) |
+| 37 | Geschuldete MWST | FLL | 40.50 | (540.50 / 1.081 * 0.081) |
+| 38 | Bank | FLL | 100.00 | Rückzahlung des belasteten Vorschusses. |
+| 39 | Verluste Ford. | FLL | 1'000.00 | Netto-Verlust. |
+| | Geschuldete MWST | FLL | 81.00 | MWST-Korrektur. |
+| 40 | Bank | a.o. Ertrag | 800.00 | Klassiker für die Abschlussprüfung! |
+| 41 | Verluste Ford. | Delkredere | 3'000.00 | Erstmals = volle Bildung. |
+| 42 | Verluste Ford. | Delkredere | 1'000.00 | Ziel: 5'000. Vorhanden: 4'000. Differenz buchen. |
+| 43 | Delkredere | Verluste Ford. | 1'500.00 | Auflösung (Minderung) = Buchung umdrehen. |
+| 44 | Delkredere | Verluste Ford. | 1'000.00 | Ziel: 6'000 (3% v. 200k). Vorher: 7'000. |
+| 45 | Delkredere | Verluste Ford. | 500.00 | Senkung des mutmasslichen Verlusts. |
+| 46 | Verluste Ford. | Delkredere | 2'060.00 | Ziel: 5'060. Vorher: 3'000. Zunahme = 2'060. |
+| 47 | Verluste Ford. | Delkredere | 3'000.00 | Von 3'000 auf 6'000 -> Erhöhung um 3'000. |
+| 48 | Delkredere | Verluste Ford. | 1'200.00 | Komplette Auflösung. |
+| 49 | Verluste Ford. | Delkredere | 200.00 | Erhöhung um die Differenz. |
+| 50 | Delkredere | Verluste Ford. | 200.00 | Ziel: 4'000. Vorher: 4'200. Reduktion um 200. |
+
+---
+
+### 💡 Experten-Tipps & Stolpersteine (BM-Niveau)
+
+1.  **Nettomethode beachten:** In BM-Prüfungen ist die Nettomethode Standard. Das bedeutet, dass Rabatte, Skonti und Verluste immer **inklusive** einer MWST-Korrektur gebucht werden müssen, sofern der ursprüngliche Betrag MWST-pflichtig war.
+2.  **Skonto-Falle:** Der Skonto wird oft auf dem Bruttobetrag (inkl. MWST) berechnet, muss aber buchhalterisch in "Netto-Skonto" (Ertragsminderung) und "MWST-Anteil" (MWST-Korrektur) aufgeteilt werden.
+3.  **Delkredere (Wertberichtigung):**
+    *   Es wird immer nur die **Veränderung** (Differenz) zwischen dem alten Bestand und dem neuen Soll-Bestand gebucht.
+    *   Buchungssatz bei Erhöhung: `Verluste Forderungen / Delkredere`
+    *   Buchungssatz bei Verminderung: `Delkredere / Verluste Forderungen`
+4.  **Abschreibungen (Verluste):**
+    *   Zahlungseingang für Forderung aus dem **laufenden Jahr**: Buchung über `Verluste Forderungen`.
+    *   Zahlungseingang für Forderung aus dem **Vorjahr**: Buchung über `ausserordentlicher Ertrag`. Hier wird die MWST nicht mehr korrigiert, da der Steuerfall rechtlich im Vorjahr abgeschlossen wurde.
+5.  **Kostenvorschüsse:** Wenn wir für eine Betreibung bezahlen (`FLL / Kasse`), fordern wir dieses Geld vom Kunden zurück. Es ist also kein Aufwand, sondern eine Erhöhung der Forderung. Erst wenn der Kunde definitiv nicht zahlt, wird dieser Betrag zusammen mit der Warenforderung abgeschrieben.
+6.  
+
+[$\leftarrow$ Zurück zur Hauptseite](index.qmd)

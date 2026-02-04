@@ -1,0 +1,78 @@
+---
+title: "Aufgaben zum Warenhandel, MWSt und zu den Forderungen"
+author: "Jacques Mock Schindler"
+date: "2026-02-16"
+date-format: "D. MMMM YYYY"
+categories: [Buchungssätze, Warenhandel, Forderungen, MWSt]
+image: "image.jpg"
+---
+
+Die folgenden Aufgaben dienen der Repetition der Verbuchung von
+Geschäftsfällen aus dem Warenhandel. Sie behandeln insbesondere die
+Mehrwertsteuer und die Debitorenbuchhaltung.
+
+
+### I. Warenhandel & MWST (Aufgaben 1–15)
+
+1. Barverkauf von Handelswaren, CHF 1'081 inkl. 8.1% MWST.
+2. Kreditverkauf von Waren, CHF 5'000 exkl. 8.1% MWST.
+3. Wir senden dem Lieferanten Waren im Wert von CHF 400 (exkl. 8.1% MWST) zurück (Kreditkauf).
+4. Ein Kunde sendet uns Waren für CHF 216.20 (inkl. 8.1% MWST) zurück (Kreditverkauf).
+5. Bezugskosten für eine Warenlieferung werden bar bezahlt, CHF 50 (MWST vernachlässigen).
+6. Kreditkauf von Büchern (reduzierter Satz 2.6%), CHF 300 exkl. MWST.
+7. Wir gewähren einem Kunden nachträglich 10% Rabatt auf eine Rechnung von CHF 2'000 (exkl. MWST).
+8. Verkauf von Lebensmitteln (2.6% MWST) gegen Rechnung, CHF 513.00 inkl. MWST.
+9. Warenbezug des Inhabers für private Zwecke, CHF 100 (exkl. 8.1% MWST).
+10. Wir erhalten eine Gutschrift für einen Mängelrabatt vom Lieferanten, CHF 108.10 inkl. 8.1% MWST.
+11. Verbuchung der MWST-Abrechnung: Verrechnung Vorsteuer (CHF 5'000) mit der Umsatzsteuer (CHF 12'000).
+12. Überweisung der MWST-Schuld an die Eidg. Steuerverwaltung per Bank.
+13. Kreditkauf von Waren, CHF 10'000 exkl. 8.1% MWST.
+14. Frachtkosten für einen Warenverkauf gehen zu unseren Lasten und werden dem Kunden direkt auf der Rechnung belastet, CHF 80 (exkl. MWST).
+15. Barverkauf von Waren zum reduzierten Satz, CHF 200 exkl. 2.6% MWST.
+
+### II. Zahlungsverkehr & Skonto (Aufgaben 16–25)
+
+16. Kunde bezahlt Rechnung von CHF 1'081 (inkl. 8.1% MWST) unter Abzug von 2% Skonto per Bank. (Bruttomethode für Skonto).
+17. Wir bezahlen eine Lieferantenrechnung von CHF 2'000 (exkl. 8.1% MWST) unter Abzug von 3% Skonto per Bank.
+18. Bankgutschrift eines Kunden für eine Rechnung von CHF 5'000. Er hat eigenmächtig 5% Rabatt abgezogen. Wir akzeptieren dies. (MWST 8.1% ist im Rechnungsbetrag enthalten).
+19. Zahlung einer Warenrechnung (CHF 1'000 exkl. MWST) per Bank. Wir ziehen 2% Skonto ab.
+20. Ein Kunde begleicht eine Rechnung von CHF 3'243 (inkl. 8.1% MWST) abzüglich 2% Skonto per Bank.
+21. Wir begleichen eine Rechnung über CHF 800 (exkl. 8.1% MWST) nach Abzug von CHF 20 Mängelrabatt per Post.
+22. Ein Kunde zahlt eine Rechnung von CHF 400. Wir gewähren ihm 3% Skonto (8.1% MWST enthalten).
+23. Ausgleich einer FLL-Position über CHF 1'500 durch Bankzahlung unter Abzug von 2% Skonto.
+24. Bezahlung von Frachtspesen (VLL) über CHF 108.10 (inkl. 8.1% MWST) unter Abzug von 5% Skonto per Bank.
+25. Ein Kunde bezahlt eine Netto-Rechnung von CHF 10'000 (MWST 8.1% bereits gebucht) nach Abzug von 2% Skonto per Bank.
+
+### III. Verluste Forderungen & Inkasso (Aufgaben 26–40)
+
+26. Ein Kunde ist zahlungsunfähig. Die Forderung von CHF 1'081 (inkl. 8.1% MWST) wird definitiv abgeschrieben.
+27. Bankzahlung für eine bereits abgeschriebene Forderung (gleiches Jahr), CHF 500.
+28. Inkasso einer Forderung durch das Betreibungsamt: Wir erhalten CHF 400 per Bank, für den Rest von CHF 600 erhalten wir einen Verlustschein (MWST 8.1% inbegriffen).
+29. Ein im Vorjahr abgeschriebener Kunde überweist überraschend CHF 1'200 auf unser Bankkonto.
+30. Wir bezahlen den Kostenvorschuss für eine Betreibung, CHF 70 bar.
+31. Das Betreibungsamt belastet uns Verzugszinsen von CHF 15 (Barzahlung).
+32. Abschluss einer Forderung von CHF 2'162 (inkl. 8.1% MWST) infolge Konkurs (Totalverlust).
+33. Ein Kunde überweist CHF 300 für eine Forderung, die wir vor zwei Jahren abgeschrieben haben.
+34. Bankgutschrift einer Konkursdividende von 20% auf eine Forderung von CHF 10'000 (exkl. 8.1% MWST). Der Rest ist abzuschreiben.
+35. Ein Verlustschein aus dem aktuellen Jahr über CHF 400 wird durch Banküberweisung des Kunden doch noch bezahlt.
+36. Definitive Absage eines Nachlassvertrags: Forderung CHF 3'000 (exkl. MWST) muss zu 70% abgeschrieben werden.
+37. Rückbuchung der MWST bei einer definitiven Abschreibung von CHF 540.50 (inkl. 8.1% MWST).
+38. Kunde Müller zahlt die Betreibungskosten von CHF 100, die wir ihm belastet hatten, per Bank zurück.
+39. Eine Forderung aus einem Kreditverkauf (CHF 1'000 exkl. 8.1% MWST) wird im gleichen Jahr uneinbringlich.
+40. Zahlungseingang auf dem Bankkonto für eine Forderung (CHF 800), die im Vorjahr abgeschrieben wurde.
+
+### IV. Wertberichtigungen (Delkredere) (Aufgaben 41–50)
+
+41. Erstmals wird Ende Jahr eine Wertberichtigung auf den FLL von CHF 3'000 gebildet.
+42. Der FLL-Bestand Ende Jahr beträgt CHF 100'000. Die Wertberichtigung soll neu 5% betragen (Bisheriger Bestand Delkredere: CHF 4'000).
+43. Der FLL-Bestand sinkt. Wir reduzieren das Delkredere von CHF 6'000 auf CHF 4'500.
+44. Anpassung Delkredere: Endbestand FLL CHF 200'000, mutmasslicher Verlust 3%. Das Konto Delkredere zeigt einen Vorbestand von CHF 7'000.
+45. Das Delkredere (Anfangsbestand CHF 2'000) muss aufgrund eines tieferen FLL-Bestandes um CHF 500 gesenkt werden.
+46. FLL-Bestand am 31.12.: CHF 50'600. Das Delkredere soll 10% betragen. Vorbestand: CHF 3'000.
+47. Wir erhöhen die Wertberichtigung auf Forderungen von 2% auf 4%. FLL-Bestand unverändert CHF 150'000.
+48. Vollständige Auflösung des Delkredere am Jahresende (Bestand CHF 1'200), da alle Kunden als sicher gelten.
+49. Der mutmassliche Forderungsverlust wird von CHF 800 auf CHF 1'000 angepasst.
+50. Anpassung Delkredere: FLL-Schlussbestand CHF 80'000. Gewünschte Wertberichtigung 5%. Das Konto Delkredere hat im Moment einen Saldo von CHF 4'200.
+
+[$\rightarrow$ Musterlösung](musterloesung.qmd)
+
