@@ -61,7 +61,7 @@ Diese Formeln decken die wesentlichen Bereiche der BM-Pr체fungen (Finanzielle F�
 Die "Swiss-Tech AG" (Handelsbetrieb) weist f체r das Jahr 2025 folgende summarische Daten aus (Betr채ge in CHF 1'000):
 
 | Nr. | Sachverhalt | Betrag |
-| :--- | :--- | :--- |
+| :--- | :--- | ---: |
 | 1 | Warenverk채ufe auf Kredit | 2'400 |
 | 2 | Zunahme FLL (Debitoren) | 40 |
 | 3 | Wareneink채ufe auf Kredit (Einstandswert) | 950 |
@@ -74,6 +74,8 @@ Die "Swiss-Tech AG" (Handelsbetrieb) weist f체r das Jahr 2025 folgende summarisc
 | 10 | R체ckzahlung eines langfristigen Darlehens | 100 |
 | 11 | Barbezug von Dividenden durch die Aktion채re | 50 |
 | 12 | Reingewinn gem채ss Erfolgsrechnung | 240 |
+
+:  {tbl-colwidths="[20,60,20]"}
 
 **Aufgaben:**
 
