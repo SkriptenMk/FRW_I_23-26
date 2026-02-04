@@ -24,30 +24,31 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 18.02.2026 | Staatsverschuldung I |
-| 20.02.2026 | Staatsverschuldung II |
-| 25.02.2026 | Staatsverschuldung III |
-| 27.02.2026 | Arbeitslosigkeit I |
-| 04.03.2026 | Arbeitslosigkeit II |
-| 06.03.2026 | Arbeitslosigkeit III |
-| 11.03.2026 | Übung und Vertiefung |
-| 13.03.2026 | LEISTUNGSNACHWEIS 1 |
-| 18.03.2026 | Aussenwirtschaft I |
-| 20.03.2026 | Aussenwirtschaft II |
-| 25.03.2026 | Aussenwirtschaft III |
-| 27.03.2026 | Wechselkurse I |
-| 01.04.2026 | Wechselkurse II |
-| 08.04.2026 | Zahlungsbilanz I |
-| 10.04.2026 | Zahlungsbilanz II |
-| 15.04.2026 | Übung Aussenwirtschaft |
-| 17.04.2026 | LEISTUNGSNACHWEIS 2 |
-| 06.05.2026 |  |
-| 08.05.2026 |  |
-| 13.05.2026 |  |
-| 15.05.2026 |  |
-| 20.05.2026 |  |
-| 22.05.2026 |  |
-| 27.05.2026 |  |
+| 16.02.2026 | Einführung & Standortbestimmung |
+| 19.02.2026 | Finanzbuchhaltung I - Grundbuchungen |
+| 26.02.2026 | Finanzbuchhaltung II - Fremdwährungen & Lohn |
+| 02.03.2026 | Finanzbuchhaltung III - Abschluss & Abgrenzungen |
+| 05.03.2026 | Stille Reserven I - Bildung und Auflösung |
+| 09.03.2026 | Stille Reserven II - Übung & Vertiefung |
+| 12.03.2026 | 1. LEISTUNGSNACHWEIS |
+| 16.03.2026 | Unternehmensanalyse I - Kennzahlen berechnen |
+| 19.03.2026 | Unternehmensanalyse II - Kennzahlen interpretieren |
+| 23.03.2026 | Geldflussrechnung I - Direkte Methode |
+| 26.03.2026 | Geldflussrechnung II - Indirekte Methode |
+| 30.03.2026 | Capol |
+| 02.04.2026 | Geldflussrechnung III - Investition & Finanzierung |
+| 09.04.2026 | Kostenrechnung I - BAB Grundlagen |
+| 13.04.2026 | Kostenrechnung II - Umlagen & Zuschläge |
+| 16.04.2026 | Kostenrechnung III - BAB komplett |
+| 04.05.2026 | Break-even I - Grundlagen & Grafik |
+| 07.05.2026 | 2. LEISTUNGSNACHWEIS |
+| 11.05.2026 | Prüfungsbesprechung + Generalrepetition I |
+| 18.05.2026 | Generalrepetition II - GFR & Unternehmensanalyse |
+| 21.05.2026 | Generalrepetition III - Kostenrechnung |
+| 25.05.2026 | Generalrepetition IV - Break-even & Gesamtrepetition |
+| 28.05.2026 | Abschluss & Prüfungstipps |
+| 04.06.2026 | Abschlussprüfung |
+
 
 
 
