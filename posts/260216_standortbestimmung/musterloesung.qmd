@@ -84,4 +84,4 @@ b. Der DB sinkt auf 25 (70 - 45). Die Nutzschwelle steigt (90'000 / 25 =
 *   12.5 Pkt: 3.5
 *   10.0 Pkt: 3.0
   
-[<- Zurück zur Hauptseite](index.qmd)
+[$\leftarrow$ Zurück zur Hauptseite](index.qmd)
