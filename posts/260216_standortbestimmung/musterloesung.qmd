@@ -12,30 +12,36 @@ image: "image.jpg"
 ### Lösung Aufgabe 1: Geldflussrechnung
 
 **a) Betriebstätigkeit (direkt):**
+
 *   Zahlungen von Kunden: 2'400 (Umsatz) - 40 (Zunahme FLL) = **2'360**
 *   Zahlungen an Lieferanten: 950 (Einkauf) + 30 (Zunahme Vorrat) + 20 (Abnahme VLL) = **-1'000**
 *   Lohnzahlungen: **-700**
 *   **Cashflow = 660**
 
 **b) Investition & Finanzierung:**
+
 *   **Investition:** +18 (Verkauf Maschine) - 60 (Kauf EDV) = **-42 (Mittelabfluss)**
 *   **Finanzierung:** -100 (Darlehen) - 50 (Dividenden) = **-150 (Mittelabfluss)**
 *   **Veränderung Flüssige Mittel:** 660 - 42 - 150 = **+468**
 
 **c) Indirekter Nachweis:**
+
 *   Reingewinn: 240
 *   + Abschreibungen: 120
 *   - Zunahme FLL: -40
 *   + Zunahme VLL (hier Abnahme, also minus): -20
 *   - Zunahme Warenvorrat: -30
 *   - Gewinn aus Anlagenverkauf (18 - 15): -3
-*   *(Korrektur/Abstimmung notwendig: 240+120-40-20-30-3 = 267. Achtung: In der Praxis müssen alle Barposten im Reingewinn enthalten sein).*
+  
+  *(Korrektur/Abstimmung notwendig: 240+120-40-20-30-3 = 267. Achtung:
+    In der Praxis müssen alle Barposten im Reingewinn enthalten sein).* 
 
 **d) Free Cashflow:** 660 (CF Betrieb) - 42 (CF Invest) = **618**.
 
 ---
 
-### Lösung Aufgabe 2: Journalisierung
+### Lösung Aufgabe 2: Buchungssätze
+
 1.  **Bank / a.o. Ertrag** 1'200 (Da Vorjahr abgeschlossen).
 2.  **Maschinen / VLL** 50'000; **Deb. Vorst. / VLL** 4'050; **VLL / Maschinen** 5'000; **VLL / Bank** 49'050.
 3.  **VLL / Bank** 3'800 (4k x 0.95); **VLL / Finanzerfolg** 120 (Kursgewinn).
@@ -44,15 +50,29 @@ image: "image.jpg"
 ---
 
 ### Lösung Aufgabe 3: Break-Even
-a) DB pro Stück = 75 - 45 = 30. Nutzschwelle = 90'000 / 30 = **3'000 Stück**.
-b) Der DB sinkt auf 25 (70 - 45). Die Nutzschwelle steigt (90'000 / 25 = 3'600 Stück). Man muss also 600 Stück mehr verkaufen, nur um die Fixkosten zu decken.
+
+a. DB pro Stück = 75 - 45 = 30. Nutzschwelle = 90'000 / 30 = **3'000
+   Stück**.
+
+b. Der DB sinkt auf 25 (70 - 45). Die Nutzschwelle steigt (90'000 / 25 =
+   3'600 Stück). Man muss also 600 Stück mehr verkaufen, nur um die
+   Fixkosten zu decken. 
 
 ---
 
 ### Experten-Tipps & Stolpersteine
-*   **GFR-Falle:** Eine *Zunahme* der FLL (Forderungen) ist ein *Minus* im Cashflow, da das Geld noch nicht auf dem Konto ist. Eine *Abnahme* der VLL (Kreditoren) ist ebenfalls ein *Minus*, da Geld abgeflossen ist, um Schulden zu tilgen.
-*   **Investitionsbereich:** Hier werden nur die *tatsächlichen* Zahlungen erfasst. Der Buchwert einer verkauften Maschine interessiert nur für den indirekten Nachweis (Gewinn/Verlust-Elimination).
-*   **MWST:** In der BM-Prüfung wird oft die Nettomethode verlangt. Achten Sie strikt auf "exkl." vs. "inkl.". Aktueller Satz 8.1% (seit 1.1.2024).
+
+*   **GFR-Falle:** Eine *Zunahme* der FLL (Forderungen) ist ein *Minus*
+    im Cashflow, da das Geld noch nicht auf dem Konto ist. Eine
+    *Abnahme* der VLL (Kreditoren) ist ebenfalls ein *Minus*, da Geld
+    abgeflossen ist, um Schulden zu tilgen. 
+*   **Investitionsbereich:** Hier werden nur die *tatsächlichen*
+    Zahlungen erfasst. Der Buchwert einer verkauften Maschine
+    interessiert nur für den indirekten Nachweis
+    (Gewinn/Verlust-Elimination). 
+*   **MWST:** In der BM-Prüfung wird oft die Nettomethode verlangt.
+    Achten Sie strikt auf "exkl." vs. "inkl.". Aktueller Satz 8.1% (seit
+    1.1.2024). 
 
 ---
 
