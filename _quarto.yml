@@ -23,7 +23,6 @@ format:
     documentclass: scrartcl
     classoption: a4paper
     toc: false
-    include-in-header: preamble.tex
     code-line-numbers: true 
     mainfont: "TeX Gyre Termes"
     monofont: "TeX Gyre Cursor"

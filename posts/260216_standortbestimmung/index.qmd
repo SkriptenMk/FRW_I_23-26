@@ -3,7 +3,7 @@ title: "Standortbestimmung"
 author: "Jacques Mock Schindler"
 date: "2026-02-16"
 date-format: "D. MMMM YYYY"
-image: "image.jpg"
+image: "image.png"
 ---
 
 Die folgenden Aufgaben dienen der Abklärung des Wissenstandes. Sie
