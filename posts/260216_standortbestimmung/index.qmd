@@ -14,17 +14,44 @@ sollen helfen, gezielt Lücken zu identifizieren.
 Diese Formeln decken die wesentlichen Bereiche der BM-Prüfungen (Finanzielle Führung) ab.
 
 ### Liquidität
-*   **Liquiditätsgrad 1 (Cash Ratio):** $\frac{\text{Flüssige Mittel} \times 100}{\text{Kurzfristiges Fremdkapital}}$ (Ziel: 10–30%)
-*   **Liquiditätsgrad 2 (Quick Ratio):** $\frac{(\text{Flüssige Mittel} + \text{Forderungen}) \times 100}{\text{Kurzfristiges Fremdkapital}}$ (Ziel: mind. 100%)
-*   **Liquiditätsgrad 3 (Current Ratio):** $\frac{\text{Umlaufvermögen} \times 100}{\text{Kurzfristiges Fremdkapital}}$ (Ziel: 150–200%)
+*   **Liquiditätsgrad 1 (Cash Ratio):** 
+    $$
+    \frac{\text{Flüssige Mittel} \times 100}{\text{Kurzfristiges
+    Fremdkapital}}
+    $$
+*   **Liquiditätsgrad 2 (Quick Ratio):** 
+    $$
+    \frac{(\text{Flüssige Mittel} + \text{Forderungen}) \times
+    100}{\text{Kurzfristiges Fremdkapital}}
+    $$
+*   **Liquiditätsgrad 3 (Current Ratio):** 
+    $$
+    \frac{\text{Umlaufvermögen} \times 100}{\text{Kurzfristiges
+    Fremdkapital}}
+    $$
 
 ### Sicherheit / Finanzierung
-*   **Eigenfinanzierungsgrad:** $\frac{\text{Eigenkapital} \times 100}{\text{Gesamtkapital}}$ (Ziel: 30–60%)
-*   **Anlagedeckungsgrad 2 (Goldene Bilanzregel):** $\frac{(\text{Eigenkapital} + \text{langfr. Fremdkapital}) \times 100}{\text{Anlagevermögen}}$ (Ziel: > 100%)
+*   **Eigenfinanzierungsgrad:** 
+    $$
+    \frac{\text{Eigenkapital} \times 100}{\text{Gesamtkapital}}
+    $$
+*   **Anlagedeckungsgrad 2 (Goldene Bilanzregel):** 
+    $$
+    \frac{(\text{Eigenkapital} + \text{langfr. Fremdkapital}) \times
+    100}{\text{Anlagevermögen}}
+    $$
 
 ### Rentabilität
-*   **Eigenkapitalrendite (ROE):** $\frac{\text{Reingewinn} \times 100}{\text{Durchschnittliches Eigenkapital}}$
-*   **Gesamtkapitalrendite (ROI):** $\frac{(\text{Reingewinn} + \text{Fremdkapitalzinsen}) \times 100}{\text{Durchschnittliches Gesamtkapital}}$
+*   **Eigenkapitalrendite (ROE):** 
+    $$
+    \frac{\text{Reingewinn} \times 100}{\text{Durchschnittliches
+    Eigenkapital}}
+    $$
+*   **Gesamtkapitalrendite (ROI):** 
+    $$
+    \frac{(\text{Reingewinn} + \text{Fremdkapitalzinsen}) \times
+    100}{\text{Durchschnittliches Gesamtkapital}}
+    $$
 
 ---
 
@@ -49,6 +76,7 @@ Die "Swiss-Tech AG" (Handelsbetrieb) weist für das Jahr 2025 folgende summarisc
 | 12 | Reingewinn gemäss Erfolgsrechnung | 240 |
 
 **Aufgaben:**
+
 1. Erstellen Sie die Geldflussrechnung mit direktem Ausweis des Cashflows (Betriebsbereich). (4 Pkt.)
 2.  Erstellen Sie den Investitions- und Finanzierungsbereich. (4 Pkt.)
 3. Zeigen Sie den Cashflow indirekt (Nachweis) auf. (3 Pkt.)
