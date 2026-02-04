@@ -80,9 +80,9 @@ Die "Swiss-Tech AG" (Handelsbetrieb) weist für das Jahr 2025 folgende summarisc
 **Aufgaben:**
 
 1. Erstellen Sie die Geldflussrechnung mit direktem Ausweis des Cashflows (Betriebsbereich). (4 Pkt.)
-2.  Erstellen Sie den Investitions- und Finanzierungsbereich. (4 Pkt.)
+2. Erstellen Sie den Investitions- und Finanzierungsbereich. (4 Pkt.)
 3. Zeigen Sie den Cashflow indirekt (Nachweis) auf. (3 Pkt.)
-4.  Wie hoch ist der **Free Cashflow**? (1 Pkt.)
+4. Wie hoch ist der Free Cashflow? (1 Pkt.)
 
 ---
 
@@ -95,6 +95,8 @@ Verbuchen Sie folgende Fälle für die "Alpina AG". Verwenden Sie KMU-Konten. (M
 | 2 | Kauf einer Maschine für CHF 50'000 (exkl. 8.1% MWST). Die alte Maschine (Buchwert 0) wird für CHF 5'000 an Zahlung genommen. Rest per Bank. | | | |
 | 3 | Wir begleichen eine Rechnung aus Deutschland über EUR 4'000. Einbuchungskurs war 0.98. Tageskurs bei Bankzahlung: 0.95. | | | |
 | 4 | Abgrenzung am 31.12.: Wir haben die Büromiete für Jan. und Feb. im Voraus bezahlt (total CHF 6'000). | | | |
+
+:  {tbl-colwidths="[5,30,25,15,15]"}
 
 ---
 
