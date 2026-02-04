@@ -1,0 +1,11 @@
+---
+title: "Standortbestimmung"
+author: "Jacques Mock Schindler"
+date: "2026-02-16"
+date-format: "D. MMMM YYYY"
+image: "image.jpg"
+---
+
+Die folgenden Aufgaben dienen der Abklärung des Wissenstandes. Sie
+sollen helfen, gezielt Lücken zu identifizieren.
+
