@@ -109,4 +109,4 @@ Ein Produkt hat variable Kosten von CHF 45.- und einen Verkaufspreis von CHF 75.
    Deckungsbeitrag und der Nutzschwelle? (Kurze Begründung). (3
    Pkt.) 
 
-[$\rightarrow$ Musterlösung](musterloesung.qmd)
+[$\rightarrow$ Musterlösung](musterloesung.qmd) 
