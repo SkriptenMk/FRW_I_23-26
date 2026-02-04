@@ -106,6 +106,5 @@ Ein Produkt hat variable Kosten von CHF 45.- und einen Verkaufspreis von CHF 75.
 1. Berechnen Sie die Nutzschwelle (mengenmässig) pro Monat. (2 Pkt.)
 2. Die Geschäftsleitung entscheidet, den Verkaufspreis auf CHF 70.- zu
    senken, um den Absatz zu steigern. Was passiert mit dem
-   **Deckungsbeitrag** und der **Nutzschwelle**? (Kurze Begründung). (3
+   Deckungsbeitrag und der Nutzschwelle? (Kurze Begründung). (3
    Pkt.) 
-
