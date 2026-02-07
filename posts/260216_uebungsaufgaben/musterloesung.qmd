@@ -7,7 +7,7 @@ date-format: "D. MMMM YYYY"
 
 # Lösungen & Erklärungen
 
-### I. Warenhandel & MWST (Lösungen 1–15)
+### I. Warenhandel & MWST (Lösungen 1–15) {#sec-lmwst}
 
 | Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ date-format: "D. MMMM YYYY"
 | 15 | Kasse | Warenertrag | 200.00 | Ertrag zum reduzierten Satz. |
 | | Kasse | Geschuldete MWST | 5.20 | (200 * 0.026) |
 
-### II. Zahlungsverkehr & Skonto (Lösungen 16–25)
+### II. Zahlungsverkehr & Skonto (Lösungen 16–25) {#sec-lzahlungsverkehr}
 
 | Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -74,7 +74,7 @@ date-format: "D. MMMM YYYY"
 | | Warenertrag | FLL | 200.00 | Skonto Netto. |
 | | Geschuldete MWST | FLL | 16.20 | Skonto MWST. |
 
-### III. Verluste Forderungen & Inkasso (Lösungen 26–40)
+### III. Verluste Forderungen & Inkasso (Lösungen 26–40) {#sec-lverluste-forderungen}
 
 | Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ date-format: "D. MMMM YYYY"
 | | Geschuldete MWST | FLL | 81.00 | MWST-Korrektur. |
 | 40 | Bank | a.o. Ertrag | 800.00 | Klassiker für die Abschlussprüfung! |
 
-### IV. Wertberichtigungen (Delkredere) (Lösungen 41–50)
+### IV. Wertberichtigungen (Delkredere) (Lösungen 41–50) {#sec-ldelkredere}
 
 | Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
 | :--- | :--- | :--- | :--- | :--- |
