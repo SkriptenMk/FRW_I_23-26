@@ -12,7 +12,7 @@ Geschäftsfällen aus dem Warenhandel. Sie behandeln insbesondere die
 Mehrwertsteuer und die Debitorenbuchhaltung.
 
 
-### I. Warenhandel & MWST (Aufgaben 1–15) {#sec-mwst}
+### I. Warenhandel & MWST (Aufgaben 1–15) {#sec-mwst} 
 
 1. Barverkauf von Handelswaren, CHF 1'081 inkl. 8.1% MWST.
 2. Kreditverkauf von Waren, CHF 5'000 exkl. 8.1% MWST.
