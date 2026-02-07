@@ -7,6 +7,8 @@ date-format: "D. MMMM YYYY"
 
 # Lösungen & Erklärungen
 
+### I. Warenhandel & MWST (Lösungen 1–15)
+
 | Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Kasse | Warenertrag | 1'000.00 | **Nettomethode:** Erst Ertrag, dann MWST trennen. |
@@ -36,6 +38,11 @@ date-format: "D. MMMM YYYY"
 | | FLL | Geschuldete MWST | 6.48 | MWST folgt der Hauptleistung. |
 | 15 | Kasse | Warenertrag | 200.00 | Ertrag zum reduzierten Satz. |
 | | Kasse | Geschuldete MWST | 5.20 | (200 * 0.026) |
+
+### II. Zahlungsverkehr & Skonto (Lösungen 16–25)
+
+| Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
+| :--- | :--- | :--- | :--- | :--- |
 | 16 | Bank | FLL | 1'059.38 | Zahlung (1'081 * 98%). |
 | | Warenertrag | FLL | 20.00 | Skonto auf Netto-Basis (1'000 * 2%). |
 | | Geschuldete MWST | FLL | 1.62 | MWST-Korrektur auf dem Skonto (20 * 8.1%). |
@@ -66,6 +73,11 @@ date-format: "D. MMMM YYYY"
 | 25 | Bank | FLL | 10'593.80 | Zahlung inkl. MWST (10'810 * 98%). |
 | | Warenertrag | FLL | 200.00 | Skonto Netto. |
 | | Geschuldete MWST | FLL | 16.20 | Skonto MWST. |
+
+### III. Verluste Forderungen & Inkasso (Lösungen 26–40)
+
+| Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
+| :--- | :--- | :--- | :--- | :--- |
 | 26 | Verluste Ford. | FLL | 1'000.00 | Nettoverlust. |
 | | Geschuldete MWST | FLL | 81.00 | Rückbuchung der MWST (Staat zahlt zurück). |
 | 27 | Bank | Verluste Ford. | 500.00 | Rückbuchung im gleichen Jahr -> Konto Verluste. |
@@ -89,6 +101,11 @@ date-format: "D. MMMM YYYY"
 | 39 | Verluste Ford. | FLL | 1'000.00 | Netto-Verlust. |
 | | Geschuldete MWST | FLL | 81.00 | MWST-Korrektur. |
 | 40 | Bank | a.o. Ertrag | 800.00 | Klassiker für die Abschlussprüfung! |
+
+### IV. Wertberichtigungen (Delkredere) (Lösungen 41–50)
+
+| Nr. | Soll | Haben | Betrag | Erklärung / Besonderheit |
+| :--- | :--- | :--- | :--- | :--- |
 | 41 | Verluste Ford. | Delkredere | 3'000.00 | Erstmals = volle Bildung. |
 | 42 | Verluste Ford. | Delkredere | 1'000.00 | Ziel: 5'000. Vorhanden: 4'000. Differenz buchen. |
 | 43 | Delkredere | Verluste Ford. | 1'500.00 | Auflösung (Minderung) = Buchung umdrehen. |
