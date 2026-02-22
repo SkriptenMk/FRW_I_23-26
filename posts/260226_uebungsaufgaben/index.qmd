@@ -1,0 +1,8 @@
+---
+title: "Aufgaben zum Warenhandel, MWSt und zu den Forderungen"
+author: "Jacques Mock Schindler"
+date: "2026-02-26"
+date-format: "D. MMMM YYYY"
+categories: [Buchungssätze, Personal, Sozialversicherungen, Fremdwährungen]
+image: "image.jpg"
+---
