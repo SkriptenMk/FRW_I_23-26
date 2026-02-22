@@ -461,13 +461,3 @@ Nachzahlung: CHF 49'300 – CHF 48'000 = CHF 1'300.00
 
 ---
 
-## Zusammenfassung Punkteverteilung
-
-| Teil | Aufgaben | Punkte |
-|---|---|---|
-| A – Devisen | 1–10 | 11.5 |
-| B – Lohnabrechnungen | 11–20 | 12.0 |
-| C – Sozialversicherungen | 21–30 | 11.5 |
-| **Total** | **30** | **35.0** |
-
----
