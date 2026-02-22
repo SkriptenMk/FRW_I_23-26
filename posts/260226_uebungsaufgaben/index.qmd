@@ -1,0 +1,245 @@
+---
+title: "Aufgaben zur Lohnbuchhaltung und zu Fremdwährungen"
+author: "Jacques Mock Schindler"
+date: "2026-02-26"
+date-format: "D. MMMM YYYY"
+categories: [Buchungssätze, Personal, Sozialversicherungen, Fremdwährungen]
+image: "image.png"
+---
+
+Die folgenden Aufgaben dienen der Repetition der Verbuchung von
+Geschäftsfällen aus der Lohnbuchhaltung und der Verbuchung von
+Geschäftsfällen in fremden Währungen.
+
+
+**Hinweise:**
+- Alle Beträge in CHF, sofern nicht anders angegeben.
+- Rundung auf CHF 0.05 (kaufmännisch).
+- [Kontenrahmen KMU (Schweiz)](https://www.kmu.admin.ch/dam/kmu/de/dokumente/savoir-pratique/Finances/240812%20Schulkontenrahmen%20VEB%20-%20DE.pdf.download.pdf/240812%20Schulkontenrahmen%20VEB%20-%20DE.pdf).
+- Abkürzungen: AG = Arbeitgeber, AN = Arbeitnehmer.
+
+**Relevante Sozialversicherungssätze (für alle Aufgaben):**
+
+| Versicherung | AN-Anteil | AG-Anteil |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 5.30 % |
+| ALV | 1.10 % | 1.10 % |
+| NBU | 1.40 % | – |
+| BU | – | 0.80 % |
+| KTG | 0.50 % | 0.50 % |
+| BVG | Gemäss Angabe | Gemäss Angabe |
+
+---
+
+## Teil A: Devisen (Aufgaben 1–10)
+
+**Aufgabe 1**   
+Wir kaufen bei unserer Bank EUR 5'000 zum Kurs von 0.9520.
+Tagesbilanzstichtagkurs: 0.9480.
+Verbuche den Kauf.
+
+---
+
+**Aufgabe 2**   
+Wir verkaufen USD 8'000 zum Kurs von 0.8850.
+Buchwert des USD-Bestandes: USD 8'000 zu 0.8910.
+Verbuche den Verkauf inkl. Kursdifferenz.
+
+---
+
+**Aufgabe 3**   
+Ein Kunde bezahlt unsere Rechnung über EUR 12'000. Fakturakurs: 0.9600.
+Eingang auf unserem EUR-Bankkonto zum Tageskurs von 0.9540.
+Verbuche den Zahlungseingang.
+
+---
+
+**Aufgabe 4**   
+Wir bezahlen eine Lieferantenrechnung über USD 6'500. Fakturakurs: 0.8780.
+Zahlung ab USD-Bankkonto zum Tageskurs von 0.8830.
+Verbuche die Zahlung.
+
+---
+
+**Aufgabe 5**   
+Am Bilanzstichtag beträgt unser EUR-Bestand EUR 20'000 (Buchwert: CHF 19'200).
+Stichtagskurs: 0.9480.
+Verbuche die Kursbewertung per Bilanzstichtag.
+
+---
+
+**Aufgabe 6**    
+Wir erhalten eine Rechnung eines französischen Lieferanten über EUR 15'000.
+Tageskurs: 0.9550. Verbuche den Rechnungseingang.
+Zwei Wochen später bezahlen wir die Rechnung ab unserem CHF-Bankkonto.
+Tageskurs: 0.9610. Verbuche die Zahlung.
+
+---
+
+**Aufgabe 7**   
+Wir stellen einem US-Kunden eine Rechnung über USD 10'000.
+Tageskurs: 0.8760.
+Verbuche die Rechnungsstellung.
+
+---
+
+**Aufgabe 8**   
+Ein britischer Kunde überweist GBP 4'000 auf unser GBP-Konto.
+Buchwert der offenen Forderung: CHF 4'640 (Fakturakurs: 1.1600).
+Tageskurs bei Zahlungseingang: 1.1480.
+Verbuche den Zahlungseingang.
+
+---
+
+**Aufgabe 9**    
+Wir kaufen bei der Bank EUR 25'000 zum Kurs von 0.9530.
+Bankspesen: CHF 40.
+Verbuche den Kauf inkl. Spesen (zwei Buchungssätze).
+
+---
+
+**Aufgabe 10**   
+Am Bilanzstichtag besteht eine Forderung von USD 15'000 (Fakturakurs 0.8820).
+Stichtagskurs: 0.8750.
+Verbuche die Kursbewertung der Forderung.
+
+---
+
+## Teil B: Lohnabrechnungen (Aufgaben 11–20)
+
+**Aufgabe 11**    
+Monatlicher Bruttolohn von Frau Meier: CHF 6'800.
+Abzüge: AHV/IV/EO, ALV, NBU, KTG.
+Verbuche die Lohnabrechnung (Brutto → Netto).
+
+---
+
+**Aufgabe 12**   
+Herr Keller erhält einen Bruttolohn von CHF 7'500.
+Sein BVG-Beitrag (AN-Anteil) beträgt CHF 285.
+Zusätzlich gelten die üblichen AN-Abzüge (AHV/IV/EO, ALV, NBU, KTG).
+Verbuche die Nettolohnauszahlung via Bank.
+
+---
+
+**Aufgabe 13**   
+Im Januar werden die Nettolöhne von total CHF 42'350 via Bank ausbezahlt.
+Verbuche die Auszahlung.
+
+---
+
+**Aufgabe 14**   
+Bruttolohnsumme des Monats: CHF 85'000.
+Verbuche die AG-Beiträge (AHV/IV/EO, ALV, BU, KTG) als Aufwand.
+
+---
+
+**Aufgabe 15**   
+Ein Mitarbeiter erhält eine Gratifikation (13. Monatslohn) von CHF 5'200 brutto.
+Es gelten die gleichen Abzüge wie beim regulären Lohn (ohne BVG).
+Verbuche die Gratifikationsabrechnung.
+
+---
+
+**Aufgabe 16**   
+Vom Lohn von Frau Berger (brutto CHF 6'200) wird ein Vorschuss von CHF 1'000 abgezogen, den sie letzten Monat erhalten hat.
+Verbuche nur den Abzug des Vorschusses bei der Lohnabrechnung.
+(Die übrigen Sozialversicherungsabzüge sind bereits verbucht.)
+
+---
+
+**Aufgabe 17**   
+Ein Mitarbeiter erhält Kinderzulagen von CHF 200 pro Kind (2 Kinder).
+Die Kinderzulagen werden zusammen mit dem Nettolohn ausbezahlt.
+Verbuche die Auszahlung der Kinderzulagen.
+
+---
+
+**Aufgabe 18**   
+Bruttolohn Herr Schmid: CHF 8'400.
+Sachleistung (Geschäftsauto privat): CHF 350 pro Monat.
+Der Sachleistungsbetrag ist im Bruttolohn von CHF 8'400 enthalten.
+Verbuche die Lohnabrechnung inkl. Sachleistung (Abzüge: AHV/IV/EO, ALV, NBU, KTG).
+
+---
+
+**Aufgabe 19**   
+Quellensteuer von CHF 520 wird vom Lohn eines ausländischen Mitarbeiters abgezogen.
+Verbuche den Quellensteurabzug.
+
+---
+
+**Aufgabe 20**    
+Spesenpauschale an Frau Lüthi: CHF 450 (nicht sozialversicherungspflichtig).
+Nettolohn (nach allen Abzügen): CHF 5'130.
+Verbuche die Gesamtauszahlung (Nettolohn + Spesen) via Bank.
+
+---
+
+## Teil C: Sozialversicherungen (Aufgaben 21–30)
+
+**Aufgabe 21**   
+Die AHV-Ausgleichskasse stellt uns die Quartalsabrechnung:
+AN-Anteil AHV/IV/EO: CHF 13'250, AG-Anteil AHV/IV/EO: CHF 13'250.
+Verbuche die Zahlung an die Ausgleichskasse.
+
+---
+
+**Aufgabe 22**   
+Die Pensionskasse stellt die monatliche Rechnung:
+AN-Anteil BVG: CHF 4'800, AG-Anteil BVG: CHF 5'760.
+Verbuche den AG-Anteil als Aufwand.
+
+---
+
+**Aufgabe 23**    
+Die SUVA stellt die jährliche Prämienrechnung:
+BU-Prämie (AG): CHF 3'840, NBU-Prämie (AN): CHF 6'720.
+Verbuche die Zahlung der gesamten Prämie an die SUVA.
+
+---
+
+**Aufgabe 24**   
+Ende Jahr schulden wir der Ausgleichskasse noch CHF 8'900 (AHV/IV/EO und ALV, AG- und AN-Anteile zusammen).
+Verbuche die Verbindlichkeit per Bilanzstichtag (passive Rechnungsabgrenzung).
+
+---
+
+**Aufgabe 25**   
+Wir erhalten von der KTG-Versicherung eine Rückerstattung von CHF 1'250 für einen Schadensfall.
+Verbuche den Eingang auf dem Bankkonto.
+
+---
+
+**Aufgabe 26**    
+Monatliche Bruttolohnsumme: CHF 120'000.
+Verbuche die AN-Anteile (AHV/IV/EO, ALV, NBU, KTG) als Verbindlichkeit gegenüber den Sozialversicherungen.
+
+---
+
+**Aufgabe 27**   
+Die Familienzulagenkasse überweist uns CHF 3'600 für die Kinderzulagen unserer Mitarbeitenden.
+Verbuche den Eingang.
+
+---
+
+**Aufgabe 28**   
+Wir bezahlen die monatliche BVG-Rechnung über total CHF 10'560 (AN + AG) via Bank.
+Verbuche die Zahlung.
+
+---
+
+**Aufgabe 29**    
+Jahresendabrechnung AHV: Wir haben im Laufe des Jahres Akontobeiträge von CHF 48'000 bezahlt.
+Die definitive Abrechnung ergibt einen Totalbetrag von CHF 49'300 (AG + AN).
+Verbuche die Nachzahlung.
+
+---
+
+**Aufgabe 30**   
+Die SUVA meldet uns eine Prämienrückerstattung (BU) von CHF 680 aufgrund tieferer Schadensquote.
+Verbuche die Gutschrift.
+
+---
+
+[Kommentierte Musterlösung](musterloesung.qmd)
