@@ -1,0 +1,473 @@
+---
+title: "Musterlösung zur Lohnbuchhaltung und zu den Fremdwährungen"
+author: "Jacques Mock Schindler"
+date: "2026-02-26"
+date-format: "D. MMMM YYYY"
+---
+
+
+**Sozialversicherungssätze (Referenz):**
+
+| Versicherung | AN-Anteil | AG-Anteil |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 5.30 % |
+| ALV | 1.10 % | 1.10 % |
+| NBU | 1.40 % | – |
+| BU | – | 0.80 % |
+| KTG | 0.50 % | 0.50 % |
+
+---
+
+## Teil A: Devisen (Aufgaben 1–10)
+
+### Aufgabe 1 – EUR-Kauf
+**Berechnung:** EUR 5'000 × 0.9520 = CHF 4'760.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank EUR | Bank CHF | 4'760.00 |
+
+*Erklärung: Der Kauf wird zum Transaktionskurs verbucht. Der Bilanzstichtagskurs ist hier nicht relevant, da kein Stichtag vorliegt.*
+
+---
+
+### Aufgabe 2 – USD-Verkauf mit Kursverlust
+**Berechnung:**
+- Verkaufserlös: USD 8'000 × 0.8850 = CHF 7'080.00
+- Buchwert: USD 8'000 × 0.8910 = CHF 7'128.00
+- Kursverlust: CHF 7'128.00 – CHF 7'080.00 = CHF 48.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank CHF | Bank USD | 7'128.00 |
+| Kursverlusten | Bank CHF | 48.00 |
+
+Oder zusammengefasst:
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank CHF | Bank USD | 7'080.00 |
+| Kursverluste | Bank USD | 48.00 |
+
+*Erklärung: Die USD werden zum Buchwert ausgebucht. Die Differenz zum Verkaufskurs ergibt einen Kursverlust.*
+
+---
+
+### Aufgabe 3 – Zahlungseingang EUR-Forderung
+**Berechnung:**
+- Forderung zum Fakturakurs: EUR 12'000 × 0.9600 = CHF 11'520.00
+- Eingang zum Tageskurs: EUR 12'000 × 0.9540 = CHF 11'448.00
+- Kursverlust: CHF 11'520.00 – CHF 11'448.00 = CHF 72.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank EUR | Forderungen aus L+L | 11'520.00 |
+| Kursverluste | Bank EUR | 72.00 |
+
+Oder alternativ:
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank EUR | Forderungen aus L+L | 11'448.00 |
+| Kursverluste | Forderungen aus L+L | 72.00 |
+
+*Erklärung: Die Forderung wird zum Fakturakurs aufgelöst. Der Kursrückgang führt zu einem Kursverlust von CHF 72.*
+
+---
+
+### Aufgabe 4 – Zahlung USD-Verbindlichkeit
+**Berechnung:**
+- Verbindlichkeit zum Fakturakurs: USD 6'500 × 0.8780 = CHF 5'707.00
+- Zahlung zum Tageskurs: USD 6'500 × 0.8830 = CHF 5'739.50
+- Kursverlust (Kursanstieg = Verlust bei Verbindlichkeit): CHF 5'739.50 – CHF 5'707.00 = CHF 32.50
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten aus L+L | Bank USD | 5'707.00 |
+| Kursverluste | Bank USD | 32.50 |
+
+*Erklärung: Der USD ist gestiegen → wir zahlen mehr CHF als eingebucht → Kursverlust.*
+
+---
+
+### Aufgabe 5 – Stichtagsbewertung EUR-Bestand
+**Berechnung:**
+- Bewertung zum Stichtagskurs: EUR 20'000 × 0.9480 = CHF 18'960.00
+- Buchwert: CHF 19'200.00
+- Kursanpassung: CHF 19'200.00 – CHF 18'960.00 = CHF 240.00 (Abwertung)
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Kursverluste | Bank EUR | 240.00 |
+
+*Erklärung: Der EUR ist im Wert gesunken. Der Bestand wird auf den tieferen Stichtagskurs abgewertet.*
+
+---
+
+### Aufgabe 6 – Lieferantenrechnung EUR + spätere Zahlung
+**a) Rechnungseingang:**
+EUR 15'000 × 0.9550 = CHF 14'325.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Aufwand (Warenaufwand) | Verbindlichkeiten aus L+L | 14'325.00 |
+
+**b) Zahlung ab CHF-Konto:**
+EUR 15'000 × 0.9610 = CHF 14'415.00
+Kursdifferenz: CHF 14'415.00 – CHF 14'325.00 = CHF 90.00 (Kursverlust)
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten aus L+L | Bank CHF | 14'325.00 |
+| Kursverluste | Bank CHF | 90.00 |
+
+*Erklärung: Der EUR ist gestiegen → die Zahlung ab CHF-Konto ist teurer als der eingebuchte Betrag.*
+
+---
+
+### Aufgabe 7 – Rechnungsstellung USD
+**Berechnung:** USD 10'000 × 0.8760 = CHF 8'760.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Forderungen aus L+L | Warenertrag | 8'760.00 |
+
+*Erklärung: Die Forderung wird zum Tageskurs eingebucht.*
+
+---
+
+### Aufgabe 8 – Zahlungseingang GBP mit Kursverlust
+**Berechnung:**
+- Buchwert der Forderung: CHF 4'640.00 (GBP 4'000 × 1.1600)
+- Eingang: GBP 4'000 × 1.1480 = CHF 4'592.00
+- Kursverlust: CHF 4'640.00 – CHF 4'592.00 = CHF 48.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank GBP | Forderungen aus L+L | 4'640.00 |
+| Kursverluste | Bank GBP | 48.00 |
+
+*Erklärung: Das GBP hat an Wert verloren. Die Differenz wird als Kursverlust erfasst.*
+
+---
+
+### Aufgabe 9 – EUR-Kauf mit Bankspesen
+**Berechnung:** EUR 25'000 × 0.9530 = CHF 23'825.00
+
+**Buchungssatz 1 – Kauf:**
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank EUR | Bank CHF | 23'825.00 |
+
+**Buchungssatz 2 – Spesen:**
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Finanzaufwand (Bankspesen) | Bank CHF | 40.00 |
+
+*Erklärung: Die Bankspesen werden separat als Finanzaufwand verbucht.*
+
+---
+
+### Aufgabe 10 – Stichtagsbewertung USD-Forderung
+**Berechnung:**
+- Buchwert: USD 15'000 × 0.8820 = CHF 13'230.00
+- Stichtagswert: USD 15'000 × 0.8750 = CHF 13'125.00
+- Abwertung: CHF 13'230.00 – CHF 13'125.00 = CHF 105.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Kursverluste | Forderungen aus L+L | 105.00 |
+
+*Erklärung: Die Forderung wird auf den tieferen Stichtagskurs berichtigt.*
+
+---
+
+## Teil B: Lohnabrechnungen (Aufgaben 11–20)
+
+### Aufgabe 11 – Lohnabrechnung Frau Meier
+**Berechnung der Abzüge auf CHF 6'800:**
+
+| Abzug | Satz | Betrag CHF |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 360.40 |
+| ALV | 1.10 % | 74.80 |
+| NBU | 1.40 % | 95.20 |
+| KTG | 0.50 % | 34.00 |
+| **Total Abzüge** | | **564.40** |
+| **Nettolohn** | | **6'235.60** |
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Lohnaufwand | Verbindlichkeiten Sozialversicherungen | 564.40 |
+| Lohnaufwand | Bank (Nettolohn) | 6'235.60 |
+
+Oder zusammengefasst:
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Lohnaufwand | Verb. Sozialversicherungen | 564.40 |
+| Lohnaufwand | Bank | 6'235.60 |
+
+*Kontrolle: 564.40 + 6'235.60 = 6'800.00 ✓*
+
+---
+
+### Aufgabe 12 – Nettolohnauszahlung Herr Keller
+**Berechnung der Abzüge auf CHF 7'500:**
+
+| Abzug | Satz | Betrag CHF |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 397.50 |
+| ALV | 1.10 % | 82.50 |
+| NBU | 1.40 % | 105.00 |
+| KTG | 0.50 % | 37.50 |
+| BVG (AN) | fix | 285.00 |
+| **Total Abzüge** | | **907.50** |
+| **Nettolohn** | | **6'592.50** |
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Löhne | Bank | 6'592.50 |
+
+*Erklärung: Gefragt ist nur die Auszahlung. Die Abrechnung (Brutto → Netto) wurde bereits verbucht.*
+
+---
+
+### Aufgabe 13 – Nettolohnauszahlung Total
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Löhne | Bank | 42'350.00 |
+
+*Erklärung: Die Auszahlung der Nettolöhne reduziert die Verbindlichkeit gegenüber den Mitarbeitenden.*
+
+---
+
+### Aufgabe 14 – AG-Beiträge Sozialversicherungen
+**Berechnung auf Bruttolohnsumme CHF 85'000:**
+
+| Beitrag AG | Satz | Betrag CHF |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 4'505.00 |
+| ALV | 1.10 % | 935.00 |
+| BU | 0.80 % | 680.00 |
+| KTG | 0.50 % | 425.00 |
+| **Total AG-Beiträge** | | **6'545.00** |
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Sozialversicherungsaufwand | Verbindlichkeiten Sozialversicherungen | 6'545.00 |
+
+*Erklärung: Die AG-Beiträge sind zusätzlicher Personalaufwand und werden als Verbindlichkeit erfasst.*
+
+---
+
+### Aufgabe 15 – Gratifikation (13. Monatslohn)
+**Berechnung der Abzüge auf CHF 5'200:**
+
+| Abzug | Satz | Betrag CHF |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 275.60 |
+| ALV | 1.10 % | 57.20 |
+| NBU | 1.40 % | 72.80 |
+| KTG | 0.50 % | 26.00 |
+| **Total Abzüge** | | **431.60** |
+| **Nettolohn** | | **4'768.40** |
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Lohnaufwand | Verbindlichkeiten Sozialversicherungen | 431.60 |
+| Lohnaufwand | Bank | 4'768.40 |
+
+*Kontrolle: 431.60 + 4'768.40 = 5'200.00 ✓*
+
+---
+
+### Aufgabe 16 – Vorschussabzug
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Löhne | Forderungen Mitarbeitende (Vorschüsse) | 1'000.00 |
+
+*Erklärung: Der Vorschuss wurde bei der Auszahlung als Forderung gebucht. Jetzt wird er mit dem Lohnanspruch verrechnet.*
+
+---
+
+### Aufgabe 17 – Kinderzulagen
+**Berechnung:** 2 Kinder × CHF 200 = CHF 400.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Sozialversicherungen | Bank | 400.00 |
+
+*Erklärung: Die Kinderzulagen werden von der Familienausgleichskasse finanziert. Der AG leitet sie durch und bucht die Zahlung gegen die Verbindlichkeit gegenüber der Kasse.*
+
+---
+
+### Aufgabe 18 – Lohn mit Sachleistung (Geschäftsauto)
+**Berechnung der Abzüge auf Bruttolohn CHF 8'400 (inkl. Sachleistung):**
+
+| Abzug | Satz | Betrag CHF |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 445.20 |
+| ALV | 1.10 % | 92.40 |
+| NBU | 1.40 % | 117.60 |
+| KTG | 0.50 % | 42.00 |
+| **Total Abzüge** | | **697.20** |
+
+Barlohn: CHF 8'400.00 – CHF 350.00 (Sachleistung) = CHF 8'050.00
+Nettolohn (bar): CHF 8'050.00 – CHF 697.20 = **CHF 7'352.80**
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Lohnaufwand | Fahrzeugaufwand | 350.00 |
+| Lohnaufwand | Verbindlichkeiten Sozialversicherungen | 697.20 |
+| Lohnaufwand | Bank | 7'352.80 |
+
+*Kontrolle: 350.00 + 697.20 + 7'352.80 = 8'400.00 ✓*
+
+*Erklärung: Die Sachleistung wird im Bruttolohn berücksichtigt (SV-pflichtig), aber nicht bar ausbezahlt. Sie wird gegen den entsprechenden Aufwand (hier Fahrzeugaufwand) gebucht.*
+
+---
+
+### Aufgabe 19 – Quellensteuerabzug
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Löhne | Verbindlichkeiten Quellensteuer | 520.00 |
+
+*Erklärung: Die Quellensteuer wird vom Lohnanspruch des Mitarbeiters abgezogen und als Verbindlichkeit gegenüber dem Steueramt erfasst.*
+
+---
+
+### Aufgabe 20 – Nettolohn + Spesenpauschale
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Löhne | Bank | 5'130.00 |
+| Reise- und Repräsentationsaufwand | Bank | 450.00 |
+
+*Totalauszahlung via Bank: CHF 5'130.00 + CHF 450.00 = CHF 5'580.00*
+
+*Erklärung: Der Nettolohn wird aus der Lohnverbindlichkeit beglichen. Die Spesenpauschale ist nicht SV-pflichtig und wird direkt als Aufwand gebucht.*
+
+---
+
+## Teil C: Sozialversicherungen (Aufgaben 21–30)
+
+### Aufgabe 21 – Zahlung an AHV-Ausgleichskasse
+**Totalbetrag:** CHF 13'250 + CHF 13'250 = CHF 26'500.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Sozialversicherungen | Bank | 26'500.00 |
+
+*Erklärung: Beide Anteile (AG und AN) wurden bereits bei der Lohnabrechnung als Verbindlichkeit erfasst. Jetzt erfolgt die Zahlung.*
+
+---
+
+### Aufgabe 22 – AG-Anteil BVG
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Sozialversicherungsaufwand (BVG AG) | Verbindlichkeiten Sozialversicherungen | 5'760.00 |
+
+*Erklärung: Der AG-Anteil ist zusätzlicher Personalaufwand und wird als Verbindlichkeit gegenüber der Pensionskasse erfasst.*
+
+---
+
+### Aufgabe 23 – SUVA-Prämienrechnung (BU + NBU)
+**Total:** CHF 3'840 + CHF 6'720 = CHF 10'560.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Sozialversicherungen (NBU, AN) | Bank | 6'720.00 |
+| Sozialversicherungsaufwand (BU, AG) | Bank | 3'840.00 |
+
+*Erklärung: Die NBU-Prämie wurde bei den Lohnabrechnungen bereits vom Lohn abgezogen (→ Verb. SV). Die BU-Prämie ist AG-Aufwand. Wurde der AG-Anteil bereits als Verbindlichkeit verbucht, lautet die Buchung: Verb. SV / Bank 10'560.*
+
+---
+
+### Aufgabe 24 – Passive Rechnungsabgrenzung Sozialversicherungen
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Sozialversicherungsaufwand | Passive Rechnungsabgrenzung | 8'900.00 |
+
+*Erklärung: Die noch nicht abgerechneten Beiträge werden per Bilanzstichtag als transitorische Passiven erfasst, sofern die AG-Anteile noch nicht verbucht wurden. Wurden die AG-Anteile laufend gebucht, betrifft die Abgrenzung nur den Zahlungszeitpunkt (Verb. SV / Bank).*
+
+---
+
+### Aufgabe 25 – KTG-Rückerstattung
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank | Sozialversicherungsaufwand | 1'250.00 |
+
+*Erklärung: Die Versicherungsleistung reduziert den Sozialversicherungsaufwand.*
+
+---
+
+### Aufgabe 26 – AN-Anteile als Verbindlichkeit
+**Berechnung auf CHF 120'000:**
+
+| Abzug AN | Satz | Betrag CHF |
+|---|---|---|
+| AHV/IV/EO | 5.30 % | 6'360.00 |
+| ALV | 1.10 % | 1'320.00 |
+| NBU | 1.40 % | 1'680.00 |
+| KTG | 0.50 % | 600.00 |
+| **Total AN-Anteile** | | **9'960.00** |
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Lohnaufwand | Verbindlichkeiten Sozialversicherungen | 9'960.00 |
+
+*Erklärung: Die AN-Anteile werden vom Bruttolohn abgezogen und als Verbindlichkeit erfasst, bis sie an die Versicherungen überwiesen werden.*
+
+---
+
+### Aufgabe 27 – Eingang Familienzulagen
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank | Verbindlichkeiten Sozialversicherungen | 3'600.00 |
+
+*Erklärung: Die Familienzulagenkasse überweist die Zulagen. Dies reduziert die Verbindlichkeit (oder erhöht die Forderung) gegenüber der Kasse.*
+
+---
+
+### Aufgabe 28 – BVG-Zahlung (AN + AG)
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Sozialversicherungen | Bank | 10'560.00 |
+
+*Erklärung: Beide Anteile (AN bei Lohnabrechnung, AG bei Aufwandsbuchung) wurden als Verbindlichkeit erfasst. Jetzt erfolgt die Zahlung an die Pensionskasse.*
+
+---
+
+### Aufgabe 29 – AHV-Nachzahlung
+**Berechnung:**
+Nachzahlung: CHF 49'300 – CHF 48'000 = CHF 1'300.00
+
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Verbindlichkeiten Sozialversicherungen | Bank | 1'300.00 |
+
+*Erklärung: Die Differenz zwischen Akonto und definitiver Abrechnung wird nachbezahlt. Der Aufwand wurde laufend korrekt verbucht; hier wird nur die Restzahlung erfasst. Falls die Differenz AG-Anteil betrifft, kann anteiliger Sozialversicherungsaufwand gebucht werden.*
+
+---
+
+### Aufgabe 30 – SUVA-Prämienrückerstattung BU
+| Soll | Haben | Betrag CHF |
+|---|---|---|
+| Bank | Sozialversicherungsaufwand | 680.00 |
+
+*Erklärung: Die BU-Prämie ist AG-Aufwand. Die Rückerstattung reduziert diesen Aufwand.*
+
+---
+
+## Zusammenfassung Punkteverteilung
+
+| Teil | Aufgaben | Punkte |
+|---|---|---|
+| A – Devisen | 1–10 | 11.5 |
+| B – Lohnabrechnungen | 11–20 | 12.0 |
+| C – Sozialversicherungen | 21–30 | 11.5 |
+| **Total** | **30** | **35.0** |
+
+---
