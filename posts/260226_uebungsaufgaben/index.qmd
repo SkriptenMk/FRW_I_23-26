@@ -12,11 +12,12 @@ Geschäftsfällen aus der Lohnbuchhaltung und der Verbuchung von
 Geschäftsfällen in fremden Währungen.
 
 
-**Hinweise:**
-- Alle Beträge in CHF, sofern nicht anders angegeben.
-- Rundung auf CHF 0.05 (kaufmännisch).
-- [Kontenrahmen KMU (Schweiz)](https://www.kmu.admin.ch/dam/kmu/de/dokumente/savoir-pratique/Finances/240812%20Schulkontenrahmen%20VEB%20-%20DE.pdf.download.pdf/240812%20Schulkontenrahmen%20VEB%20-%20DE.pdf).
-- Abkürzungen: AG = Arbeitgeber, AN = Arbeitnehmer.
+**Hinweise:** 
+
+* Alle Beträge in CHF, sofern nicht anders angegeben.
+* Rundung auf CHF 0.05 (kaufmännisch).
+* [Kontenrahmen KMU (Schweiz)](https://www.kmu.admin.ch/dam/kmu/de/dokumente/savoir-pratique/Finances/240812%20Schulkontenrahmen%20VEB%20-%20DE.pdf.download.pdf/240812%20Schulkontenrahmen%20VEB%20-%20DE.pdf).
+* Abkürzungen: AG = Arbeitgeber, AN = Arbeitnehmer.
 
 **Relevante Sozialversicherungssätze (für alle Aufgaben):**
 
