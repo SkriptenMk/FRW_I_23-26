@@ -1,111 +1,9 @@
 # Stille Reserven – Lösungsblatt
-## Rechnungswesen KBW | HMS/IMS-Niveau | 30 Aufgaben
 
----
 
-> **Hinweis:** Dieses Lösungsblatt enthält vollständige Rechenwege, Buchungssätze und Erklärungen. Abweichungen durch Rundung sind bis CHF 1 akzeptiert.
-
----
-
-## TEIL A – Einzelbuchungen
+## TEIL A – Bildung stiller Reserven
 
 ### Lösung Aufgabe 1
-**a)** Stille Reserve = Wahrer Wert − Buchwert = CHF 120'000 − CHF 85'000 = **CHF 35'000**
-
-**b)** Mögliche Massnahmen (zwei nennen):
-- Überabschreibung der Maschine (höhere Abschreibung als wirtschaftlich notwendig)
-- Zu frühe Vollabschreibung (Abschreibung auf CHF 1 obwohl noch Restwert vorhanden)
-
----
-
-### Lösung Aufgabe 2
-**a)** Stille Reserve = CHF 68'000 − CHF 42'000 = **CHF 26'000**
-
-**b)** Buchungssatz Bildung:
-| Soll | Haben | Betrag CHF |
-|---|---|---|
-| Warenaufwand (Abwertung Vorräte) | Warenvorrat | 26'000 |
-
-*Erklärung: Aktiv wird unterbilanziert → stille Reserve in den Vorräten.*
-
----
-
-### Lösung Aufgabe 3
-**a)** Stille Reserve = CHF 610'000 − CHF 380'000 = **CHF 230'000**
-
-**b)** Gründe für langfristiges Halten:
-- Auflösung wäre sofort steuerpflichtig (latente Steuerlast)
-- Liegenschaft ist strategisches Anlagevermögen, kein Verkauf geplant
-- Stille Reserven stärken die wahre Eigenkapitalbasis (Bonitätspuffer)
-
----
-
-### Lösung Aufgabe 4
-**a)** Stille Reserve (ungebuchte Forderungsabschreibung) = **CHF 12'000**
-
-**b)** Buchungssatz:
-| Soll | Haben | Betrag CHF |
-|---|---|---|
-| Wertberichtigung Debitoren (Delkredere) | Debitoren | 12'000 |
-
-*(Alternativ je nach Methode: Debitorenverlust an Debitoren, oder Aufwand an Delkredere)*
-
----
-
-### Lösung Aufgabe 5
-**a)**
-- Wirtschaftliche Abschreibung: CHF 80'000 × 25 % = **CHF 20'000**
-- Steuerliche Abschreibung: CHF 80'000 × 40 % = **CHF 32'000**
-
-**b)** Gebildete stille Reserve = CHF 32'000 − CHF 20'000 = **CHF 12'000**
-
-*Buchwert nach wirtschaftlicher Abschr.: CHF 60'000 | nach steuerlicher Abschr.: CHF 48'000*
-*Differenz = stille Reserve CHF 12'000* ✓
-
----
-
-### Lösung Aufgabe 6
-**a)** Buchungssatz (Verkauf Anlage):
-| Soll | Haben | Betrag CHF |
-|---|---|---|
-| Flüssige Mittel / Debitor | Anlagen | 60'000 |
-| Flüssige Mittel / Debitor | Gewinn aus Anlagenverkauf | 35'000 |
-
-*(Gesamtbuchung: Flüssige Mittel CHF 95'000 an Anlagen CHF 60'000 / Gewinn CHF 35'000)*
-
-**b)** Der Buchungsgewinn von CHF 35'000 entspricht der aufgelösten stillen Reserve, sofern der Buchwert = wirtschaftlicher Wert war. Falls Überabschreibungen vorlagen, ist der gesamte Gewinn stille Reserve.
-
----
-
-### Lösung Aufgabe 7
-**a)** Gebildete stille Reserve = CHF 18'000 − CHF 6'000 = **CHF 12'000**
-
-**b)** Buchungssatz:
-| Soll | Haben | Betrag CHF |
-|---|---|---|
-| Warenaufwand (Lagerabwertung) | Warenvorrat | 18'000 |
-
-*Davon wirtschaftlich begründet: CHF 6'000 | Stille Reserve: CHF 12'000*
-
----
-
-### Lösung Aufgabe 8
-**a)**
-| Position | Buchwert CHF | Wahrer Wert CHF | Stille Reserve CHF |
-|---|---|---|---|
-| Maschinen | 140'000 | 195'000 | 55'000 |
-| Fahrzeuge | 35'000 | 35'000 | 0 |
-| Lager | 88'000 | 102'000 | 14'000 |
-| Debitoren | 76'000 | 76'000 | 0 |
-| **Total** | | | **69'000** |
-
-**b)** Fahrzeuge und Debitoren weisen keine stillen Reserven auf.
-
----
-
-## TEIL B – Bildung stiller Reserven
-
-### Lösung Aufgabe 9
 **Daten:** AW CHF 240'000 | Nutzungsdauer 8 Jahre | Steuerlich 30 % degressiv
 
 **a) Jahr 1:**
@@ -132,7 +30,7 @@
 
 ---
 
-### Lösung Aufgabe 10
+### Lösung Aufgabe 2
 **Daten:** Einstandswert CHF 156'000
 
 **a)**
@@ -149,7 +47,7 @@
 
 ---
 
-### Lösung Aufgabe 11
+### Lösung Aufgabe 3
 **a)** Stille Reserve = CHF 22'000 − CHF 8'500 = **CHF 13'500**
 
 **b)** Buchungssatz:
@@ -164,7 +62,7 @@
 
 ---
 
-### Lösung Aufgabe 12
+### Lösung Aufgabe 4
 **a)** Zu bildende stille Reserven = CHF 85'000 − CHF 30'000 = **CHF 55'000**
 
 **b)** Steuerersparnis = CHF 55'000 × 22 % = **CHF 12'100**
@@ -177,7 +75,7 @@
 
 ---
 
-### Lösung Aufgabe 13
+### Lösung Aufgabe 5
 **Buchwert zu Beginn: CHF 1'200'000 | Jährl. Abschreibung: 2 %**
 
 **a)** Abschreibung pro Jahr (auf Buchwert, degressiv):
@@ -200,7 +98,7 @@ Stille Reserve nach Jahr 5 = CHF 1'850'000 − CHF 1'084'704 = **CHF 765'296**
 
 ---
 
-### Lösung Aufgabe 14
+### Lösung Aufgabe 6
 **Daten:**
 
 | Debitor | CHF | Einbringlich |
@@ -234,7 +132,7 @@ Stille Reserve nach Jahr 5 = CHF 1'850'000 − CHF 1'084'704 = **CHF 765'296**
 
 ---
 
-### Lösung Aufgabe 15
+### Lösung Aufgabe 7
 **Daten:** AW CHF 480'000 | Kauf 01.07. | 10 Jahre linear | Steuerlich 25 % degressiv (pro-rata)
 
 **a) Wirtschaftliche Abschreibung (pro-rata 6/12):**
@@ -253,7 +151,7 @@ Stille Reserve nach Jahr 5 = CHF 1'850'000 − CHF 1'084'704 = **CHF 765'296**
 
 ---
 
-### Lösung Aufgabe 16
+### Lösung Aufgabe 8
 **a)** Stille Reserve per aktuell = CHF 138'000 − CHF 95'000 = **CHF 43'000**
 
 **b)** Stille Reserve Vorjahr = CHF 108'000 − CHF 95'000 = **CHF 13'000**
@@ -270,7 +168,7 @@ Buchungssatz (keine neue Buchung erforderlich, da Buchwert unverändert bei CHF 
 
 ## TEIL C – Auflösung stiller Reserven
 
-### Lösung Aufgabe 17
+### Lösung Aufgabe 9
 **a)**
 - Maschinen: aufgelöste stille Reserve = CHF 160'000 − CHF 90'000 = **CHF 70'000**
 - Warenlager: aufgelöste stille Reserve = CHF 82'000 − CHF 55'000 = **CHF 27'000**
@@ -294,7 +192,7 @@ Buchungssatz (keine neue Buchung erforderlich, da Buchwert unverändert bei CHF 
 
 ---
 
-### Lösung Aufgabe 18
+### Lösung Aufgabe 10
 **a)** Buchungssatz Auflösung Delkredere:
 | Soll | Haben | CHF |
 |---|---|---|
@@ -308,7 +206,7 @@ Teilweise Auflösung: Wenn ein Teil der Debitoren zahlungsunfähig bleibt und nu
 
 ---
 
-### Lösung Aufgabe 19
+### Lösung Aufgabe 11
 **a)** Zahlung Prozesskosten CHF 28'000:
 | Soll | Haben | CHF |
 |---|---|---|
@@ -324,7 +222,7 @@ Die Rückstellung war in Vorjahren als Aufwand verbucht worden (Gewinnminderung)
 
 ---
 
-### Lösung Aufgabe 20
+### Lösung Aufgabe 12
 **a)** Buchungssätze:
 
 *Schritt 1: Anlage ausbuchen (Buchwert)*
@@ -350,7 +248,7 @@ Die Rückstellung war in Vorjahren als Aufwand verbucht worden (Gewinnminderung)
 
 ---
 
-### Lösung Aufgabe 21
+### Lösung Aufgabe 13
 **Daten:** Lager Buchwert CHF 168'000 (inkl. Abwertung CHF 45'000) | Verkauf CHF 210'000
 
 **a)** Effektiver Wareneinsatz (ohne Abwertung) = CHF 168'000 + CHF 45'000 = **CHF 213'000**
@@ -375,7 +273,7 @@ Die Rückstellung war in Vorjahren als Aufwand verbucht worden (Gewinnminderung)
 
 ## TEIL D – Gemischte Aufgaben
 
-### Lösung Aufgabe 22
+### Lösung Aufgabe 14
 **Maschinen:** BW Jahresanfang CHF 400'000
 
 | Variante | Berechnung | Betrag CHF |
@@ -407,7 +305,7 @@ Die Rückstellung war in Vorjahren als Aufwand verbucht worden (Gewinnminderung)
 
 ---
 
-### Lösung Aufgabe 23
+### Lösung Aufgabe 15
 **Stille Reserven per 01.01.:**
 
 | Position | Stille Reserve CHF |
@@ -451,7 +349,7 @@ Die Rückstellung war in Vorjahren als Aufwand verbucht worden (Gewinnminderung)
 
 ---
 
-### Lösung Aufgabe 24
+### Lösung Aufgabe 16
 **Gewinn vor Abschreibungen: CHF 320'000**
 
 | Massnahme | Wirtschaftlich CHF | Steuerlich CHF | SR-Bildung CHF |
@@ -480,7 +378,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ---
 
-### Lösung Aufgabe 25
+### Lösung Aufgabe 17
 **Daten:** AW CHF 360'000 | Kauf 01.04. | 6 Jahre linear | Steuerlich 25 % degressiv (pro-rata)
 
 **a) Wirtschaftliche Abschreibung (pro-rata 9/12):**
@@ -505,7 +403,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ---
 
-### Lösung Aufgabe 26
+### Lösung Aufgabe 18
 **Ausgangslage Mobilien:**
 - Buchwert CHF 95'000 (bereits abgeschrieben)
 - Steuerlich: 25 % degressiv auf BW CHF 95'000 = CHF 23'750 → neuer BW steuerlich: CHF 71'250
@@ -546,7 +444,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ## TEIL E – Komplexe Prüfungsaufgaben
 
-### Lösung Aufgabe 27
+### Lösung Aufgabe 19
 
 **a) Berechnungsübersicht:**
 
@@ -589,7 +487,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ---
 
-### Lösung Aufgabe 28
+### Lösung Aufgabe 20
 
 **Stille Reserven Vorjahre:**
 - Maschinen: CHF 82'000
@@ -647,7 +545,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ---
 
-### Lösung Aufgabe 29
+### Lösung Aufgabe 21
 
 **Daten:** Gewinn vor Abschluss CHF 480'000 | Steuersatz 24 %
 
@@ -690,7 +588,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ---
 
-### Lösung Aufgabe 30 – Jahresabschluss Omnibus AG
+### Lösung Aufgabe 22 – Jahresabschluss Omnibus AG
 
 **Ausgangsdaten:**
 
@@ -803,9 +701,3 @@ CHF 76'650 − CHF 45'801 = **CHF 30'849 Steuerersparnis** durch stille Reserven
 
 *Direkter Weg: (CHF 365'000 − CHF 218'100) × 21 % = CHF 146'900 × 21 % = CHF 30'849* ✓
 
----
-
-*Ende des Lösungsblatts*
-
----
-*Trainingsunterlagen RW KBW | v1.3 | Lösungen vollständig überprüft – Abweichungen durch Rundung (±1 CHF) akzeptiert*

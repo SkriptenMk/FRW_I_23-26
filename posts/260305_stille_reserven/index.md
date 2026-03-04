@@ -23,99 +23,9 @@ image: "image.png"
 
 ---
 
-## TEIL A – Einzelbuchungen
+## TEIL A – Bildung stiller Reserven
 
 ### Aufgabe 1
-Die Maschinell AG bewertet ihre Maschine am 31.12. mit CHF 85'000. Der wahre Wert beträgt CHF 120'000.
-
-**a)** Berechnen Sie die stille Reserve.  
-**b)** Nennen Sie zwei mögliche Massnahmen, durch die diese stille Reserve gebildet worden sein könnte.
-
-
-
-
-### Aufgabe 2
-Die Handels GmbH bewertet ihr Warenlager per 31.12. mit CHF 42'000. Der tatsächliche Marktwert beträgt CHF 68'000.
-
-**a)** Berechnen Sie die stille Reserve im Warenlager.  
-**b)** Durch welche Buchung wurde diese stille Reserve gebildet? Geben Sie den vollständigen Buchungssatz an.
-
-
-
-
-
-### Aufgabe 3
-Ein Unternehmen hat eine Liegenschaft im Buchwert von CHF 380'000. Der Verkehrswert beträgt CHF 610'000.
-
-**a)** Wie hoch ist die stille Reserve?  
-**b)** Warum werden solche stillen Reserven in der Praxis häufig über viele Jahre gehalten?
-
-
-
-
-
-### Aufgabe 4
-Die Büro AG bilanziert ihre Debitoren zu CHF 95'000. Davon sind CHF 12'000 tatsächlich uneinbringlich (nicht nur zweifelhaft, sondern definitiv verloren).
-
-**a)** Berechnen Sie die stille Reserve, falls keine Wertberichtigung gebucht wurde.  
-**b)** Wie lautet der Buchungssatz zur Bildung einer Wertberichtigung von CHF 12'000?
-
-
-
-
-
-### Aufgabe 5
-Eine Fahrzeugflotte wird mit CHF 28'000 bilanziert. Die steuerlich maximal erlaubte Abschreibung beträgt 40 % auf den Buchwert, die wirtschaftlich korrekte Abschreibung wäre 25 % auf den Buchwert.
-
-Buchwert zu Beginn des Jahres: CHF 80'000
-
-**a)** Berechnen Sie beide Abschreibungsbeträge.  
-**b)** Wie hoch ist die in diesem Jahr gebildete stille Reserve?
-
-
-
-
-
-### Aufgabe 6
-Die Techno AG verkauft eine Anlage für CHF 95'000. Der Buchwert beträgt CHF 60'000.
-
-**a)** Wie lautet der Buchungssatz für den Verkauf?  
-**b)** Welcher Teil dieses Buchungsgewinns könnte einer aufgelösten stillen Reserve entsprechen?
-
-
-
-
-
-### Aufgabe 7
-Die Prima AG bildet zum Jahresabschluss eine Warenabwertung von CHF 18'000 auf ihrem Lager. Der wirtschaftlich notwendige Wertberichtigungsbedarf beträgt lediglich CHF 6'000.
-
-**a)** Wie hoch ist die gebildete stille Reserve?  
-**b)** Nennen Sie den vollständigen Buchungssatz für die gesamte Warenabwertung.
-
-
-
-
-
-### Aufgabe 8
-Ein Unternehmen hat folgende Aktiven:
-
-| Position | Buchwert CHF | Wahrer Wert CHF |
-|---|---|---|
-| Maschinen | 140'000 | 195'000 |
-| Fahrzeuge | 35'000 | 35'000 |
-| Lager | 88'000 | 102'000 |
-| Debitoren (netto) | 76'000 | 76'000 |
-
-**a)** Berechnen Sie die gesamten stillen Reserven in den Aktiven.  
-**b)** In welchen Positionen existieren keine stillen Reserven?
-
-
-
-
-
-## TEIL B – Bildung stiller Reserven
-
-### Aufgabe 9
 Die Alpin AG kauft am 01.01. eine Maschine für CHF 240'000 (Nutzungsdauer 8 Jahre, kein Restwert, lineare Abschreibung). Steuerlich sind 30 % auf den Buchwert (degressiv) erlaubt.
 
 **a)** Berechnen Sie die wirtschaftlich korrekte und die steuerlich maximal mögliche Abschreibung für Jahr 1 und Jahr 2.  
@@ -125,7 +35,7 @@ Die Alpin AG kauft am 01.01. eine Maschine für CHF 240'000 (Nutzungsdauer 8 Jah
 
 
 
-### Aufgabe 10
+### Aufgabe 2
 Die Grosso AG bewertet ihr Warenlager am 31.12. wie folgt:
 
 - Einstandswert (effektiv): CHF 156'000
@@ -139,7 +49,7 @@ Die Grosso AG bewertet ihr Warenlager am 31.12. wie folgt:
 
 
 
-### Aufgabe 11
+### Aufgabe 3
 Die Saldo AG bildet eine Rückstellung für Garantieleistungen. Der erwartete Aufwand beträgt CHF 8'500. Die AG bucht jedoch CHF 22'000 (steuerlich erlaubt).
 
 **a)** Welcher Teil dieser Rückstellung ist eine stille Reserve?  
@@ -149,7 +59,7 @@ Die Saldo AG bildet eine Rückstellung für Garantieleistungen. Der erwartete Au
 
 
 
-### Aufgabe 12
+### Aufgabe 4
 Herr Müller, Inhaber der Müller Transport AG, möchte den steuerbaren Gewinn von CHF 85'000 auf CHF 30'000 senken. Der Steuersatz beträgt 22 %.
 
 **a)** Welcher Betrag muss als stille Reserve gebildet werden?  
@@ -159,7 +69,7 @@ Herr Müller, Inhaber der Müller Transport AG, möchte den steuerbaren Gewinn v
 
 
 
-### Aufgabe 13
+### Aufgabe 5
 Die Immo AG besitzt eine Liegenschaft, die mit CHF 1'200'000 bilanziert ist. Sie schreibt jährlich 2 % auf den Buchwert ab, obwohl der Verkehrswert sich in den letzten 5 Jahren auf CHF 1'850'000 erhöht hat.
 
 **a)** Berechnen Sie die stille Reserve in der Liegenschaft nach 5 Jahren Abschreibung.  
@@ -169,7 +79,7 @@ Die Immo AG besitzt eine Liegenschaft, die mit CHF 1'200'000 bilanziert ist. Sie
 
 
 
-### Aufgabe 14
+### Aufgabe 6
 Die Deltas AG hat folgende Debitoren per 31.12.:
 
 | Debitor | Betrag CHF | Einschätzung |
@@ -188,7 +98,7 @@ Steuerlich bildet die AG eine pauschale Delkredere von 10 % auf alle Debitoren.
 
 
 
-### Aufgabe 15
+### Aufgabe 7
 Die Baudo AG kauft am 01.07. eine Produktionsanlage für CHF 480'000. Nutzungsdauer: 10 Jahre linear, kein Restwert. Steuerlich erlaubt: 25 % degressiv auf den Jahresendbuchwert (pro-rata temporis).
 
 **a)** Berechnen Sie die wirtschaftliche Abschreibung für das Rumpfjahr (01.07.–31.12.).  
@@ -198,7 +108,7 @@ Die Baudo AG kauft am 01.07. eine Produktionsanlage für CHF 480'000. Nutzungsda
 
 
 
-### Aufgabe 16
+### Aufgabe 8
 Die Kredit AG bilanziert Wertschriften (Handelsbestand) mit CHF 95'000 (Kurswert am 31.12.: CHF 138'000). Die AG wendet das Niederstwertprinzip an.
 
 **a)** Wie hoch ist die stille Reserve?  
@@ -210,7 +120,7 @@ Die Kredit AG bilanziert Wertschriften (Handelsbestand) mit CHF 95'000 (Kurswert
 
 ## TEIL C – Auflösung stiller Reserven
 
-### Aufgabe 17
+### Aufgabe 9
 Die Fortuna AG hat in den Vorjahren stille Reserven in folgenden Positionen gebildet:
 
 | Position | Buchwert CHF | Wahrer Wert CHF |
@@ -227,7 +137,7 @@ Im laufenden Jahr werden beide Positionen vollständig verkauft / aufgelöst.
 
 
 
-### Aufgabe 18
+### Aufgabe 10
 Die Reno AG hat eine Delkredere (Wertberichtigung Debitoren) von CHF 38'000. Im neuen Jahr stellt sich heraus, dass die Debitoren vollständig bezahlen.
 
 **a)** Buchen Sie die Auflösung der Delkredere.  
@@ -237,7 +147,7 @@ Die Reno AG hat eine Delkredere (Wertberichtigung Debitoren) von CHF 38'000. Im 
 
 
 
-### Aufgabe 19
+### Aufgabe 11
 Die Maxim AG hat vor 3 Jahren eine Rückstellung für Prozesskosten von CHF 65'000 gebildet. Der Prozess wird nun für CHF 28'000 beigelegt.
 
 **a)** Buchen Sie die Zahlung der Prozesskosten.  
@@ -247,7 +157,7 @@ Die Maxim AG hat vor 3 Jahren eine Rückstellung für Prozesskosten von CHF 65'0
 
 
 
-### Aufgabe 20
+### Aufgabe 12
 Die Expo AG verkauft ihre Produktionsanlage (Buchwert CHF 120'000) für CHF 195'000.
 
 **a)** Buchen Sie den Anlagenabgang vollständig (in separaten Schritten: Abgang und Erlös).  
@@ -257,7 +167,7 @@ Die Expo AG verkauft ihre Produktionsanlage (Buchwert CHF 120'000) für CHF 195'
 
 
 
-### Aufgabe 21
+### Aufgabe 13
 Die Warenabwertung der Sigma AG beträgt CHF 45'000 (Vorjahr gebildet). Im neuen Jahr wird das Lager für CHF 210'000 verkauft (Buchwert inkl. Abwertung CHF 168'000).
 
 **a)** Wie hoch war der effektive Wareneinsatz (ohne Abwertung)?  
@@ -269,7 +179,7 @@ Die Warenabwertung der Sigma AG beträgt CHF 45'000 (Vorjahr gebildet). Im neuen
 
 ## TEIL D – Gemischte Aufgaben
 
-### Aufgabe 22
+### Aufgabe 14
 Die Bernex AG hat per 31.12. folgende Situation:
 
 **Maschinen:** Buchwert CHF 340'000, wirtschaftliche Abschreibung 10 % linear, steuerliche Abschreibung 20 % degressiv auf Buchwert zu Beginn des Jahres.
@@ -289,7 +199,7 @@ Der Steuersatz beträgt 20 %.
 
 
 
-### Aufgabe 23
+### Aufgabe 15
 Die Vario AG weist per 01.01. folgende stille Reserven aus (interne Übersicht):
 
 | Position | Stille Reserve CHF |
@@ -309,7 +219,7 @@ Im laufenden Jahr werden aufgelöst: Fahrzeuge (vollständig, da verkauft für C
 
 
 
-### Aufgabe 24
+### Aufgabe 16
 Die Norma AG erzielt einen Gewinn vor Abschreibungen von CHF 320'000. Sie hat folgende Wahlmöglichkeiten:
 
 | Massnahme | Wirtschaftlich CHF | Steuerlich max. CHF |
@@ -330,7 +240,7 @@ Steuersatz: 18 %
 
 
 
-### Aufgabe 25
+### Aufgabe 17
 Die Delta AG kauft am 01.04. eine Anlage für CHF 360'000. Nutzungsdauer 6 Jahre linear, kein Restwert. Steuerlich: 25 % degressiv, pro-rata temporis.
 
 **a)** Berechnen Sie die wirtschaftliche Abschreibung (pro-rata) für das erste Jahr (01.04.–31.12.).  
@@ -342,7 +252,7 @@ Die Delta AG kauft am 01.04. eine Anlage für CHF 360'000. Nutzungsdauer 6 Jahre
 
 
 
-### Aufgabe 26
+### Aufgabe 18
 Die Kontor AG hat per Jahresende folgende Bilanzpositionen (vor Abschluss):
 
 | Position | Buchwert CHF | Anmerkung |
@@ -361,7 +271,7 @@ Die Kontor AG hat per Jahresende folgende Bilanzpositionen (vor Abschluss):
 
 ## TEIL E – Komplexe Prüfungsaufgaben
 
-### Aufgabe 27
+### Aufgabe 19
 Die Helvex AG weist per 31.12. (vor Jahresabschluss) folgende Positionen aus:
 
 **Erfolgsrechnung-Auszug (vor Abschluss):**
@@ -390,7 +300,7 @@ Steuersatz: 22 %
 
 
 
-### Aufgabe 28
+### Aufgabe 20
 Die Transitex AG hat im Verlauf des Jahres folgende Vorgänge betreffend stille Reserven:
 
 **Gebildet (Vorjahre):**
@@ -412,7 +322,7 @@ Die Transitex AG hat im Verlauf des Jahres folgende Vorgänge betreffend stille 
 
 
 
-### Aufgabe 29
+### Aufgabe 21
 Die Merito AG (Steuersatz 24 %) plant eine grössere Investition in 3 Jahren. Sie möchte die Steuerlast in den nächsten Jahren minimieren und stille Reserven aktiv aufbauen.
 
 **Angaben:**
@@ -431,7 +341,7 @@ Die Merito AG (Steuersatz 24 %) plant eine grössere Investition in 3 Jahren. Si
 
 
 
-### Aufgabe 30
+### Aufgabe 22
 **Jahresabschluss der Omnibus AG – Vollständige Aufgabe**
 
 Die Omnibus AG schliesst das Geschäftsjahr ab. Folgende Angaben liegen vor:
