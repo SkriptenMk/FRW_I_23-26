@@ -374,4 +374,4 @@ Steuersatz: 21 %
 
 
 
-[Musterlösung](musterloesung.md)
+[Musterlösung](musterloesung.qmd)
