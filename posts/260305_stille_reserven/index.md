@@ -1,18 +1,17 @@
-# Stille Reserven – Trainingsaufgaben
-## Rechnungswesen KBW | HMS/IMS-Niveau | 30 Aufgaben
-
+---
+title: "Aufgaben zur Bildung und Auflösung stiller Reserven"
+author: "Jacques Mock Schindler"
+date: "2026-03-05"
+date-format: "D. MMMM YYYY"
+categories: [Buchungssätze, stille Reserven]
+image: "image.png"
 ---
 
-> **Thema:** Bildung und Auflösung stiller Reserven  
-> **Schwierigkeitsgrad:** Abschlussprüfungsniveau (KBW Büelrain)  
-> **Hilfsmittel:** Taschenrechner, Kontenplan KMU  
-> **Gesamtpunkte:** 120 Punkte
 
----
 
-### Formelanhang
+### Erklärungen
 
-| Begriff | Formel / Erklärung |
+| Begriff | Erklärung |
 |---|---|
 | Stille Reserve | Wahrer Wert − Buchwert |
 | Bildung stiller Reserve | Unterbewertung von Aktiven **oder** Überbewertung von Passiven |
@@ -24,7 +23,7 @@
 
 ---
 
-## TEIL A – Einzelbuchungen (je 2 Punkte)
+## TEIL A – Einzelbuchungen
 
 ### Aufgabe 1
 Die Maschinell AG bewertet ihre Maschine am 31.12. mit CHF 85'000. Der wahre Wert beträgt CHF 120'000.
@@ -32,9 +31,8 @@ Die Maschinell AG bewertet ihre Maschine am 31.12. mit CHF 85'000. Der wahre Wer
 **a)** Berechnen Sie die stille Reserve.  
 **b)** Nennen Sie zwei mögliche Massnahmen, durch die diese stille Reserve gebildet worden sein könnte.
 
-*(2 Punkte)*
 
----
+
 
 ### Aufgabe 2
 Die Handels GmbH bewertet ihr Warenlager per 31.12. mit CHF 42'000. Der tatsächliche Marktwert beträgt CHF 68'000.
@@ -42,9 +40,9 @@ Die Handels GmbH bewertet ihr Warenlager per 31.12. mit CHF 42'000. Der tatsäch
 **a)** Berechnen Sie die stille Reserve im Warenlager.  
 **b)** Durch welche Buchung wurde diese stille Reserve gebildet? Geben Sie den vollständigen Buchungssatz an.
 
-*(2 Punkte)*
 
----
+
+
 
 ### Aufgabe 3
 Ein Unternehmen hat eine Liegenschaft im Buchwert von CHF 380'000. Der Verkehrswert beträgt CHF 610'000.
@@ -52,9 +50,9 @@ Ein Unternehmen hat eine Liegenschaft im Buchwert von CHF 380'000. Der Verkehrsw
 **a)** Wie hoch ist die stille Reserve?  
 **b)** Warum werden solche stillen Reserven in der Praxis häufig über viele Jahre gehalten?
 
-*(2 Punkte)*
 
----
+
+
 
 ### Aufgabe 4
 Die Büro AG bilanziert ihre Debitoren zu CHF 95'000. Davon sind CHF 12'000 tatsächlich uneinbringlich (nicht nur zweifelhaft, sondern definitiv verloren).
@@ -62,9 +60,9 @@ Die Büro AG bilanziert ihre Debitoren zu CHF 95'000. Davon sind CHF 12'000 tats
 **a)** Berechnen Sie die stille Reserve, falls keine Wertberichtigung gebucht wurde.  
 **b)** Wie lautet der Buchungssatz zur Bildung einer Wertberichtigung von CHF 12'000?
 
-*(2 Punkte)*
 
----
+
+
 
 ### Aufgabe 5
 Eine Fahrzeugflotte wird mit CHF 28'000 bilanziert. Die steuerlich maximal erlaubte Abschreibung beträgt 40 % auf den Buchwert, die wirtschaftlich korrekte Abschreibung wäre 25 % auf den Buchwert.
@@ -74,9 +72,9 @@ Buchwert zu Beginn des Jahres: CHF 80'000
 **a)** Berechnen Sie beide Abschreibungsbeträge.  
 **b)** Wie hoch ist die in diesem Jahr gebildete stille Reserve?
 
-*(2 Punkte)*
 
----
+
+
 
 ### Aufgabe 6
 Die Techno AG verkauft eine Anlage für CHF 95'000. Der Buchwert beträgt CHF 60'000.
@@ -84,9 +82,9 @@ Die Techno AG verkauft eine Anlage für CHF 95'000. Der Buchwert beträgt CHF 60
 **a)** Wie lautet der Buchungssatz für den Verkauf?  
 **b)** Welcher Teil dieses Buchungsgewinns könnte einer aufgelösten stillen Reserve entsprechen?
 
-*(2 Punkte)*
 
----
+
+
 
 ### Aufgabe 7
 Die Prima AG bildet zum Jahresabschluss eine Warenabwertung von CHF 18'000 auf ihrem Lager. Der wirtschaftlich notwendige Wertberichtigungsbedarf beträgt lediglich CHF 6'000.
@@ -94,9 +92,9 @@ Die Prima AG bildet zum Jahresabschluss eine Warenabwertung von CHF 18'000 auf i
 **a)** Wie hoch ist die gebildete stille Reserve?  
 **b)** Nennen Sie den vollständigen Buchungssatz für die gesamte Warenabwertung.
 
-*(2 Punkte)*
 
----
+
+
 
 ### Aufgabe 8
 Ein Unternehmen hat folgende Aktiven:
@@ -111,11 +109,11 @@ Ein Unternehmen hat folgende Aktiven:
 **a)** Berechnen Sie die gesamten stillen Reserven in den Aktiven.  
 **b)** In welchen Positionen existieren keine stillen Reserven?
 
-*(2 Punkte)*
 
----
 
-## TEIL B – Bildung stiller Reserven (je 4 Punkte)
+
+
+## TEIL B – Bildung stiller Reserven
 
 ### Aufgabe 9
 Die Alpin AG kauft am 01.01. eine Maschine für CHF 240'000 (Nutzungsdauer 8 Jahre, kein Restwert, lineare Abschreibung). Steuerlich sind 30 % auf den Buchwert (degressiv) erlaubt.
@@ -124,9 +122,8 @@ Die Alpin AG kauft am 01.01. eine Maschine für CHF 240'000 (Nutzungsdauer 8 Jah
 **b)** Wie hoch sind die gebildeten stillen Reserven nach Jahr 1 und nach Jahr 2 (kumuliert)?  
 **c)** Notieren Sie die Buchungssätze für beide Jahre (steuerliche Variante).
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 10
 Die Grosso AG bewertet ihr Warenlager am 31.12. wie folgt:
@@ -139,9 +136,8 @@ Die Grosso AG bewertet ihr Warenlager am 31.12. wie folgt:
 **b)** Wie hoch ist die gebildete stille Reserve?  
 **c)** Geben Sie den Buchungssatz für die steuerliche Variante an.
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 11
 Die Saldo AG bildet eine Rückstellung für Garantieleistungen. Der erwartete Aufwand beträgt CHF 8'500. Die AG bucht jedoch CHF 22'000 (steuerlich erlaubt).
@@ -150,9 +146,8 @@ Die Saldo AG bildet eine Rückstellung für Garantieleistungen. Der erwartete Au
 **b)** Nennen Sie den Buchungssatz für die gesamte Rückstellung.  
 **c)** Erläutern Sie kurz den Unterschied zwischen einer begründeten Rückstellung und einer stillen Reserve via Überrückstellung.
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 12
 Herr Müller, Inhaber der Müller Transport AG, möchte den steuerbaren Gewinn von CHF 85'000 auf CHF 30'000 senken. Der Steuersatz beträgt 22 %.
@@ -161,9 +156,8 @@ Herr Müller, Inhaber der Müller Transport AG, möchte den steuerbaren Gewinn v
 **b)** Berechnen Sie die Steuerersparnis.  
 **c)** Nennen Sie drei konkrete Massnahmen zur Bildung dieser stillen Reserven.
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 13
 Die Immo AG besitzt eine Liegenschaft, die mit CHF 1'200'000 bilanziert ist. Sie schreibt jährlich 2 % auf den Buchwert ab, obwohl der Verkehrswert sich in den letzten 5 Jahren auf CHF 1'850'000 erhöht hat.
@@ -172,9 +166,8 @@ Die Immo AG besitzt eine Liegenschaft, die mit CHF 1'200'000 bilanziert ist. Sie
 **b)** Wie lautet der Buchungssatz für die Abschreibung von Jahr 5?  
 **c)** Darf diese stille Reserve in der Jahresrechnung offengelegt werden? Begründen Sie.
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 14
 Die Deltas AG hat folgende Debitoren per 31.12.:
@@ -192,9 +185,8 @@ Steuerlich bildet die AG eine pauschale Delkredere von 10 % auf alle Debitoren.
 **b)** Berechnen Sie die steuerliche pauschale Delkredere.  
 **c)** Wie hoch ist die gebildete stille Reserve? Notieren Sie beide Buchungssätze (wirtschaftlich und steuerlich).
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 15
 Die Baudo AG kauft am 01.07. eine Produktionsanlage für CHF 480'000. Nutzungsdauer: 10 Jahre linear, kein Restwert. Steuerlich erlaubt: 25 % degressiv auf den Jahresendbuchwert (pro-rata temporis).
@@ -203,9 +195,8 @@ Die Baudo AG kauft am 01.07. eine Produktionsanlage für CHF 480'000. Nutzungsda
 **b)** Berechnen Sie die steuerliche Abschreibung für das Rumpfjahr.  
 **c)** Wie hoch ist die am 31.12. des Kaufjahres gebildete stille Reserve?
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 16
 Die Kredit AG bilanziert Wertschriften (Handelsbestand) mit CHF 95'000 (Kurswert am 31.12.: CHF 138'000). Die AG wendet das Niederstwertprinzip an.
@@ -214,11 +205,10 @@ Die Kredit AG bilanziert Wertschriften (Handelsbestand) mit CHF 95'000 (Kurswert
 **b)** Wenn der Kurs im Vorjahr CHF 108'000 betrug und die AG bereits auf CHF 95'000 abgewertet hatte: Wie hoch war die stille Reserve per Ende Vorjahr?  
 **c)** Um wie viel hat sich die stille Reserve im laufenden Jahr verändert? Buchungssatz?
 
-*(4 Punkte)*
 
----
 
-## TEIL C – Auflösung stiller Reserven (je 4 Punkte)
+
+## TEIL C – Auflösung stiller Reserven
 
 ### Aufgabe 17
 Die Fortuna AG hat in den Vorjahren stille Reserven in folgenden Positionen gebildet:
@@ -234,9 +224,8 @@ Im laufenden Jahr werden beide Positionen vollständig verkauft / aufgelöst.
 **b)** Wie wirkt sich die Auflösung auf den steuerbaren Gewinn aus?  
 **c)** Notieren Sie die Buchungssätze für den Verkauf der Maschinen (Erlös = CHF 160'000).
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 18
 Die Reno AG hat eine Delkredere (Wertberichtigung Debitoren) von CHF 38'000. Im neuen Jahr stellt sich heraus, dass die Debitoren vollständig bezahlen.
@@ -245,9 +234,8 @@ Die Reno AG hat eine Delkredere (Wertberichtigung Debitoren) von CHF 38'000. Im 
 **b)** Welchen Effekt hat dies auf den Gewinn?  
 **c)** Handelt es sich um eine vollständige oder teilweise Auflösung? Was wäre ein Fall für eine teilweise Auflösung?
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 19
 Die Maxim AG hat vor 3 Jahren eine Rückstellung für Prozesskosten von CHF 65'000 gebildet. Der Prozess wird nun für CHF 28'000 beigelegt.
@@ -256,9 +244,8 @@ Die Maxim AG hat vor 3 Jahren eine Rückstellung für Prozesskosten von CHF 65'0
 **b)** Buchen Sie die Auflösung des verbleibenden Rückstellungsbetrags.  
 **c)** Erklären Sie, warum die Auflösung des Überschusses den Gewinn erhöht.
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 20
 Die Expo AG verkauft ihre Produktionsanlage (Buchwert CHF 120'000) für CHF 195'000.
@@ -267,9 +254,8 @@ Die Expo AG verkauft ihre Produktionsanlage (Buchwert CHF 120'000) für CHF 195'
 **b)** Wie hoch ist der Buchungsgewinn und wie viel davon ist stille Reserve?  
 **c)** Welchen Einfluss hat dieser Vorgang auf die Steuerlast? Steuersatz 24 %.
 
-*(4 Punkte)*
 
----
+
 
 ### Aufgabe 21
 Die Warenabwertung der Sigma AG beträgt CHF 45'000 (Vorjahr gebildet). Im neuen Jahr wird das Lager für CHF 210'000 verkauft (Buchwert inkl. Abwertung CHF 168'000).
@@ -278,11 +264,10 @@ Die Warenabwertung der Sigma AG beträgt CHF 45'000 (Vorjahr gebildet). Im neuen
 **b)** Buchen Sie den Warenverkauf.  
 **c)** Wie hoch ist der aufgelöste Teil der stillen Reserve?
 
-*(4 Punkte)*
 
----
 
-## TEIL D – Gemischte Aufgaben (je 6 Punkte)
+
+## TEIL D – Gemischte Aufgaben
 
 ### Aufgabe 22
 Die Bernex AG hat per 31.12. folgende Situation:
@@ -300,9 +285,9 @@ Der Steuersatz beträgt 20 %.
 **c)** Berechnen Sie die Steuerersparnis durch die Bildung der stillen Reserven.  
 **d)** Notieren Sie alle vier Buchungssätze (wirtschaftlich und steuerlich für beide Positionen).
 
-*(6 Punkte)*
 
----
+
+
 
 ### Aufgabe 23
 Die Vario AG weist per 01.01. folgende stille Reserven aus (interne Übersicht):
@@ -320,9 +305,9 @@ Im laufenden Jahr werden aufgelöst: Fahrzeuge (vollständig, da verkauft für C
 **b)** Wie hoch sind die stillen Reserven per 31.12. noch?  
 **c)** Der Steuersatz beträgt 25 %. Wie viel Steuern fallen auf die aufgelösten stillen Reserven an?
 
-*(6 Punkte)*
 
----
+
+
 
 ### Aufgabe 24
 Die Norma AG erzielt einen Gewinn vor Abschreibungen von CHF 320'000. Sie hat folgende Wahlmöglichkeiten:
@@ -341,9 +326,9 @@ Steuersatz: 18 %
 **c)** Wie hoch sind die gesamten gebildeten stillen Reserven?  
 **d)** Nennen Sie einen Nachteil der konsequenten Ausnutzung stiller Reserven.
 
-*(6 Punkte)*
 
----
+
+
 
 ### Aufgabe 25
 Die Delta AG kauft am 01.04. eine Anlage für CHF 360'000. Nutzungsdauer 6 Jahre linear, kein Restwert. Steuerlich: 25 % degressiv, pro-rata temporis.
@@ -353,9 +338,9 @@ Die Delta AG kauft am 01.04. eine Anlage für CHF 360'000. Nutzungsdauer 6 Jahre
 **c)** Stellen Sie die Buchungssätze für beide Varianten auf.  
 **d)** Wie hoch ist die stille Reserve nach dem ersten Jahr?
 
-*(6 Punkte)*
 
----
+
+
 
 ### Aufgabe 26
 Die Kontor AG hat per Jahresende folgende Bilanzpositionen (vor Abschluss):
@@ -370,11 +355,11 @@ Die Kontor AG hat per Jahresende folgende Bilanzpositionen (vor Abschluss):
 **b)** Erstellen Sie eine Übersichtstabelle der stillen Reserven.  
 **c)** Notieren Sie alle Buchungssätze für die steuerliche Variante.
 
-*(6 Punkte)*
 
----
 
-## TEIL E – Komplexe Prüfungsaufgaben (je 8 Punkte)
+
+
+## TEIL E – Komplexe Prüfungsaufgaben
 
 ### Aufgabe 27
 Die Helvex AG weist per 31.12. (vor Jahresabschluss) folgende Positionen aus:
@@ -401,9 +386,9 @@ Steuersatz: 22 %
 **d)** Wie hoch sind die im laufenden Jahr gesamthaft gebildeten stillen Reserven?  
 **e)** Notieren Sie alle sechs Buchungssätze (steuerliche Variante).
 
-*(8 Punkte)*
 
----
+
+
 
 ### Aufgabe 28
 Die Transitex AG hat im Verlauf des Jahres folgende Vorgänge betreffend stille Reserven:
@@ -423,9 +408,9 @@ Die Transitex AG hat im Verlauf des Jahres folgende Vorgänge betreffend stille 
 **c)** Wie viel stille Reserven verbleiben nach den Auflösungen?  
 **d)** Steuersatz 20 %: Berechnen Sie die Steuermehrbelastung durch die Auflösungen.
 
-*(8 Punkte)*
 
----
+
+
 
 ### Aufgabe 29
 Die Merito AG (Steuersatz 24 %) plant eine grössere Investition in 3 Jahren. Sie möchte die Steuerlast in den nächsten Jahren minimieren und stille Reserven aktiv aufbauen.
@@ -442,9 +427,9 @@ Die Merito AG (Steuersatz 24 %) plant eine grössere Investition in 3 Jahren. Si
 **d)** Buchen Sie alle steuerlichen Abschlüsse (steuerliche Maximalvariante).  
 **e)** In 3 Jahren werden alle stillen Reserven aufgelöst. Erläutern Sie den steuerlichen Effekt (Stichwort: Steuerstundung vs. Steuervermeidung).
 
-*(8 Punkte)*
 
----
+
+
 
 ### Aufgabe 30
 **Jahresabschluss der Omnibus AG – Vollständige Aufgabe**
@@ -477,11 +462,6 @@ Steuersatz: 21 %
 **d)** Berechnen Sie den Gewinn vor Steuern (steuerlich) und die Steuerbelastung, falls der Gewinn vor allen Abschlussbuchungen CHF 390'000 beträgt.  
 **e)** Um wie viel Franken unterscheidet sich die Steuerbelastung zwischen wirtschaftlicher und steuerlicher Buchung?
 
-*(8 Punkte)*
 
----
 
-*Ende des Aufgabenblatts*
-
----
-*Trainingsunterlagen RW KBW | v1.3 | Alle Zahlen sind fiktiv und rechnerisch überprüft*
+[Musterlösung](musterloesung.md)
