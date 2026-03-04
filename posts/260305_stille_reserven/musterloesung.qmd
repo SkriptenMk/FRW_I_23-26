@@ -166,7 +166,7 @@ Buchungssatz (keine neue Buchung erforderlich, da Buchwert unverändert bei CHF 
 
 ---
 
-## TEIL C – Auflösung stiller Reserven
+## TEIL B – Auflösung stiller Reserven
 
 ### Lösung Aufgabe 9
 **a)**
@@ -271,7 +271,7 @@ Die Rückstellung war in Vorjahren als Aufwand verbucht worden (Gewinnminderung)
 
 ---
 
-## TEIL D – Gemischte Aufgaben
+## TEIL C – Gemischte Aufgaben
 
 ### Lösung Aufgabe 14
 **Maschinen:** BW Jahresanfang CHF 400'000
@@ -442,7 +442,7 @@ Stille Reserven werden bei Auflösung (Verkauf, Liquidation) sofort voll besteue
 
 ---
 
-## TEIL E – Komplexe Prüfungsaufgaben
+## TEIL D – Komplexe Prüfungsaufgaben
 
 ### Lösung Aufgabe 19
 
