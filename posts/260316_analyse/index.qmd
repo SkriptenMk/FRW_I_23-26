@@ -8,7 +8,14 @@ categories: [Analyse, stille Reserven]
 
 ### Allgemeine Hinweise
 
-Die nachfolgenden Aufgaben basieren auf der veröffentlichten Jahresrechnung 2024 der Pilatus-Bahnen AG (Geschäftsbericht 2024). Die relevanten Ausgangsdaten sind in den Tabellen unten zusammengestellt. Berechnen Sie alle Kennzahlen auf **zwei Dezimalstellen** (sofern nicht anders angegeben) und runden Sie kaufmännisch.
+Die nachfolgenden Aufgaben basieren auf der veröffentlichten
+Jahresrechnung 2024 der Pilatus-Bahnen AG 
+([Geschäftsbericht
+2024](https://cdn.pilatus.ch/content-media/documents/Unternehmen/Gesch%C3%A4ftsbericht-2024.pdf).
+Die relevanten Ausgangsdaten sind in den Tabellen unten zusammengestellt.
+Berechnen Sie alle Kennzahlen auf **zwei Dezimalstellen** (sofern nicht
+anders angegeben) und runden Sie kaufmännisch. 
+
 
 Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspektive eines Aktionärs oder Kreditgebers.
 
@@ -17,22 +24,25 @@ Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspekt
 
 | Kennzahl | Formel |
 |---|---|
-| Liquiditätsgrad 1 | Flüssige Mittel / Kurzfristiges FK × 100 |
-| Liquiditätsgrad 2 | (Flüssige Mittel + Kurzfr. Wertschriften + Ford. L+L) / Kurzfr. FK × 100 |
-| Liquiditätsgrad 3 | Umlaufvermögen / Kurzfristiges FK × 100 |
-| Eigenfinanzierungsgrad (EFG) | Eigenkapital / Bilanzsumme × 100 |
-| Fremdfinanzierungsgrad (FFG) | Fremdkapital / Bilanzsumme × 100 |
-| Anlagendeckungsgrad I | Eigenkapital / Anlagevermögen × 100 |
-| Anlagendeckungsgrad II | (Eigenkapital + Langfr. FK) / Anlagevermögen × 100 |
-| Eigenkapitalrendite (EKR) | Jahresergebnis / Ø Eigenkapital × 100 |
-| Gesamtkapitalrendite (GKR) | (Jahresergebnis + FK-Zinsen) / Ø Bilanzsumme × 100 |
-| Umsatzrendite (UR) | Jahresergebnis / Umsatz × 100 |
-| EBITDA-Marge | EBITDA / Umsatz × 100 |
-| Warenumschlag | Warenaufwand / Ø Warenlager |
-| Lagerdauer (Tage) | 365 / Warenumschlag |
-| Debitorenfrist (Tage) | Ø Ford. L+L / Umsatz × 365 |
-| Cashflow (indirekt) | Jahresergebnis + Abschreibungen ± Veränderung Rückstellungen |
-| Cashflow-Rate | Cashflow / Umsatz × 100 |
+| Liquiditätsgrad 1 | $\frac{\text{Flüssige Mittel}}{\text{Kurzfristiges
+FK}} \times 100$ |
+| Liquiditätsgrad 2 | $\frac{\text{Flüssige Mittel} + \text{Kurzfr.
+Wertschriften} + \text{Ford. L+L}}{\text{Kurzfr. FK}} \times 100$ |
+| Liquiditätsgrad 3 | $\frac{\text{Umlaufvermögen}}{\text{Kurzfristiges FK}} \times 100$ |
+| Eigenfinanzierungsgrad (EFG) | $\frac{\text{Eigenkapital}}{\text{Bilanzsumme}} \times 100$ |
+| Fremdfinanzierungsgrad (FFG) | $\frac{\text{Fremdkapital}}{\text{Bilanzsumme}} \times 100$ |
+| Anlagendeckungsgrad I | $\frac{\text{Eigenkapital}}{\text{Anlagevermögen}} \times 100$ |
+| Anlagendeckungsgrad II | $\frac{\text{Eigenkapital} + \text{Langfr.
+FK}}{\text{Anlagevermögen}} \times 100$ |
+| Eigenkapitalrendite (EKR) | $\frac{\text{Jahresergebnis}}{\varnothing \text{Eigenkapital}} \times 100$ |
+| Gesamtkapitalrendite (GKR) | $\frac{(\text{Jahresergebnis} + \text{FK-Zinsen})}{\varnothing \text{Bilanzsumme}} \times 100$ |
+| Umsatzrendite (UR) | $\frac{\text{Jahresergebnis}}{\text{Umsatz}} \times 100$ |
+| EBITDA-Marge | $\frac{\text{EBITDA}}{\text{Umsatz}} \times 100$ |
+| Warenumschlag | $\frac{\text{Warenaufwand}}{\varnothing \text{Warenlager}}$ |
+| Lagerdauer (Tage) | $\frac{365}{\text{Warenumschlag}}$ |
+| Debitorenfrist (Tage) | $\frac{\varnothing \text{Ford. L+L}}{\text{Umsatz}} \times 365$ |
+| Cashflow (indirekt) | $\text{Jahresergebnis} + \text{Abschreibungen} \pm \text{Veränderung Rückstellungen}$ |
+| Cashflow-Rate | $\frac{\text{Cashflow}}{\text{Umsatz}} \times 100$ |
 
 ---
 
@@ -362,4 +372,3 @@ c) Welcher Faktor hat bei der Pilatus-Bahnen AG den grössten Einfluss auf die E
 
 ---
 
-*Pilatus-Bahnen AG – Kennzahlenübungen | Abschlussprüfungsniveau | Basierend auf Geschäftsbericht 2024*
