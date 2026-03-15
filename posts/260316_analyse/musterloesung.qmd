@@ -1,0 +1,298 @@
+# PILATUS-BAHNEN AG – Kennzahlenanalyse
+## Lösungsblatt *(nur für Lehrpersonen)*
+**Detaillierte Lösungswege mit Formeln, Berechnungen und Interpretationshinweisen**
+
+---
+
+## TEIL A – LIQUIDITÄT
+
+### Lösung Aufgabe 1: Liquiditätsgrade 2024 [6 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| a) LG 1 (Cash Ratio) | 18'089'460 / 9'592'891 × 100 | **188.58 %** | 2 P. |
+| b) LG 2 (Quick Ratio) | (18'089'460 + 121'289 + 2'244'010) / 9'592'891 × 100 | **213.59 %** | 2 P. |
+| c) LG 3 (Current Ratio) | 21'820'790 / 9'592'891 × 100 | **227.47 %** | 2 P. |
+
+> ⚑ **Stolperstein:** Kurzfristig gehaltene Wertschriften (CHF 121'289) gehören bei LG 2 zur «flüssigen Masse». Wer sie weglässt, erhält LG 2 = 212.33 % – falsch.
+
+*→ Alle drei Grenzwerte (≥ 20 %, ≥ 100 %, ≥ 150 %) werden deutlich übertroffen. Die Pilatus-Bahnen AG ist kurzfristig sehr gut zahlungsfähig, was auch dem hohen Kassenbestand von CHF 18 Mio. (aufgebaut für Grossinvestitionen) entspricht.*
+
+---
+
+### Lösung Aufgabe 2: Liquiditätsvergleich 2023 vs. 2024 [5 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| a) LG 2 für 2023 | (13'224'875 + 121'289 + 2'963'468) / 9'278'521 × 100 | **175.40 %** | 1.5 P. |
+| b) LG 2 für 2024 | (18'089'460 + 121'289 + 2'244'010) / 9'592'891 × 100 | **213.59 %** | 1.5 P. |
+
+**c)** Die LG 2 hat sich von 175.40 % auf 213.59 % verbessert (+38.19 Prozentpunkte).
+
+*→ Hauptgrund: Die flüssigen Mittel stiegen um CHF +4.86 Mio. (dank starkem operativem Cashflow), während gleichzeitig die Forderungen L+L um CHF –719'458 zurückgingen. Beide Effekte verbessern LG 2.*
+
+> ⚑ **2 P.** für korrekte Begründung. Korrekte Benennung der Forderungsveränderung ist Stolperstein.
+
+---
+
+### Lösung Aufgabe 3: Nettoumlaufvermögen [4 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| NUV 2024 | 21'820'790 – 9'592'891 | **CHF 12'227'899** | 1.5 P. |
+| NUV 2023 | 17'834'790 – 9'278'521 | **CHF 8'556'269** | 1.5 P. |
+
+**c)** Das NUV gibt an, welcher Teil des Umlaufvermögens nach Abzug aller kurzfristigen Verbindlichkeiten verbleibt. Ein positives NUV bedeutet Solvenz. Das NUV 2024 hat sich gegenüber 2023 um CHF +3.67 Mio. erhöht.
+
+> ⚑ **1 P.** für qualitative Erklärung.
+
+---
+
+### Lösung Aufgabe 4: Kritische Grenzwerte [3 Punkte]
+
+| Kennzahl | Prüfung | Ergebnis | Pkt. |
+|---|---|:---:|:---:|
+| LG 1 ≥ 20 %? | 188.58 % ≥ 20 % | ✓ Erfüllt | 0.5 P. |
+| LG 2 ≥ 100 %? | 213.59 % ≥ 100 % | ✓ Erfüllt | 0.5 P. |
+| LG 3 ≥ 150 %? | 227.47 % ≥ 150 % | ✓ Erfüllt | 0.5 P. |
+
+**b)** Alle Grenzwerte werden erfüllt. Die aussergewöhnlich hohe LG 1 ist nicht zwingend positiv: Überschüssige Liquidität könnte rentabler eingesetzt werden. Die hohen Kassenbestände erklären sich durch die geplanten Grossinvestitionen (Gondelbahn-Erneuerung).
+
+> ⚑ **1.5 P.** für substanzielle Interpretation (nicht nur «gut»). Ohne Interpretation: –1 P.
+
+---
+
+### Lösung Aufgabe 5: Sonderfall Rechnungsabgrenzung [3 Punkte]
+
+Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erbrachte Leistungen oder zurückgestellte Aufwendungen, die im Folgejahr zu einer Verpflichtung führen. Daher gelten sie als kurzfristiges Fremdkapital.
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Kurzfr. FK ohne PRA | 9'592'891 – 3'007'357 | CHF 6'585'534 | 1 P. |
+| LG 2 ohne PRA (neu) | (18'089'460 + 121'289 + 2'244'010) / 6'585'534 × 100 | **311.07 %** | 1 P. |
+| Veränderung | 311.07 % – 213.59 % | +97.48 %-Pkte | 1 P. |
+
+*→ Die LG 2 würde deutlich steigen. Dies zeigt, wie stark die Wahl der FK-Definition die Liquiditätskennzahlen beeinflusst. Methodenkonsistenz ist entscheidend.*
+
+---
+
+## TEIL B – RENTABILITÄT
+
+### Lösung Aufgabe 6: Eigenkapitalrendite (EKR) [5 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Ø EK 2024 | (12'003'414 + 12'407'130) / 2 | CHF 12'205'272 | 0.5 P. |
+| **EKR 2024** | 1'983'365 / 12'205'272 × 100 | **16.25 %** | 1.5 P. |
+| Ø EK 2023 | (10'183'899 + 12'003'414) / 2 | CHF 11'093'657 | 0.5 P. |
+| **EKR 2023** | 1'819'180 / 11'093'657 × 100 | **16.40 %** | 1.5 P. |
+
+**c)** Die EKR blieb nahezu konstant (16.25 % vs. 16.40 %). Obwohl der Jahresgewinn gestiegen ist, hat auch das EK zugenommen. Für einen Aktionär ist die Konstanz positiv – das Wachstum wird profitabel aufrechterhalten.
+
+> ⚑ **Stolperstein:** Verwendung des Durchschnitts-EK (nicht Endbestand). Klassischer Fehler an Abschlussprüfungen.
+
+---
+
+### Lösung Aufgabe 7: Gesamtkapitalrendite (GKR) [5 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Ø Bilanzsumme 2024 | (40'358'934 + 46'077'021) / 2 | CHF 43'217'978 | 0.5 P. |
+| **GKR 2024** (FK-Zinsen = 0) | 1'983'365 / 43'217'978 × 100 | **4.59 %** | 2 P. |
+
+**b)** EKR (16.25 %) > GKR (4.59 %) → positiver Leverage-Effekt. Das Fremdkapital (insb. die zinslosen Rückstellungen und das Aktionärsdarlehen zu 0 %) «verstärkt» die Rendite auf das Eigenkapital. Da FK-Kosten nahe null liegen, ist der Effekt jedoch verzerrt – in einem normalen Zinsumfeld wäre der Leverage-Effekt kleiner.
+
+> ⚑ **2.5 P.** für vollständige Leverage-Diskussion inkl. Hinweis auf Verzerrung durch FK-Zinsen = 0.
+
+---
+
+### Lösung Aufgabe 8: Umsatzrendite und EBITDA-Marge [4 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Umsatzrendite 2024 | 1'983'365 / 43'177'434 × 100 | **4.59 %** | 0.5 P. |
+| Umsatzrendite 2023 | 1'819'180 / 40'119'186 × 100 | **4.53 %** | 0.5 P. |
+| EBITDA-Marge 2024 | 16'107'158 / 43'177'434 × 100 | **37.30 %** | 0.5 P. |
+| EBITDA-Marge 2023 | 15'094'994 / 40'119'186 × 100 | **37.63 %** | 0.5 P. |
+
+**c)** Die EBITDA-Marge misst die operative Ertragskraft vor Abschreibungen, Zinsen und Steuern. Sie ist besser vergleichbar und zeigt, wie viel das operative Geschäft generiert, unabhängig von Finanzierungs- und Steuereffekten. Die Nettoumsatzrendite wird stark durch die ausserordentliche Rückstellungsbildung (CHF 10 Mio.) verzerrt.
+
+> ⚑ Lernende, die auf die Verzerrung durch ausserordentlichen Aufwand hinweisen: +0.5 Bonuspunkt.
+
+---
+
+### Lösung Aufgabe 9: Cashflow-Analyse [5 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| **Cashflow 2024** (indirekt) | 1'983'365 + 3'233'765 + 10'000'000 | **CHF 15'217'130** | 1.5 P. |
+| Cashflow-Rate 2024 | 15'217'129 / 43'177'434 × 100 | **35.24 %** | 1 P. |
+| Cashflow-Rate 2023 | 12'734'540 / 40'119'186 × 100 | **31.74 %** | 1 P. |
+
+**c)** Die Rückstellungsbildung von CHF 10 Mio. ist **kein** Liquiditätszufluss. Es handelt sich um einen buchhalterischen Aufwand (Dotierung einer Rückstellung), der den Gewinn mindert, aber keine Barmittel abfliessen lässt. Beim indirekten Cashflow wird dieser nicht-liquiditätswirksame Aufwand daher wieder addiert. Der effektive Cashflow aus Geschäftstätigkeit (CHF 16.4 Mio.) zeigt den tatsächlichen Geldzufluss.
+
+> ⚑ **1.5 P.** für vollständige Erklärung inkl. «nicht-liquiditätswirksam». Häufiger Fehler: Rückstellung nicht beim Cashflow addieren.
+
+---
+
+### Lösung Aufgabe 10: Bruttogewinnmargen [4 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Bruttogewinnmarge I 2024 | 39'290'353 / 43'177'434 × 100 | **91.00 %** | 1 P. |
+| Bruttogewinnmarge I 2023 | 36'458'545 / 40'119'186 × 100 | **90.88 %** | 1 P. |
+
+**c)** Der Warenaufwand Gastronomie stieg stärker (+9.1 %) als der Merchandising-Aufwand (+1.2 %). Mögliche Gründe: Lebensmittelinflation, geänderter Produktmix oder höhere Einkaufspreise bei gestiegenem Gastronomie-Umsatz. Die Bruttogewinnmarge I ist dennoch leicht gestiegen – die Wareneinsatz-Verhältnisse sind insgesamt stabil.
+
+> ⚑ **2 P.** für korrekte Identifikation der stärker gestiegenen Position + plausibler Begründung.
+
+---
+
+## TEIL C – FINANZIERUNG & STABILITÄT
+
+### Lösung Aufgabe 11: Eigenfinanzierungsgrad (EFG) [5 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| **EFG 2024** | 12'407'130 / 46'077'021 × 100 | **26.93 %** | 1.5 P. |
+| **EFG 2023** | 12'003'414 / 40'358'934 × 100 | **29.74 %** | 1.5 P. |
+
+**c) Paradox:** Das EK stieg von CHF 12'003'414 auf CHF 12'407'130 (+CHF 403'716). Dennoch sank der EFG von 29.74 % auf 26.93 %, weil die Bilanzsumme durch die Bildung von langfristigen Rückstellungen (CHF 10 Mio. zusätzlich) viel stärker wuchs als das EK. Der Nenner wächst schneller als der Zähler → EFG sinkt trotz EK-Wachstum.
+
+> ⚑ **2 P.** für vollständige Erklärung des Paradoxons. Sehr häufiger Prüfungsfehler.
+
+---
+
+### Lösung Aufgabe 12: Fremdfinanzierungsgrad und Verschuldungsgrad [4 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| **FFG 2024** | 33'669'891 / 46'077'021 × 100 | **73.07 %** | 1 P. |
+| **Verschuldungsgrad 2024** | 33'669'891 / 12'407'130 | **2.71 : 1** | 1 P. |
+| **Verschuldungsgrad 2023** | 28'355'521 / 12'003'414 | **2.36 : 1** | 1 P. |
+
+**c)** Der Verschuldungsgrad von 2.71 : 1 bedeutet, dass auf jeden Franken EK rund CHF 2.71 Fremdkapital kommen. Einschränkend: CHF 24 Mio. des FK bestehen aus langfristigen Rückstellungen (keine echten Schulden gegenüber Dritten). Ohne Rückstellungen beträgt der Verschuldungsgrad nur 0.77 : 1.
+
+> ⚑ **1 P.** für die Einschränkung bezüglich Rückstellungen.
+
+---
+
+### Lösung Aufgabe 13: Anlagendeckungsgrade [6 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| **ADG I 2024** | 12'407'130 / 24'256'232 × 100 | **51.16 %** | 1 P. |
+| **ADG II 2024** | (12'407'130 + 24'077'000) / 24'256'232 × 100 | **150.42 %** | 1 P. |
+| **ADG I 2023** | 12'003'414 / 22'524'144 × 100 | **53.29 %** | 1 P. |
+| **ADG II 2023** | (12'003'414 + 19'077'000) / 22'524'144 × 100 | **138.04 %** | 1 P. |
+
+**c)** ADG I < 100 %: Das EK alleine reicht nicht aus, um das AV zu finanzieren. ADG II > 100 % (150.42 %): EK + langfristiges FK überdecken das AV vollständig. Die goldene Finanzierungsregel (ADG II ≥ 100 %) ist erfüllt und hat sich gegenüber 2023 verbessert.
+
+> ⚑ **2 P.** für die Erklärung beider Deckungsgrade und Beurteilung der Goldenen Finanzierungsregel.
+
+---
+
+### Lösung Aufgabe 14: Rückstellungsanalyse [4 Punkte]
+
+| Kennzahl | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| EFG ohne Rückstellungen | 12'407'130 / (46'077'021 – 24'077'000) × 100 | **56.40 %** | 1 P. |
+| FFG ohne Rückstellungen | (33'669'891 – 24'077'000) / (46'077'021 – 24'077'000) × 100 | **43.60 %** | 1 P. |
+
+**b)** Gemäss Art. 960e OR dürfen Rückstellungen gebildet werden für: erkennbare Verbindlichkeiten, drohende Verluste, Erneuerungszwecke von Sachanlagen sowie zur Sicherung des dauernden Gedeihens der Unternehmung (Ermessen des VR). Die Gondelbahn-Rückstellung fällt unter «Erneuerungszwecke» und ist OR-konform.
+
+**c)** Rückstellungsbildung mindert den Jahresgewinn (steuerlich abzugsfähig → Steuerstundung) und reduziert das steuerbare Einkommen. Es entsteht eine stille Reserve, falls die Rückstellung zu hoch ist. Aufgelöste Rückstellungen erhöhen in späteren Jahren den Gewinn.
+
+---
+
+### Lösung Aufgabe 15: Dividendenpolitik und EK-Entwicklung [4 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Anzahl Aktien | 1'320'000 / 50 | 26'400 Aktien | 0.5 P. |
+| **Dividende gesamt (140 %)** | 26'400 × 50 × 140 % | **CHF 1'848'000** | 1 P. |
+| **Ausschüttungsquote** | 1'848'000 / 1'983'365 × 100 | **93.18 %** | 1 P. |
+
+**b)** Nach Dividendenzahlung: Bilanzgewinn (CHF 4'349'054) – Dividende (CHF 1'848'000) – Reserven (CHF 200'000) = CHF 2'301'054 Gewinnvortrag (= gemäss GB 2024 beantragt).
+
+**c)** Mit 93.18 % Ausschüttungsquote werden fast der gesamte Jahresgewinn ausgeschüttet. Dies ist nur dann nachhaltig, wenn die Selbstfinanzierung über Abschreibungen und Rückstellungen gesichert ist – was bei der Pilatus-Bahnen AG der Fall ist (Cashflow von CHF 15.2 Mio. deckt Investitionen und Ausschüttung).
+
+---
+
+## TEIL D – AKTIVITÄT
+
+### Lösung Aufgabe 16: Lagerumschlag und Lagerdauer [5 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Gesamter Warenaufwand 2024 | 2'530'666 + 1'356'415 | CHF 3'887'081 | 0.5 P. |
+| Ø Warenlager 2024 | (920'018 + 935'662) / 2 | CHF 927'840 | 0.5 P. |
+| **Warenumschlag 2024** | 3'887'081 / 927'840 | **4.19 ×** | 1.5 P. |
+| **Lagerdauer** | 365 / 4.19 | **87.1 Tage** | 1.5 P. |
+
+**c)** Eine Lagerdauer von ~87 Tagen erscheint für Gastronomie/Merchandising auf den ersten Blick hoch. Im Gastronomiebereich wären kürzere Umschläge typisch. Die Merchandising-Komponente (Souvenirs, Kleidung) hat naturgemäss eine längere Lagerdauer (saisonale Ware). Der kombinierte Wert von ~87 Tagen ist plausibel, da das Merchandising-Lager dominiert.
+
+> ⚑ Lernende, die nur den Gastronomie-Warenaufwand nehmen: Abzug. Beide Positionen müssen addiert werden.
+
+---
+
+### Lösung Aufgabe 17: Debitorenfrist [5 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Ø Forderungen L+L 2024 | (2'963'468 + 2'244'010) / 2 | CHF 2'603'739 | 1 P. |
+| **Debitorenfrist 2024** | 2'603'739 / 43'177'434 × 365 | **22.00 Tage** | 2 P. |
+
+**c)** Eine Debitorenfrist von ~22 Tagen ist für ein Bergbahn-/Touristikunternehmen sehr kurz, aber plausibel: Ein Grossteil der Einnahmen erfolgt sofort (Ticketverkauf bar/Karte, Gastronomie). Die Forderungen entstehen hauptsächlich aus B2B-Geschäften (Gruppen, Unternehmen, Hotels). 22 Tage entspricht etwa Zahlungsfristen von 30 Tagen netto, was marktüblich ist.
+
+> ⚑ Stolperstein: Einige Lernende verwenden nur den Bahnumsatz oder vergessen die Durchschnittsforderung. Endbestand alleine ergibt 18.96 Tage – ebenfalls akzeptierbar wenn klar begründet.
+
+---
+
+### Lösung Aufgabe 18: Kapitalumschlag [4 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| Ø Bilanzsumme 2024 | (40'358'934 + 46'077'021) / 2 | CHF 43'217'978 | 1 P. |
+| **Kapitalumschlag 2024** | 43'177'434 / 43'217'978 | **0.999 ≈ 1.00 ×** | 1.5 P. |
+
+**c)** Ein Kapitalumschlag von ~1× ist typisch für kapitalintensive Infrastrukturunternehmen wie Bergbahnen. Handelsbetriebe erzielen 2–4×, Dienstleister 1–2×. Die Pilatus-Bahnen AG ist stark in fixem AV investiert (Bahnanlagen, Hotels), was den Umsatz relativ zur Bilanzsumme tief hält. Dieser niedrige Kapitalumschlag drückt – trotz hoher EBITDA-Marge – die GKR.
+
+> ⚑ **1.5 P.** für Einordnung in Branchenkontext. Nur Berechnung ohne Interpretation = 1 P.
+
+---
+
+### Lösung Aufgabe 19: Investitionsanalyse [5 Punkte]
+
+| Schritt | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| **Investitionsquote 2024** | 4'965'852 / 43'177'434 × 100 | **11.50 %** | 1.5 P. |
+| Abschr. / Invest. | 3'233'765 / 4'965'852 × 100 | **65.12 %** | 1 P. |
+| **Invest. / Cashflow** | 4'965'852 / 15'217'129 × 100 | **32.63 %** | 1 P. |
+
+**b)** Die Abschreibungen decken 65.12 % der Investitionen. Die Investitionen übersteigen die Abschreibungen – es findet Nettowachstum im AV statt. Die Differenz (CHF ~1.73 Mio.) muss aus dem Cashflow oder Rückstellungen finanziert werden.
+
+**c)** Investitionen / Cashflow = 32.63 %: Die Pilatus-Bahnen AG kann ihre gesamten Investitionen mehr als dreifach aus dem Cashflow finanzieren. Die Selbstfinanzierungskraft ist sehr stark. Die verbleibenden ~67 % des Cashflows stehen für Schuldenabbau, Dividenden und Rücklagenbildung zur Verfügung.
+
+---
+
+### Lösung Aufgabe 20: DuPont-Analyse (Synthese) [6 Punkte]
+
+| Komponente | Berechnung | Ergebnis | Pkt. |
+|---|---|---:|:---:|
+| **1. Umsatzrendite** | 1'983'365 / 43'177'434 × 100 | **4.594 %** | 1 P. |
+| **2. Kapitalumschlag** | 43'177'434 / 43'217'978 | **0.9991 ×** | 1 P. |
+| **3. Equity Multiplier** | 43'217'978 / 12'205'272 | **3.5409 ×** | 1 P. |
+| **b) EKR (Probe)** | 4.594 % × 0.9991 × 3.5409 | **≈ 16.26 %** ✓ | 1.5 P. |
+
+*(Abweichung von 0.01 % gegenüber Aufgabe 6a durch Rundung ist akzeptabel)*
+
+**c)** Der grösste EKR-Treiber ist der **Equity Multiplier (3.54 ×)**, d.h. der Hebel des FK. Dies liegt an der hohen FK-Quote (73 %). Der Kapitalumschlag (~1×) ist branchenbedingt tief und kaum kurzfristig steigerbar. Die Umsatzrendite (4.59 %) ist durch die ausserordentliche Rückstellungsbildung gedrückt (ohne diese: ~27 %).
+
+Massnahme zur Verbesserung: Umsatzrendite steigern durch Kostensenkung, Preiserhöhungen, oder Auflösung der Rückstellungen in Gewinnjahren; oder Kapitalumschlag durch Umsatzwachstum bei konstanter Bilanzsumme verbessern.
+
+> ⚑ **1.5 P.** für Identifikation des dominanten Treibers + konkrete Massnahme. Probe muss auf ~0.01 % genau stimmen.
+
+---
+
+*Lösungsblatt – Nur für Lehrpersonen | Pilatus-Bahnen AG Kennzahlenübungen | Abschlussprüfungsniveau 2024*
