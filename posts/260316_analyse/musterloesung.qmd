@@ -59,7 +59,7 @@
 
 ---
 
-### Lösung Aufgabe 5: Sonderfall Rechnungsabgrenzung [3 Punkte]
+### Lösung Aufgabe 5: Sonderfall Rechnungsabgrenzung 
 
 Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erbrachte Leistungen oder zurückgestellte Aufwendungen, die im Folgejahr zu einer Verpflichtung führen. Daher gelten sie als kurzfristiges Fremdkapital.
 
