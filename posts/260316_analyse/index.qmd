@@ -12,7 +12,6 @@ Die nachfolgenden Aufgaben basieren auf der veröffentlichten Jahresrechnung 202
 
 Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspektive eines Aktionärs oder Kreditgebers.
 
----
 
 ### Formelanhang
 
@@ -37,7 +36,7 @@ Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspekt
 
 ---
 
-### Ausgangsdaten: Bilanz (in CHF)
+### Bilanz (in CHF)
 
 | AKTIVEN | 31.12.2024 | 31.12.2023 | PASSIVEN | 31.12.2024 | 31.12.2023 |
 |---|---:|---:|---|---:|---:|
@@ -58,7 +57,7 @@ Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspekt
 
 ---
 
-### Ausgangsdaten: Erfolgsrechnung (in CHF)
+### Erfolgsrechnung (in CHF)
 
 | Position | 2024 | 2023 |
 |---|---:|---:|
@@ -97,7 +96,7 @@ Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspekt
 
 ## TEIL A – LIQUIDITÄT
 
-### Aufgabe 1: Liquiditätsgrade 2024 [6 Punkte]
+### Aufgabe 1: Liquiditätsgrade 2024
 
 Berechnen Sie für das Geschäftsjahr 2024 alle drei Liquiditätsgrade der Pilatus-Bahnen AG.
 
@@ -111,7 +110,7 @@ c) Liquiditätsgrad 3 (Current Ratio)
 
 ---
 
-### Aufgabe 2: Liquiditätsvergleich 2023 vs. 2024 [5 Punkte]
+### Aufgabe 2: Liquiditätsvergleich 2023 vs. 2024
 
 Berechnen Sie den Liquiditätsgrad 2 (Quick Ratio) für beide Jahre und beurteilen Sie die Veränderung.
 
@@ -125,7 +124,7 @@ c) Kommentar: Wie hat sich die kurzfristige Zahlungsfähigkeit entwickelt? Nenne
 
 ---
 
-### Aufgabe 3: Nettoumlaufvermögen (Net Working Capital) [4 Punkte]
+### Aufgabe 3: Nettoumlaufvermögen (Net Working Capital)
 
 Berechnen Sie das Nettoumlaufvermögen (NUV) der Pilatus-Bahnen AG per 31.12.2024 und per 31.12.2023.
 
@@ -137,7 +136,7 @@ c) Was sagt das NUV über die Fähigkeit aus, kurzfristige Verbindlichkeiten zu 
 
 ---
 
-### Aufgabe 4: Kritische Grenzwerte [3 Punkte]
+### Aufgabe 4: Kritische Grenzwerte
 
 Die Faustregel besagt: LG 1 ≥ 20 %, LG 2 ≥ 100 %, LG 3 ≥ 150 %.
 
@@ -149,7 +148,7 @@ b) Welcher Grenzwert wird (falls vorhanden) nicht erfüllt, und was könnte dies
 
 ---
 
-### Aufgabe 5: Sonderfall Rechnungsabgrenzung [3 Punkte]
+### Aufgabe 5: Sonderfall Rechnungsabgrenzung
 
 Diskutieren Sie: Warum werden passive Rechnungsabgrenzungen zum kurzfristigen Fremdkapital gezählt, obwohl es sich dabei nicht um eine direkte Zahlungsverpflichtung handelt?
 
@@ -159,7 +158,7 @@ Berechnen Sie ausserdem, wie sich LG 2 für 2024 verändern würde, wenn man die
 
 ## TEIL B – RENTABILITÄT
 
-### Aufgabe 6: Eigenkapitalrendite (EKR) [5 Punkte]
+### Aufgabe 6: Eigenkapitalrendite (EKR)
 
 Berechnen Sie die Eigenkapitalrendite der Pilatus-Bahnen AG für 2024 und 2023.
 
@@ -173,7 +172,7 @@ c) Interpretieren Sie die Entwicklung der EKR aus Aktionärsperspektive.
 
 ---
 
-### Aufgabe 7: Gesamtkapitalrendite (GKR) [5 Punkte]
+### Aufgabe 7: Gesamtkapitalrendite (GKR) 
 
 Berechnen Sie die Gesamtkapitalrendite für 2024. Die Pilatus-Bahnen AG hat keine verzinslichen Bankschulden; das Aktionärsdarlehen (CHF 5 Mio., 0 % Zinsen) gilt als zinslos.
 
@@ -185,7 +184,7 @@ b) Vergleichen Sie EKR und GKR. Was schliessen Sie daraus bezüglich des Leverag
 
 ---
 
-### Aufgabe 8: Umsatzrendite und EBITDA-Marge [4 Punkte]
+### Aufgabe 8: Umsatzrendite und EBITDA-Marge 
 
 Berechnen Sie für 2024 und 2023:
 
@@ -197,7 +196,7 @@ c) Erklären Sie, weshalb die EBITDA-Marge ein besserer Massstab für die operat
 
 ---
 
-### Aufgabe 9: Cashflow-Analyse [5 Punkte]
+### Aufgabe 9: Cashflow-Analyse 
 
 Die Pilatus-Bahnen AG erstellt ihre Geldflussrechnung nach der indirekten Methode.
 
@@ -211,7 +210,7 @@ c) Beurteilen Sie: Die Rückstellungsbildung von CHF 10 Mio. erhöht den Cashflo
 
 ---
 
-### Aufgabe 10: Bruttogewinnmargen [4 Punkte]
+### Aufgabe 10: Bruttogewinnmargen 
 
 Berechnen Sie den Bruttoerfolg I in % des Umsatzes (Bruttogewinnmarge I) für 2024 und 2023 und beurteilen Sie die Entwicklung.
 
@@ -225,7 +224,7 @@ c) Welche Warenaufwandposition ist relativ stärker gestiegen? Was könnte dies 
 
 ## TEIL C – FINANZIERUNG & STABILITÄT
 
-### Aufgabe 11: Eigenfinanzierungsgrad (EFG) [5 Punkte]
+### Aufgabe 11: Eigenfinanzierungsgrad (EFG) 
 
 Berechnen Sie den Eigenfinanzierungsgrad für 2024 und 2023.
 
@@ -239,7 +238,7 @@ c) Der EFG hat sich von 2023 auf 2024 verändert, obwohl das Eigenkapital gestie
 
 ---
 
-### Aufgabe 12: Fremdfinanzierungsgrad und Verschuldungsgrad [4 Punkte]
+### Aufgabe 12: Fremdfinanzierungsgrad und Verschuldungsgrad 
 
 Berechnen Sie:
 
@@ -251,7 +250,7 @@ c) Interpretieren Sie den Verschuldungsgrad aus Gläubigerperspektive.
 
 ---
 
-### Aufgabe 13: Anlagendeckungsgrade [6 Punkte]
+### Aufgabe 13: Anlagendeckungsgrade 
 
 Die goldene Finanzierungsregel verlangt, dass das Anlagevermögen langfristig finanziert ist.
 
@@ -265,7 +264,7 @@ c) Welche Schlussfolgerungen ziehen Sie zur Finanzierungsregel? Ist das AV der P
 
 ---
 
-### Aufgabe 14: Rückstellungsanalyse [4 Punkte]
+### Aufgabe 14: Rückstellungsanalyse 
 
 Die Pilatus-Bahnen AG hat 2024 Rückstellungen von CHF 10 Mio. für die Erneuerung der Gondelbahn gebildet.
 
@@ -277,7 +276,7 @@ c) Welchen Einfluss haben die Rückstellungen auf den ausgewiesenen Jahresgewinn
 
 ---
 
-### Aufgabe 15: Dividendenpolitik und Eigenkapitalentwicklung [4 Punkte]
+### Aufgabe 15: Dividendenpolitik und Eigenkapitalentwicklung 
 
 Der Verwaltungsrat beantragt eine Dividende von 140 % (= CHF 70 pro Namenaktie, Nennwert CHF 50).
 
@@ -291,7 +290,7 @@ c) Berechnen Sie die Ausschüttungsquote (Dividende / Jahresergebnis × 100). Is
 
 ## TEIL D – AKTIVITÄT
 
-### Aufgabe 16: Lagerumschlag und Lagerdauer [5 Punkte]
+### Aufgabe 16: Lagerumschlag und Lagerdauer 
 
 Analysieren Sie den Lagerumschlag für den kombinierten Warenbereich (Gastronomie + Merchandising) für 2024.
 
@@ -305,7 +304,7 @@ c) Beurteilen Sie: Ist die Lagerdauer für ein Unternehmen mit Gastronomie und M
 
 ---
 
-### Aufgabe 17: Debitorenfrist [5 Punkte]
+### Aufgabe 17: Debitorenfrist 
 
 Berechnen Sie die durchschnittliche Debitorenfrist der Pilatus-Bahnen AG für 2024.
 
@@ -319,7 +318,7 @@ c) Kommentieren Sie das Ergebnis: Ergibt eine Debitorenfrist von X Tagen Sinn f�
 
 ---
 
-### Aufgabe 18: Kapitalumschlag (Asset Turnover) [4 Punkte]
+### Aufgabe 18: Kapitalumschlag (Asset Turnover) 
 
 Berechnen Sie den Kapitalumschlag (Umsatz / Ø Bilanzsumme) für 2024.
 
@@ -331,7 +330,7 @@ c) Vergleichen Sie: Ein Handelsunternehmen hat typischerweise einen Kapitalumsch
 
 ---
 
-### Aufgabe 19: Investitionsanalyse [5 Punkte]
+### Aufgabe 19: Investitionsanalyse 
 
 Analysieren Sie die Investitionstätigkeit 2024 anhand der Anlagenrechnung.
 
@@ -345,7 +344,7 @@ c) Was zeigt die Kennzahl «Investitionen / Cashflow» bezüglich der Selbstfina
 
 ---
 
-### Aufgabe 20: DuPont-Analyse (Syntheseaufgabe) [6 Punkte]
+### Aufgabe 20: DuPont-Analyse (Syntheseaufgabe) 
 
 Die DuPont-Analyse zerlegt die Eigenkapitalrendite in ihre Treiber:
 
