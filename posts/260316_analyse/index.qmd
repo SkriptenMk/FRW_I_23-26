@@ -373,3 +373,4 @@ c) Welcher Faktor hat bei der Pilatus-Bahnen AG den grössten Einfluss auf die E
 
 ---
 
+[Musterlösung](musterloesung.qmd)
