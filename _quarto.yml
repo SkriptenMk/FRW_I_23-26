@@ -26,3 +26,6 @@ format:
     code-line-numbers: true 
     mainfont: "TeX Gyre Termes"
     monofont: "TeX Gyre Cursor"
+    include-in-header:
+      text: |
+        \usepackage{amssymb}
