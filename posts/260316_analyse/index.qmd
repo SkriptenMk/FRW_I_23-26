@@ -1,7 +1,9 @@
-# PILATUS-BAHNEN AG – Kennzahlenanalyse
-## Aufgabenblatt
-**20 Aufgaben zu Liquidität, Rentabilität, Finanzierung & Aktivität | Schwierigkeitsniveau: Abschlussprüfung**
-
+---
+title: "Kennzahlenanalyse am Beispiel der PILATUS-BAHNEN AG"
+author: "Jacques Mock Schindler"
+date: "2026-03-16"
+date-format: "D. MMMM YYYY"
+categories: [Analyse, stille Reserven]
 ---
 
 ### Allgemeine Hinweise
