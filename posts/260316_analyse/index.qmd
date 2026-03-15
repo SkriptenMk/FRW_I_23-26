@@ -1,0 +1,376 @@
+---
+title: "Kennzahlenanalyse am Beispiel der PILATUS-BAHNEN AG"
+author: "Jacques Mock Schindler"
+date: "2026-03-16"
+date-format: "D. MMMM YYYY"
+image: "image.png"
+categories: [Analyse, stille Reserven]
+---
+
+### Allgemeine Hinweise
+
+Die nachfolgenden Aufgaben basieren auf der veröffentlichten
+Jahresrechnung 2024 der Pilatus-Bahnen AG 
+([Geschäftsbericht
+2024](https://cdn.pilatus.ch/content-media/documents/Unternehmen/Gesch%C3%A4ftsbericht-2024.pdf)).
+Die relevanten Ausgangsdaten sind in den Tabellen unten zusammengestellt.
+Berechnen Sie alle Kennzahlen auf **zwei Dezimalstellen** (sofern nicht
+anders angegeben) und runden Sie kaufmännisch. 
+
+
+Interpretieren Sie jede berechnete Kennzahl kurz (1–2 Sätze) aus der Perspektive eines Aktionärs oder Kreditgebers.
+
+
+### Formelanhang
+
+| Kennzahl | Formel |
+|---|---|
+| Liquiditätsgrad 1 | $\frac{\text{Flüssige Mittel}}{\text{Kurzfristiges
+FK}} \times 100$ |
+| Liquiditätsgrad 2 | $\frac{\text{Flüssige Mittel} + \text{Kurzfr.
+Wertschriften} + \text{Ford. L+L}}{\text{Kurzfr. FK}} \times 100$ |
+| Liquiditätsgrad 3 | $\frac{\text{Umlaufvermögen}}{\text{Kurzfristiges FK}} \times 100$ |
+| Eigenfinanzierungsgrad (EFG) | $\frac{\text{Eigenkapital}}{\text{Bilanzsumme}} \times 100$ |
+| Fremdfinanzierungsgrad (FFG) | $\frac{\text{Fremdkapital}}{\text{Bilanzsumme}} \times 100$ |
+| Anlagendeckungsgrad I | $\frac{\text{Eigenkapital}}{\text{Anlagevermögen}} \times 100$ |
+| Anlagendeckungsgrad II | $\frac{\text{Eigenkapital} + \text{Langfr.
+FK}}{\text{Anlagevermögen}} \times 100$ |
+| Eigenkapitalrendite (EKR) | $\frac{\text{Jahresergebnis}}{\varnothing \text{Eigenkapital}} \times 100$ |
+| Gesamtkapitalrendite (GKR) | $\frac{(\text{Jahresergebnis} + \text{FK-Zinsen})}{\varnothing \text{Bilanzsumme}} \times 100$ |
+| Umsatzrendite (UR) | $\frac{\text{Jahresergebnis}}{\text{Umsatz}} \times 100$ |
+| EBITDA-Marge | $\frac{\text{EBITDA}}{\text{Umsatz}} \times 100$ |
+| Warenumschlag | $\frac{\text{Warenaufwand}}{\varnothing \text{Warenlager}}$ |
+| Lagerdauer (Tage) | $\frac{365}{\text{Warenumschlag}}$ |
+| Debitorenfrist (Tage) | $\frac{\varnothing \text{Ford. L+L}}{\text{Umsatz}} \times 365$ |
+| Cashflow (indirekt) | $\text{Jahresergebnis} + \text{Abschreibungen} \pm \text{Veränderung Rückstellungen}$ |
+| Cashflow-Rate | $\frac{\text{Cashflow}}{\text{Umsatz}} \times 100$ |
+
+---
+
+### Bilanz (in CHF)
+
+| AKTIVEN | 31.12.2024 | 31.12.2023 | PASSIVEN | 31.12.2024 | 31.12.2023 |
+|---|---:|---:|---|---:|---:|
+| Flüssige Mittel | 18'089'460 | 13'224'875 | Verbindl. L+L | 2'571'182 | 2'140'491 |
+| Kurzfr. Wertschriften | 121'289 | 121'289 | Übr. kurzfr. Verbindl. | 4'014'353 | 3'378'143 |
+| Ford. L+L | 2'244'010 | 2'963'468 | Passive Rechnungsabgr. | 3'007'357 | 3'759'887 |
+| Übr. kurzfr. Ford. | 346'076 | 545'128 | **Kurzfristiges FK** | **9'592'891** | **9'278'521** |
+| Warenvorräte | 935'662 | 920'018 | | | |
+| Akt. Rechnungsabgr. | 84'292 | 60'012 | Langfristiges FK | 24'077'000 | 19'077'000 |
+| **Umlaufvermögen** | **21'820'790** | **17'834'790** | **Fremdkapital** | **33'669'891** | **28'355'521** |
+| Sachanlagen (Buchwert) | 23'963'700 | 21'259'157 | Aktienkapital | 1'320'000 | 1'320'000 |
+| Anlagen im Bau | 258'532 | 1'230'987 | Gesetzl. Gewinnreserven | 2'750'000 | 2'750'000 |
+| Grundstücke | 34'000 | 34'000 | Freiw. Gewinnreserven | 4'050'000 | 3'850'000 |
+| **Anlagevermögen** | **24'256'232** | **22'524'144** | Eigene Kapitalanteile | –61'924 | –66'276 |
+| | | | Gewinnvortrag + JE | 4'349'054 | 4'149'689 |
+| | | | **Eigenkapital** | **12'407'130** | **12'003'414** |
+| **Total Aktiven** | **46'077'021** | **40'358'934** | **Total Passiven** | **46'077'021** | **40'358'934** |
+
+---
+
+### Erfolgsrechnung (in CHF)
+
+| Position | 2024 | 2023 |
+|---|---:|---:|
+| Gesamtumsatz (Nettoerlös) | 43'177'434 | 40'119'186 |
+| Warenaufwand Gastronomie | –2'530'666 | –2'320'463 |
+| Warenaufwand Merchandising | –1'356'415 | –1'340'178 |
+| **Bruttoerfolg I** | **39'290'353** | **36'458'545** |
+| Personalaufwand | –15'590'232 | –14'687'283 |
+| **Bruttoerfolg II** | **23'700'121** | **21'771'263** |
+| Allgemeiner Betriebsaufwand gesamt | –7'592'963 | –6'676'268 |
+| **Betriebsergebnis (EBITDA)** | **16'107'158** | **15'094'994** |
+| Ordentliche Abschreibungen | –3'233'765 | –3'115'359 |
+| **Betriebsergebnis (EBIT)** | **12'873'394** | **11'979'635** |
+| Finanzertrag / Finanzaufwand (netto) | 110'996 | 51'038 |
+| Betriebsfremder Aufwand/Ertrag (netto) | 46'296 | 78'076 |
+| Ausserordentlicher Aufwand (netto) | –10'000'000 | –9'080'162 |
+| Steuern | –1'047'321 | –1'209'406 |
+| **Jahresergebnis** | **1'983'365** | **1'819'180** |
+
+---
+
+### Zusatzdaten für Aktivitätskennzahlen
+
+| Position | 2024 | 2023 |
+|---|---:|---:|
+| Warenaufwand Gastronomie | 2'530'666 | 2'320'463 |
+| Warenaufwand Merchandising | 1'356'415 | 1'340'178 |
+| Warenvorräte (Endbestand) | 935'662 | 920'018 |
+| Warenvorräte (Anfangsbestand 2024 = Endbestand 2023) | 920'018 | — |
+| Forderungen L+L (Endbestand) | 2'244'010 | 2'963'468 |
+| Forderungen L+L (Anfangsbestand 2024) | 2'963'468 | — |
+| Abschreibungen | 3'233'765 | 3'115'359 |
+| Veränderung Rückstellungen | +10'000'000 | +7'800'000 |
+
+---
+
+## TEIL A – LIQUIDITÄT
+
+### Aufgabe 1: Liquiditätsgrade 2024
+
+Berechnen Sie für das Geschäftsjahr 2024 alle drei Liquiditätsgrade der Pilatus-Bahnen AG.
+
+a) Liquiditätsgrad 1 (Cash Ratio)
+
+b) Liquiditätsgrad 2 (Quick Ratio / Acid Test)
+
+c) Liquiditätsgrad 3 (Current Ratio)
+
+> *Hinweis: Runden Sie auf zwei Dezimalstellen. Beachten Sie, dass kurzfristig gehaltene Wertschriften bei Grad 2 zur «flüssigen Masse» zu zählen sind.*
+
+---
+
+### Aufgabe 2: Liquiditätsvergleich 2023 vs. 2024
+
+Berechnen Sie den Liquiditätsgrad 2 (Quick Ratio) für beide Jahre und beurteilen Sie die Veränderung.
+
+a) Liquiditätsgrad 2 für 2023
+
+b) Liquiditätsgrad 2 für 2024
+
+c) Kommentar: Wie hat sich die kurzfristige Zahlungsfähigkeit entwickelt? Nennen Sie einen möglichen Grund für die Veränderung.
+
+> *Hinweis: Die Forderungen L+L haben sich stark verändert – gehen Sie darauf ein.*
+
+---
+
+### Aufgabe 3: Nettoumlaufvermögen (Net Working Capital)
+
+Berechnen Sie das Nettoumlaufvermögen (NUV) der Pilatus-Bahnen AG per 31.12.2024 und per 31.12.2023.
+
+a) NUV 2024
+
+b) NUV 2023
+
+c) Was sagt das NUV über die Fähigkeit aus, kurzfristige Verbindlichkeiten zu decken?
+
+---
+
+### Aufgabe 4: Kritische Grenzwerte
+
+Die Faustregel besagt: LG 1 ≥ 20 %, LG 2 ≥ 100 %, LG 3 ≥ 150 %.
+
+a) Erfüllt die Pilatus-Bahnen AG per 31.12.2024 alle drei Grenzwerte? Begründen Sie.
+
+b) Welcher Grenzwert wird (falls vorhanden) nicht erfüllt, und was könnte dies bedeuten?
+
+> *Hinweis: Verwenden Sie Ihre Ergebnisse aus Aufgabe 1.*
+
+---
+
+### Aufgabe 5: Sonderfall Rechnungsabgrenzung
+
+Diskutieren Sie: Warum werden passive Rechnungsabgrenzungen zum kurzfristigen Fremdkapital gezählt, obwohl es sich dabei nicht um eine direkte Zahlungsverpflichtung handelt?
+
+Berechnen Sie ausserdem, wie sich LG 2 für 2024 verändern würde, wenn man die passiven Rechnungsabgrenzungen nicht zum kurzfristigen FK zählen würde.
+
+---
+
+## TEIL B – RENTABILITÄT
+
+### Aufgabe 6: Eigenkapitalrendite (EKR)
+
+Berechnen Sie die Eigenkapitalrendite der Pilatus-Bahnen AG für 2024 und 2023.
+
+a) EKR 2024 (verwenden Sie den Durchschnitt aus Anfangs- und Endbestand EK)
+
+b) EKR 2023 (EK-Anfangsbestand 2023 = CHF 10'183'899)
+
+c) Interpretieren Sie die Entwicklung der EKR aus Aktionärsperspektive.
+
+> *Hinweis: Jahresergebnis 2023 = CHF 1'819'180 | EK-Endbestand 2023 = CHF 12'003'414*
+
+---
+
+### Aufgabe 7: Gesamtkapitalrendite (GKR) 
+
+Berechnen Sie die Gesamtkapitalrendite für 2024. Die Pilatus-Bahnen AG hat keine verzinslichen Bankschulden; das Aktionärsdarlehen (CHF 5 Mio., 0 % Zinsen) gilt als zinslos.
+
+a) GKR 2024 (Bilanzsumme Anfang 2024 = CHF 40'358'934)
+
+b) Vergleichen Sie EKR und GKR. Was schliessen Sie daraus bezüglich des Leverage-Effekts?
+
+> *Hinweis: Da keine Fremdkapitalzinsen anfallen, vereinfacht sich die GKR-Formel entsprechend.*
+
+---
+
+### Aufgabe 8: Umsatzrendite und EBITDA-Marge 
+
+Berechnen Sie für 2024 und 2023:
+
+a) Nettoumsatzrendite (Jahresergebnis / Umsatz × 100) für beide Jahre
+
+b) EBITDA-Marge für beide Jahre
+
+c) Erklären Sie, weshalb die EBITDA-Marge ein besserer Massstab für die operative Ertragskraft ist als die Nettoumsatzrendite.
+
+---
+
+### Aufgabe 9: Cashflow-Analyse 
+
+Die Pilatus-Bahnen AG erstellt ihre Geldflussrechnung nach der indirekten Methode.
+
+a) Berechnen Sie den Cashflow 2024 (indirekte Methode, Ausgangspunkt: Jahresergebnis).
+
+b) Berechnen Sie die Cashflow-Rate 2024 und 2023.
+
+c) Beurteilen Sie: Die Rückstellungsbildung von CHF 10 Mio. erhöht den Cashflow massgeblich. Handelt es sich dabei um einen echten Liquiditätszufluss? Begründen Sie.
+
+> *Hinweis: Rückstellungsbildung = nicht-liquiditätswirksamer Aufwand → addieren beim Cashflow.*
+
+---
+
+### Aufgabe 10: Bruttogewinnmargen 
+
+Berechnen Sie den Bruttoerfolg I in % des Umsatzes (Bruttogewinnmarge I) für 2024 und 2023 und beurteilen Sie die Entwicklung.
+
+a) Bruttogewinnmarge I 2024
+
+b) Bruttogewinnmarge I 2023
+
+c) Welche Warenaufwandposition ist relativ stärker gestiegen? Was könnte dies bedeuten?
+
+---
+
+## TEIL C – FINANZIERUNG & STABILITÄT
+
+### Aufgabe 11: Eigenfinanzierungsgrad (EFG) 
+
+Berechnen Sie den Eigenfinanzierungsgrad für 2024 und 2023.
+
+a) EFG 2024
+
+b) EFG 2023
+
+c) Der EFG hat sich von 2023 auf 2024 verändert, obwohl das Eigenkapital gestiegen ist. Erklären Sie dieses scheinbare Paradox.
+
+> *Hinweis: Achten Sie auf die Veränderung der Bilanzsumme, insbesondere der langfristigen Rückstellungen.*
+
+---
+
+### Aufgabe 12: Fremdfinanzierungsgrad und Verschuldungsgrad 
+
+Berechnen Sie:
+
+a) Fremdfinanzierungsgrad (FFG) 2024
+
+b) Verschuldungsgrad (FK / EK) 2024 und 2023
+
+c) Interpretieren Sie den Verschuldungsgrad aus Gläubigerperspektive.
+
+---
+
+### Aufgabe 13: Anlagendeckungsgrade 
+
+Die goldene Finanzierungsregel verlangt, dass das Anlagevermögen langfristig finanziert ist.
+
+a) Berechnen Sie ADG I (nur EK) und ADG II (EK + langfr. FK) für 2024.
+
+b) Berechnen Sie ADG I und ADG II für 2023.
+
+c) Welche Schlussfolgerungen ziehen Sie zur Finanzierungsregel? Ist das AV der Pilatus-Bahnen AG «golden» finanziert?
+
+> *Hinweis: Langfristiges FK 2024 = CHF 24'077'000 | Langfristiges FK 2023 = CHF 19'077'000*
+
+---
+
+### Aufgabe 14: Rückstellungsanalyse 
+
+Die Pilatus-Bahnen AG hat 2024 Rückstellungen von CHF 10 Mio. für die Erneuerung der Gondelbahn gebildet.
+
+a) Wie verändern sich EFG und FFG, wenn man diese Rückstellungen aus dem FK herausnimmt und als «wirtschaftliches EK» betrachtet?
+
+b) Nehmen Sie Stellung: Sind diese Rückstellungen OR-konform? Stützen Sie Ihre Antwort auf Art. 960e OR.
+
+c) Welchen Einfluss haben die Rückstellungen auf den ausgewiesenen Jahresgewinn und auf das steuerbare Einkommen?
+
+---
+
+### Aufgabe 15: Dividendenpolitik und Eigenkapitalentwicklung 
+
+Der Verwaltungsrat beantragt eine Dividende von 140 % (= CHF 70 pro Namenaktie, Nennwert CHF 50).
+
+a) Berechnen Sie die gesamte Dividendensumme. (Nennwert Aktienkapital = CHF 1'320'000, Nennwert pro Aktie = CHF 50)
+
+b) Wie entwickelt sich das Eigenkapital nach der Dividendenzahlung im Folgejahr (ceteris paribus)?
+
+c) Berechnen Sie die Ausschüttungsquote (Dividende / Jahresergebnis × 100). Ist diese nachhaltig?
+
+---
+
+## TEIL D – AKTIVITÄT
+
+### Aufgabe 16: Lagerumschlag und Lagerdauer 
+
+Analysieren Sie den Lagerumschlag für den kombinierten Warenbereich (Gastronomie + Merchandising) für 2024.
+
+a) Berechnen Sie den gesamten Warenumschlag 2024 (Anfangslager = Endlager 2023 = CHF 920'018).
+
+b) Berechnen Sie die durchschnittliche Lagerdauer in Tagen.
+
+c) Beurteilen Sie: Ist die Lagerdauer für ein Unternehmen mit Gastronomie und Merchandising angemessen?
+
+> *Hinweis: Verwenden Sie den kombinierten Warenaufwand (Gastronomie + Merchandising). Jahresbasis = 365 Tage.*
+
+---
+
+### Aufgabe 17: Debitorenfrist 
+
+Berechnen Sie die durchschnittliche Debitorenfrist der Pilatus-Bahnen AG für 2024.
+
+a) Durchschnittliche Forderungen L+L 2024 (Anfangsbestand 2024 = CHF 2'963'468)
+
+b) Debitorenfrist in Tagen (bezogen auf Gesamtumsatz)
+
+c) Kommentieren Sie das Ergebnis: Ergibt eine Debitorenfrist von X Tagen Sinn für ein Bergbahn- und Touristikunternehmen?
+
+> *Hinweis: Bei einem Unternehmen mit hohem Barzahlungsanteil (Ticketverkauf, Gastronomie) sind kurze Debitorenfristen zu erwarten.*
+
+---
+
+### Aufgabe 18: Kapitalumschlag (Asset Turnover) 
+
+Berechnen Sie den Kapitalumschlag (Umsatz / Ø Bilanzsumme) für 2024.
+
+a) Durchschnittliche Bilanzsumme 2024 (Anfang = CHF 40'358'934)
+
+b) Kapitalumschlag 2024
+
+c) Vergleichen Sie: Ein Handelsunternehmen hat typischerweise einen Kapitalumschlag von 2–4×, ein Infrastrukturunternehmen oft unter 1×. Ordnen Sie die Pilatus-Bahnen AG ein.
+
+---
+
+### Aufgabe 19: Investitionsanalyse 
+
+Analysieren Sie die Investitionstätigkeit 2024 anhand der Anlagenrechnung.
+
+a) Berechnen Sie die Investitionsquote (Investitionen / Umsatz × 100). Investitionen (Zugänge brutto) = CHF 4'965'852.
+
+b) Vergleichen Sie die Abschreibungen mit den Investitionen: Werden die Investitionen durch Abschreibungen gedeckt (Ersatzfinanzierung)?
+
+c) Was zeigt die Kennzahl «Investitionen / Cashflow» bezüglich der Selbstfinanzierungsfähigkeit?
+
+> *Hinweis: Investitionen (Zugänge brutto) = CHF 4'965'852 | Abschreibungen = CHF 3'233'765*
+
+---
+
+### Aufgabe 20: DuPont-Analyse (Syntheseaufgabe) 
+
+Die DuPont-Analyse zerlegt die Eigenkapitalrendite in ihre Treiber:
+
+**EKR = Umsatzrendite × Kapitalumschlag × Equity Multiplier**
+
+*(EKR = JE/Umsatz × Umsatz/Ø Bilanzsumme × Ø Bilanzsumme/Ø EK)*
+
+a) Berechnen Sie alle drei Komponenten für 2024.
+
+b) Überprüfen Sie: Ergibt die Multiplikation der drei Grössen die EKR aus Aufgabe 6a?
+
+c) Welcher Faktor hat bei der Pilatus-Bahnen AG den grössten Einfluss auf die EKR? Begründen Sie und nennen Sie eine unternehmerische Massnahme, um diesen Faktor zu verbessern.
+
+> *Hinweis: Ø EK 2024 = (CHF 12'003'414 + CHF 12'407'130) / 2 = CHF 12'205'272 | Ø Bilanzsumme = CHF 43'217'978*
+
+---
+
+[Musterlösung](musterloesung.qmd)
