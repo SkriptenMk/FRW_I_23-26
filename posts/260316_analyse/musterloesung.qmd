@@ -3,7 +3,7 @@
 
 ## TEIL A – LIQUIDITÄT
 
-### Lösung Aufgabe 1: Liquiditätsgrade 2024 [6 Punkte]
+### Lösung Aufgabe 1: Liquiditätsgrade 2024 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -17,7 +17,7 @@
 
 ---
 
-### Lösung Aufgabe 2: Liquiditätsvergleich 2023 vs. 2024 [5 Punkte]
+### Lösung Aufgabe 2: Liquiditätsvergleich 2023 vs. 2024 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -32,7 +32,7 @@
 
 ---
 
-### Lösung Aufgabe 3: Nettoumlaufvermögen [4 Punkte]
+### Lösung Aufgabe 3: Nettoumlaufvermögen 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -45,7 +45,7 @@
 
 ---
 
-### Lösung Aufgabe 4: Kritische Grenzwerte [3 Punkte]
+### Lösung Aufgabe 4: Kritische Grenzwerte 
 
 | Kennzahl | Prüfung | Ergebnis | Pkt. |
 |---|---|:---:|:---:|
@@ -75,7 +75,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ## TEIL B – RENTABILITÄT
 
-### Lösung Aufgabe 6: Eigenkapitalrendite (EKR) [5 Punkte]
+### Lösung Aufgabe 6: Eigenkapitalrendite (EKR) 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -90,7 +90,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 7: Gesamtkapitalrendite (GKR) [5 Punkte]
+### Lösung Aufgabe 7: Gesamtkapitalrendite (GKR) 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -103,7 +103,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 8: Umsatzrendite und EBITDA-Marge [4 Punkte]
+### Lösung Aufgabe 8: Umsatzrendite und EBITDA-Marge 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -118,7 +118,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 9: Cashflow-Analyse [5 Punkte]
+### Lösung Aufgabe 9: Cashflow-Analyse 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -132,7 +132,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 10: Bruttogewinnmargen [4 Punkte]
+### Lösung Aufgabe 10: Bruttogewinnmargen 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -147,7 +147,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ## TEIL C – FINANZIERUNG & STABILITÄT
 
-### Lösung Aufgabe 11: Eigenfinanzierungsgrad (EFG) [5 Punkte]
+### Lösung Aufgabe 11: Eigenfinanzierungsgrad (EFG) 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -160,7 +160,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 12: Fremdfinanzierungsgrad und Verschuldungsgrad [4 Punkte]
+### Lösung Aufgabe 12: Fremdfinanzierungsgrad und Verschuldungsgrad 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -174,7 +174,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 13: Anlagendeckungsgrade [6 Punkte]
+### Lösung Aufgabe 13: Anlagendeckungsgrade 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -189,7 +189,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 14: Rückstellungsanalyse [4 Punkte]
+### Lösung Aufgabe 14: Rückstellungsanalyse 
 
 | Kennzahl | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -202,7 +202,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 15: Dividendenpolitik und EK-Entwicklung [4 Punkte]
+### Lösung Aufgabe 15: Dividendenpolitik und EK-Entwicklung 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -218,7 +218,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ## TEIL D – AKTIVITÄT
 
-### Lösung Aufgabe 16: Lagerumschlag und Lagerdauer [5 Punkte]
+### Lösung Aufgabe 16: Lagerumschlag und Lagerdauer 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -233,7 +233,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 17: Debitorenfrist [5 Punkte]
+### Lösung Aufgabe 17: Debitorenfrist 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -246,7 +246,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 18: Kapitalumschlag [4 Punkte]
+### Lösung Aufgabe 18: Kapitalumschlag 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -259,7 +259,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 19: Investitionsanalyse [5 Punkte]
+### Lösung Aufgabe 19: Investitionsanalyse 
 
 | Schritt | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
@@ -273,7 +273,7 @@ Passive Rechnungsabgrenzungen sind vorausgegangene Einnahmen für noch nicht erb
 
 ---
 
-### Lösung Aufgabe 20: DuPont-Analyse (Synthese) [6 Punkte]
+### Lösung Aufgabe 20: DuPont-Analyse (Synthese) 
 
 | Komponente | Berechnung | Ergebnis | Pkt. |
 |---|---|---:|:---:|
