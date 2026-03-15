@@ -1,8 +1,5 @@
-# PILATUS-BAHNEN AG – Kennzahlenanalyse
-## Lösungsblatt *(nur für Lehrpersonen)*
-**Detaillierte Lösungswege mit Formeln, Berechnungen und Interpretationshinweisen**
+# Musterlösung Kennzahlenanalyse
 
----
 
 ## TEIL A – LIQUIDITÄT
 
