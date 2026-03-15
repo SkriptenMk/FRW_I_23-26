@@ -3,6 +3,7 @@ title: "Kennzahlenanalyse am Beispiel der PILATUS-BAHNEN AG"
 author: "Jacques Mock Schindler"
 date: "2026-03-16"
 date-format: "D. MMMM YYYY"
+image: "image.png"
 categories: [Analyse, stille Reserven]
 ---
 
