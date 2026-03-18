@@ -1,0 +1,138 @@
+# Musterlösung – Kennzahlenanalyse Stanserhorn-Bahn AG 2024
+
+
+
+## Aufgabe 1 – Liquidität
+
+### (a) Liquiditätsgrad 1 – Cash Ratio
+
+$$\text{Liquiditätsgrad 1} = \frac{3'206'537}{615'848} \times 100 = \mathbf{520.68\,\%}$$
+
+> Richtwert $\geq 20\,\%$ → **massiv übererfüllt**
+
+
+### (b) Liquiditätsgrad 2 – Quick Ratio
+
+$$\text{Liquiditätsgrad 2} = \frac{3'206'537 + 382'277 + 1'126'488}{615'848} \times 100 = \frac{4'715'302}{615'848} \times 100 = \mathbf{765.69\,\%}$$
+
+> Richtwert $\geq 100\,\%$ → **stark übererfüllt**
+
+
+
+> 🔴 **Stolperstein:** Wer die «Übrigen kurzfristigen Forderungen» (CHF 1'126'488) weglässt, erhält 305.60 % – rechnerisch korrekt, aber unvollständig. 1 Punkt Abzug ohne Begründung.
+
+---
+
+### (c) Liquiditätsgrad 3 – Current Ratio
+
+$$\text{Liquiditätsgrad 3} = \frac{4'850'270}{615'848} \times 100 = \mathbf{787.60\,\%}$$
+
+> Richtwert $\geq 150\,\%$ → **massiv übererfüllt**
+
+
+
+### (d) Beurteilung Liquidität
+
+Die Liquidität der Stanserhorn-Bahn ist auf allen drei Graden
+ausgezeichnet und liegt weit über den Richtwerten. Gegenüber dem Vorjahr
+(Lg 3 2023: $2'532'113 \div 823'322 \times 100 = 307.53\,\%$) hat sie
+sich nochmals dramatisch verbessert. Der entscheidende Treiber ist der
+Zufluss aus der Erbschaft (CHF 958'607), der sich direkt in den
+flüssigen Mitteln und den übrigen kurzfristigen Forderungen
+niederschlägt. Dieser Effekt ist einmalig und wird die Liquidität ab
+2025 wieder normalisieren. 
+
+
+
+## Aufgabe 2 – Rentabilität
+
+### Vorberechnungen Durchschnittswerte
+
+$$\varnothing \text{ Eigenkapital} = \frac{10'708'809 + 11'089'882}{2} = \mathbf{10'899'346}$$
+
+$$\varnothing \text{ Gesamtkapital} = \frac{13'454'301 + 13'681'614}{2} = \mathbf{13'567'958}$$
+
+---
+
+### (a) Eigenkapitalrentabilität – ROE
+
+$$\text{EKR} = \frac{386'023}{10'899'346} \times 100 = \mathbf{3.54\,\%}$$
+
+
+> 🔴 **Stolperstein:** Wer statt Durchschnitt nur den Endbestand verwendet ($386'023 \div 11'089'882 = 3.48\,\%$).
+
+---
+
+### (b) Gesamtkapitalrentabilität – ROI
+
+$$\text{GKR} = \frac{386'023 + 2'285}{13'567'958} \times 100 = \frac{388'308}{13'567'958} \times 100 = \mathbf{2.86\,\%}$$
+
+
+
+> 🔴 **Stolperstein:** Wer die Fremdkapitalzinsen (CHF 2'285) weglässt, erhält 2.84 %.
+
+---
+
+### (c) EBITDA-Marge
+
+$$\text{EBITDA-Marge} = \frac{2'338'276}{9'320'317} \times 100 = \mathbf{25.09\,\%}$$
+
+
+> Die EBITDA-Marge von rund 25 % ist für ein kapitalintensives Infrastrukturunternehmen solide, reicht aber nicht aus, um die hohen Abschreibungen ($-2'907'921$) zu decken.
+
+
+### (d) Bereinigtes Ergebnis und Beurteilung
+
+$$\text{Bereinigtes Ergebnis} = 386'023 - 958'607 = \mathbf{-572'584 \text{ CHF}}$$
+
+Das ordentliche Betriebsergebnis 2024 ist negativ (EBIT: $-569'645$ CHF). Ohne den einmaligen Erbschaftsertrag von CHF 958'607 hätte das Unternehmen einen Verlust von rund CHF 572'000 ausgewiesen. Die hohen Abschreibungen – insbesondere auf der CabriO-Luftseilbahn (CHF 2'350'000) – übersteigen das operative Ergebnis vor Abschreibungen deutlich. Die Ertragslage ist strukturell unter Druck.
+
+
+
+## Aufgabe 3 – Sicherheit / Finanzierungsstruktur
+
+### (a) Eigenfinanzierungsgrad
+
+$$\text{Eigenfinanzierungsgrad} = \frac{11'089'882}{13'681'614} \times 100 = \mathbf{81.06\,\%}$$
+
+> Richtwert $\geq 33\,\%$ → **ausgezeichnet**
+
+
+
+### (b) Fremdfinanzierungsgrad
+
+$$\text{Fremdfinanzierungsgrad} = \frac{2'591'732}{13'681'614} \times 100 = \mathbf{18.94\,\%}$$
+
+> Kontrollrechnung: $81.06\,\% + 18.94\,\% = 100.00\,\%$ ✓
+
+
+
+### (c) Anlagedeckungsgrad II
+
+$$\text{Anlagedeckungsgrad II} = \frac{11'089'882 + 1'975'884}{8'831'344} \times 100 = \frac{13'065'766}{8'831'344} \times 100 = \mathbf{147.95\,\%}$$
+
+> Richtwert $\geq 100\,\%$ → **erfüllt**
+
+
+> 🔴 **Stolperstein:** Wer im Zähler das totale Fremdkapital (inkl. kurzfristig) einsetzt, erhält einen falschen Wert.
+
+
+
+## Zusammenfassung Kennzahlen 2024
+
+| Kennzahl | Wert 2024 | Richtwert | Beurteilung |
+|---|---:|---:|---|
+| Liquiditätsgrad 1 | 520.68 % | $\geq 20\,\%$ | ✅ Ausgezeichnet |
+| Liquiditätsgrad 2 | 765.69 % | $\geq 100\,\%$ | ✅ Ausgezeichnet |
+| Liquiditätsgrad 3 | 787.60 % | $\geq 150\,\%$ | ✅ Ausgezeichnet |
+| Eigenkapitalrentabilität | 3.54 % | $\geq$ Marktzins | ⚠️ Tief (AO-Effekt!) |
+| Gesamtkapitalrentabilität | 2.86 % | — | ⚠️ Tief |
+| EBITDA-Marge | 25.09 % | — | ✅ Solide |
+| Bereinigtes Ergebnis | −572'584 CHF | positiv | 🔴 Negativ |
+| Eigenfinanzierungsgrad | 81.06 % | $\geq 33\,\%$ | ✅ Ausgezeichnet |
+| Fremdfinanzierungsgrad | 18.94 % | — | ✅ Sehr tief |
+| Anlagedeckungsgrad II | 147.95 % | $\geq 100\,\%$ | ✅ Erfüllt |
+
+
+
+*Alle Beträge in CHF. Rundungsdifferenzen von ±0.01 % sind akzeptiert.*
