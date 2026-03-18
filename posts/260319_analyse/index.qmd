@@ -164,4 +164,8 @@ $$\text{Anlagedeckungsgrad II} = \frac{\text{Eigenkapital} + \text{Langfristiges
 
 ---
 
-*Alle Beträge in CHF. Rundungsdifferenzen infolge kaufmännischer Rundung sind akzeptiert.*
+*Alle Beträge in CHF. Rundungsdifferenzen infolge kaufmännischer Rundung
+sind akzeptiert.*
+
+
+[Musterlösung](musterloesung.qmd)
