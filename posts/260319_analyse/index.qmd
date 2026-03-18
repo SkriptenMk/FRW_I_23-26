@@ -1,0 +1,167 @@
+---
+title: "Kennzahlenanalyse am Beispiel der STANSERHORN - BAHN - AKTIENGESELLSCHAFT"
+author: "Jacques Mock Schindler"
+date: "2026-03-19"
+date-format: "D. MMMM YYYY"
+image: "image.png"
+categories: [Analyse, stille Reserven]
+---
+
+## Ausgangslage
+
+Die Stanserhorn-Bahn-Aktiengesellschaft mit Sitz in Stans (NW) betreibt
+seit 1893 eine Standseilbahn sowie seit 2012 die weltweit erste
+Luftseilbahn mit offenem Oberdeck («CabriO»). Das Unternehmen
+erwirtschaftet Erträge in den Bereichen Bahn, Restaurant und Shop. 
+
+Ihr Kunde **Markus Thalmann** besitzt CHF 50'000 liquide Mittel und
+erwägt, Namenaktien der Stanserhorn-Bahn (nominal CHF 250) zu erwerben.
+Er legt Wert auf **Liquidität**, **Rentabilität** und **Sicherheit**
+(Finanzierungsstruktur). 
+
+Bereiten Sie sich auf ein Beratungsgespräch mit Herrn Thalmann vor:
+Berechnen Sie zunächst die relevanten Kennzahlen und präsentieren Sie
+Ihre Anlageempfehlung anschliessend mündlich im Rollenspiel. 
+
+---
+
+## Datenbasis: Jahresrechnung 2024 (Auszüge in CHF)
+
+### Bilanz
+
+| Position | 31.12.2023 | 31.12.2024 |
+|---|---:|---:|
+| **Umlaufvermögen** | 2'532'113 | 4'850'270 |
+| Flüssige Mittel | 2'015'978 | 3'206'537 |
+| Forderungen aus L+L | 344'707 | 382'277 |
+| Übrige kurzfristige Forderungen | 58'756 | 1'126'488 |
+| Lagervorräte | 53'200 | 81'000 |
+| Aktive Rechnungsabgrenzung | 59'473 | 53'968 |
+| **Anlagevermögen** | 10'922'188 | 8'831'344 |
+| **TOTAL AKTIVEN** | **13'454'301** | **13'681'614** |
+| | | |
+| Verbindlichkeiten aus L+L | 233'147 | 186'047 |
+| Übrige kurzfristige Verbindlichkeiten | 379'607 | 210'900 |
+| Passive Rechnungsabgrenzungen / kurzfr. Rückstellungen | 210'568 | 218'901 |
+| **Kurzfristiges Fremdkapital** | **823'322** | **615'848** |
+| **Langfristiges Fremdkapital** | **1'922'170** | **1'975'884** |
+| **Fremdkapital total** | **2'745'492** | **2'591'732** |
+| **Eigenkapital** | **10'708'809** | **11'089'882** |
+| **TOTAL PASSIVEN** | **13'454'301** | **13'681'614** |
+
+### Erfolgsrechnung
+
+| Position | 2023 | 2024 |
+|---|---:|---:|
+| **Nettoerlöse total** | 9'282'046 | 9'320'317 |
+| Materialaufwand | −1'173'528 | −1'136'398 |
+| Personalaufwand | −4'110'327 | −4'055'494 |
+| Übriger betrieblicher Aufwand | −1'531'826 | −1'790'149 |
+| **EBITDA** | **2'466'365** | **2'338'276** |
+| Abschreibungen | −2'143'890 | −2'907'921 |
+| **EBIT** | **322'475** | **−569'645** |
+| Finanzerfolg (netto) | −2'344 | −1'454 |
+| Direkte Steuern | −1'003 | −1'484 |
+| Ausserordentlicher Ertrag | 0 | 958'607 |
+| **JAHRESGEWINN** | **319'128** | **386'023** |
+
+> ⚠️ **Hinweis:** Der ausserordentliche Ertrag 2024 (CHF 958'607) stammt aus einer Erbschaft und ist einmalig. Er ist **nicht** dem ordentlichen Betriebsergebnis zuzurechnen.
+
+
+## Aufgaben
+
+### Aufgabe 1 – Liquidität
+
+Berechnen Sie für das Jahr **2024** die drei Liquiditätsgrade. Zeigen Sie den Rechenweg vollständig. Runden Sie auf **zwei Dezimalstellen**.
+
+**(a)** Liquiditätsgrad 1 (Cash Ratio)
+
+**(b)** Liquiditätsgrad 2 (Quick Ratio)
+
+**(c)** Liquiditätsgrad 3 (Current Ratio)
+
+**(d)** Beurteilen Sie die Liquiditätssituation in zwei bis drei Sätzen. Welcher Bilanzposten hat die Liquiditätslage 2024 gegenüber 2023 stark verändert?
+
+
+### Aufgabe 2 – Rentabilität
+
+Berechnen Sie für **2024** die folgenden Rentabilitätskennzahlen. Runden
+Sie auf **zwei Dezimalstellen (in %)**. 
+
+**(a)** Eigenkapitalrentabilität (Return on Equity)
+
+
+**(b)** Gesamtkapitalrentabilität (Return on Investment)
+
+> Fremdkapitalzinsen 2024: CHF 2'285 (= Finanzaufwand laut Erfolgsrechnung).  
+
+**(c)** EBITDA-Marge
+
+**(d)** Der Jahresgewinn 2024 beträgt CHF 386'023, ist aber nur dank des ausserordentlichen Ertrags positiv. Berechnen Sie das **bereinigte Ergebnis** (ohne ausserordentlichen Ertrag) und beurteilen Sie die Ertragslage in zwei bis drei Sätzen.
+
+---
+
+### Aufgabe 3 – Sicherheit / Finanzierungsstruktur
+
+Berechnen Sie für **2024** die folgenden Kennzahlen. Runden Sie auf **zwei Dezimalstellen (in %)**.
+
+**(a)** Eigenfinanzierungsgrad (Equity Ratio)
+
+**(b)** Fremdfinanzierungsgrad (Debt Ratio)
+
+**(c)** Anlagedeckungsgrad II (Goldene Bilanzregel, erweitert)
+
+---
+
+### Aufgabe 4 – Anlageempfehlung im Kundengespräch
+
+**Rollenspiel:** Sie sind Anlageberater/in. Ihre Lehrperson spielt Herrn Markus Thalmann.
+
+Führen Sie ein Beratungsgespräch von ca. **5 Minuten**. Nutzen Sie Ihre berechneten Kennzahlen als Grundlage. Ihre Empfehlung muss:
+
+- die drei Zieldimensionen **Liquidität**, **Rentabilität** und **Sicherheit** ansprechen,
+- die berechneten Kennzahlen als konkrete Argumente einbringen,
+- den **einmaligen Charakter** des ausserordentlichen Ertrags erklären,
+- eine klare **Kauf-, Halte- oder Nicht-Kauf-Empfehlung** enthalten und begründen,
+- auf die Rückfragen von Herrn Thalmann eingehen.
+
+
+## Formelanhang
+
+### Liquidität
+
+$$\text{Liquiditätsgrad 1} = \frac{\text{Flüssige Mittel}}{\text{Kurzfristiges Fremdkapital}} \times 100$$
+
+$$\text{Liquiditätsgrad 2} = \frac{\text{Flüssige Mittel} + \text{Forderungen}}{\text{Kurzfristiges Fremdkapital}} \times 100$$
+
+$$\text{Liquiditätsgrad 3} = \frac{\text{Umlaufvermögen}}{\text{Kurzfristiges Fremdkapital}} \times 100$$
+
+### Rentabilität
+
+$$\text{Eigenkapitalrentabilität} = \frac{\text{Jahresgewinn}}{\varnothing \, \text{Eigenkapital}} \times 100$$
+
+$$\text{Gesamtkapitalrentabilität} = \frac{\text{Jahresgewinn} + \text{Fremdkapitalzinsen}}{\varnothing \, \text{Gesamtkapital}} \times 100$$
+
+$$\text{EBITDA-Marge} = \frac{\text{EBITDA}}{\text{Nettoerlöse}} \times 100$$
+
+### Sicherheit
+
+$$\text{Eigenfinanzierungsgrad} = \frac{\text{Eigenkapital}}{\text{Gesamtkapital}} \times 100$$
+
+$$\text{Fremdfinanzierungsgrad} = \frac{\text{Fremdkapital}}{\text{Gesamtkapital}} \times 100$$
+
+$$\text{Anlagedeckungsgrad II} = \frac{\text{Eigenkapital} + \text{Langfristiges Fremdkapital}}{\text{Anlagevermögen}} \times 100$$
+
+### Richtwerte
+
+| Kennzahl | Richtwert |
+|---|---|
+| Liquiditätsgrad 1 | $\geq 20\,\%$ |
+| Liquiditätsgrad 2 | $\geq 100\,\%$ |
+| Liquiditätsgrad 3 | $\geq 150\,\%$ |
+| Eigenfinanzierungsgrad | $\geq 33\,\%$ |
+| Anlagedeckungsgrad II | $\geq 100\,\%$ |
+
+---
+
+*Alle Beträge in CHF. Rundungsdifferenzen infolge kaufmännischer Rundung sind akzeptiert.*
