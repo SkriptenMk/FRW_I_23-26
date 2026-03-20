@@ -1,9 +1,13 @@
-# Mittelflussrechnung – NIESENBAHN AG, Mülenen
-## Aufgabenblatt
-
+---
+title: "Mittelflussrechnung am Beispiel der NIESENBAHN AG"
+author: "Jacques Mock Schindler"
+date: "2026-03-23"
+date-format: "D. MMMM YYYY"
+image: "image.png"
+categories: [Analyse, MFR]
 ---
 
-### Ausgangslage
+## Ausgangslage
 
 Die **NIESENBAHN AG** mit Sitz in Mülenen (BE) betreibt eine Standseilbahn auf den Niesen sowie zwei Berghäuser (Niesen Kulm und Elsigenalp). Die Gesellschaft schloss das Geschäftsjahr 2024 nach einer intensiven Investitionsphase ab. Im Präsidentenbericht wird von einem «gestärkten Anlagevermögen» und «erhöhten langfristigen Verbindlichkeiten» gesprochen.
 
