@@ -17,14 +17,18 @@ Bevor die Mittelflussrechnung erstellt werden kann, müssen alle relevanten Ver�
 | Anlagevermögen (netto) | 11'213'808.00 | 11'072'219.90 | +141'588.10 | — |
 | Langfristiges Fremdkapital | 6'164'000.00 | 5'635'362.25 | +528'637.75 | Zufluss (CF Finanz.) |
 
-**Ableitung der Abschreibungen:**
+**Ableitung der Netto-Investitionen:**
 
 Da keine Anlagen veräussert wurden, gilt:
 
 ```
-Brutto-Investitionen = Zunahme AV (netto) + Abschreibungen
-952'619.56 = 141'588.10 + Abschreibungen
-Abschreibungen = 952'619.56 − 141'588.10 = 811'031.46
+Anfangsbestand Anlagevermögen:          11'072'219.90
+− Abschreibungen Geschäftsjahr 2024:      −811'031.46
+= Tiefststand Anlagevermögen:           10'261'188.44
+
+Endbestand Anlagevermögen:              11'213'808.00
+− Tiefststand Anlagevermögen:           10'261'188.44
+= Netto-Investitionen (= Mittelabfluss):   952'619.56
 ```
 
 *Gegenkontrolle:* CHF 811'031.46 stimmt mit dem in der Erfolgsrechnung ausgewiesenen Wert überein. ✓
