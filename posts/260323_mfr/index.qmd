@@ -149,6 +149,8 @@ rechnerische Ursache für die Abweichung im vorliegenden Fall.
 
 ---
 
+[Musterlösung](musterloesung.qmd)
+
 *Quelle der Originaldaten: NIESENBAHN AG, Geschäftsbericht 2024 (119.
 Bericht). Die Bilanzpositionen des Umlaufvermögens und des kurzfristigen
 Fremdkapitals wurden für Übungszwecke detailliert aufgegliedert; alle
