@@ -58,7 +58,10 @@ Ihnen liegen untenstehende Auszüge aus der Jahresrechnung 2024 vor.
 ## Zusatzinformationen
 
 - Die **Dividende** für das Geschäftsjahr 2023 wurde im Jahr 2024 ausbezahlt: **CHF 41'151.00**.
-- Beim ausserordentlichen Ertrag handelt es sich vollumfänglich um **betrieblichen Cashflow** (erhaltene Versicherungsleistungen für Betriebsunterbrüche).
+- Beim ausserordentlichen Ertrag handelt es sich vollumfänglich um
+**betrieblichen Cashflow** (erhaltene Versicherungsleistungen für
+Betriebsunterbrüche).
+- Es wurden keine Anlagen verkauft.
 
 ---
 
@@ -81,9 +84,6 @@ Gliedern Sie Ihre Darstellung in die drei Bereiche:
 Schliessen Sie die Rechnung mit der **Veränderung der flüssigen Mittel**
 und der Kontrollzeile (Bestand Anfang / Ende Jahr). 
 
-> **Hinweis zu den Abschreibungen:** Da keine Anlagen veräussert wurden,
-> ergibt sich der Brutto-Investitionsbetrag direkt aus der Veränderung des
-> Anlagevermögens zuzüglich der Abschreibungen. 
 
 ---
 
