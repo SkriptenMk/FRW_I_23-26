@@ -33,6 +33,8 @@ Endbestand Anlagevermögen:              11'213'808.00
 
 *Gegenkontrolle:* CHF 811'031.46 stimmt mit dem in der Erfolgsrechnung ausgewiesenen Wert überein. ✓
 
+> **Lesart:** Das Anlagevermögen sinkt zunächst durch die laufenden Abschreibungen auf den Tiefststand. Von diesem Tiefststand aus steigt es durch die getätigten Investitionen wieder auf den Endbestand. Die Differenz zwischen Tiefststand und Endbestand entspricht den tatsächlichen Netto-Investitionsausgaben.
+
 ---
 
 ### (a) Cashflow aus betrieblicher Tätigkeit
