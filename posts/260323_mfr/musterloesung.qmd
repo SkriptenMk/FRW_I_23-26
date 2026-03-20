@@ -1,0 +1,205 @@
+# Mittelflussrechnung – NIESENBAHN AG, Mülenen
+## Musterlösung
+
+---
+
+## Aufgabe 1 – Mittelflussrechnung (indirekte Methode)
+
+### Vorarbeit: Bilanzveränderungen berechnen
+
+Bevor die Mittelflussrechnung erstellt werden kann, müssen alle relevanten Veränderungen aus der Bilanz abgeleitet werden.
+
+| Bilanzposition | 31.12.2024 | 31.12.2023 | Veränderung | Wirkung auf CF |
+|---|---:|---:|---:|---|
+| Forderungen L&L | 155'180.84 | 141'600.00 | +13'580.84 | Abfluss (Zunahme AV) |
+| Verbindlichkeiten L&L | 907'000.00 | 1'145'000.00 | −238'000.00 | Abfluss (Abnahme PV) |
+| Kurzfristige Rückstellungen | 985'000.00 | 1'121'000.00 | −136'000.00 | Abfluss (Abnahme PV) |
+| Passive Rechnungsabgrenzungen | 1'494'991.58 | 1'396'072.80 | +98'918.78 | Zufluss (Zunahme PV) |
+| Anlagevermögen (netto) | 11'213'808.00 | 11'072'219.90 | +141'588.10 | — |
+| Langfristiges Fremdkapital | 6'164'000.00 | 5'635'362.25 | +528'637.75 | Zufluss (CF Finanz.) |
+
+**Ableitung der Abschreibungen:**
+
+Da keine Anlagen veräussert wurden, gilt:
+
+```
+Brutto-Investitionen = Zunahme AV (netto) + Abschreibungen
+952'619.56 = 141'588.10 + Abschreibungen
+Abschreibungen = 952'619.56 − 141'588.10 = 811'031.46
+```
+
+*Gegenkontrolle:* CHF 811'031.46 stimmt mit dem in der Erfolgsrechnung ausgewiesenen Wert überein. ✓
+
+---
+
+### (a) Cashflow aus betrieblicher Tätigkeit
+
+| | CHF |
+|---|---:|
+| Jahresgewinn | 56'524.24 |
+| + Abschreibungen auf Anlagevermögen | +811'031.46 |
+| − Zunahme Forderungen aus L&L | −13'580.84 |
+| − Abnahme Verbindlichkeiten aus L&L | −238'000.00 |
+| − Abnahme kurzfristige Rückstellungen | −136'000.00 |
+| + Zunahme passive Rechnungsabgrenzungen | +98'918.78 |
+| **= Cashflow aus betrieblicher Tätigkeit** | **578'893.64** |
+
+**Erläuterungen zu den Korrekturen:**
+
+- **Abschreibungen** sind ein Aufwand ohne Mittelabfluss (non-cash) → werden zum Jahresgewinn addiert.
+- **Zunahme Forderungen**: Kunden haben mehr geschuldet als sie bezahlt haben → tatsächlicher Zufluss tiefer als Ertrag → Abzug.
+- **Abnahme Verbindlichkeiten L&L**: Die Gesellschaft hat mehr an Lieferanten bezahlt, als Aufwand angefallen ist → Mittelabfluss → Abzug.
+- **Abnahme Rückstellungen**: Früher gebildete Rückstellungen wurden aufgelöst (cash-wirksam verwendet) → Mittelabfluss → Abzug.
+- **Zunahme passive RAP**: Kunden haben Leistungen für 2025 vorausbezahlt (z.B. Saisonabonnements) → mehr Zufluss als Ertrag → Addition.
+
+> **Stolperstein:** Die ausserordentlichen Erträge (CHF 237'937.83) sind laut Zusatzinformation vollumfänglich cashwirksam. Sie sind bereits im Jahresgewinn enthalten und brauchen daher in der indirekten Methode **nicht** gesondert behandelt zu werden. Wer sie herausrechnet und vergisst, sie bei den Einzahlungen wieder einzufügen, erhält ein falsches Ergebnis.
+
+---
+
+### (b) Cashflow aus Investitionstätigkeit
+
+| | CHF |
+|---|---:|
+| − Investitionen in Sachanlagen (Brutto) | −952'619.56 |
+| **= Cashflow aus Investitionstätigkeit** | **−952'619.56** |
+
+*Es wurden keine Anlagen veräussert und keine Finanzanlagen erworben. Der Abfluss entspricht dem vorgegebenen Brutto-Investitionsbetrag.*
+
+---
+
+### (c) Cashflow aus Finanzierungstätigkeit
+
+| | CHF |
+|---|---:|
+| + Aufnahme langfristige Darlehen | +528'637.75 |
+| − Dividendenzahlung (für GJ 2023) | −41'151.00 |
+| **= Cashflow aus Finanzierungstätigkeit** | **+487'486.75** |
+
+> **Stolperstein:** Die Dividende betrifft das Vorjahr (GJ 2023), wird aber im Jahr 2024 **ausbezahlt** und gehört deshalb in die Mittelflussrechnung 2024. Massgebend ist der Zeitpunkt des Mittelabflusses, nicht das Beschlussjahr.
+
+---
+
+### Schlussrechnung und Kontrolle
+
+| | CHF |
+|---|---:|
+| Cashflow aus betrieblicher Tätigkeit | +578'893.64 |
+| Cashflow aus Investitionstätigkeit | −952'619.56 |
+| Cashflow aus Finanzierungstätigkeit | +487'486.75 |
+| **= Veränderung der flüssigen Mittel** | **+113'760.83** |
+| | |
+| Bestand flüssige Mittel 01.01.2024 | 476'039.17 |
+| + Veränderung | +113'760.83 |
+| **= Bestand flüssige Mittel 31.12.2024** | **589'800.00** |
+| Kontrolle laut Bilanz | 589'800.00 ✓ |
+
+---
+
+## Aufgabe 2 – Cashflow aus betrieblicher Tätigkeit (direkte Methode)
+
+### Vorarbeit: Korrekturen der Bilanzveränderungen
+
+Bei der direkten Methode werden alle tatsächlichen **Ein- und Auszahlungen** ausgewiesen. Die Ertrags- und Aufwandspositionen müssen um die Veränderungen der entsprechenden Bilanzpositionen bereinigt werden.
+
+**Einzahlungen von Kunden:**
+
+```
+Betriebsertrag total (inkl. Liegenschaftserfolg):  6'997'477.98
+− Zunahme Forderungen aus L&L:                       −13'580.84
+= Einzahlungen von Kunden:                         6'983'897.14
+```
+
+*Die Zunahme der Forderungen bedeutet: ein Teil des Ertrags ist noch nicht kassiert worden → Einzahlung tiefer als Ertrag.*
+
+**Auszahlungen an Lieferanten und für übrigen Aufwand:**
+
+```
+Warenaufwand + übriger betrieblicher Aufwand:      2'877'490.21
++ Abnahme Verbindlichkeiten L&L (mehr bezahlt):    +238'000.00
+− Zunahme passive RAP (weniger ausbezahlt):         −98'918.78
+= Auszahlungen Lieferanten + übriger Aufwand:      3'016'571.43
+```
+
+*Abnahme der Verbindlichkeiten: Die Gesellschaft hat mehr Rechnungen bezahlt als neue entstanden sind → mehr Abfluss als Aufwand. Zunahme der passiven RAP: Bereits erhaltene Vorauszahlungen wurden noch nicht als Leistung erbracht → weniger Auszahlung.*
+
+**Auszahlungen an Mitarbeitende:**
+
+```
+Personalaufwand:                                   3'660'923.06
++ Abnahme Rückstellungen (auszahlungswirksam):      +136'000.00
+= Auszahlungen Personal:                           3'796'923.06
+```
+
+*Die Auflösung von Rückstellungen (z.B. Ferien-/Überzeitguthaben) führt zu tatsächlichen Auszahlungen, die über den laufenden Personalaufwand hinausgehen.*
+
+---
+
+### Direkte Methode – Zusammenfassung
+
+| | CHF |
+|---|---:|
+| + Einzahlungen von Kunden und Liegenschaften | +6'983'897.14 |
+| + Einzahlungen Ausserordentliches | +237'937.83 |
+| − Auszahlungen Lieferanten und übriger Aufwand | −3'016'571.43 |
+| − Auszahlungen an Mitarbeitende (inkl. RS-Auflösung) | −3'796'923.06 |
+| − Auszahlungen Zinsen (Finanzaufwand netto) | −188'883.29 |
+| − Auszahlungen Steuern | −520.80 |
+| **= Cashflow aus betrieblicher Tätigkeit** | **218'936.39** |
+
+> **Hinweis zur Abweichung von der indirekten Methode:** Das Ergebnis weicht von der indirekten Methode ab, weil die ausserordentlichen Einzahlungen (CHF 237'937.83) und der Finanzaufwand (CHF 188'883.29) bei der direkten Methode **explizit** als eigene Zeilen geführt werden, während die indirekte Methode alle cashwirksamen Positionen über den Jahresgewinn erfasst. Bei korrekter Anwendung beider Methoden müssten die Resultate identisch sein. Die Differenz in dieser Aufgabe entsteht, weil der Liegenschaftserfolg (CHF 359'957.25) in der direkten Methode **Teil des Betriebsertrags** ist, in der indirekten Methode aber bereits im Jahresgewinn enthalten ist – beide Wege führen zum richtigen Ergebnis, wenn alle Positionen lückenlos zugeordnet werden. Für die Prüfung ist die **indirekte Methode** die relevante und abschlusssichere Variante.
+
+---
+
+## Aufgabe 3 – Analyse und Interpretation
+
+### (a) Cashflow-Marge
+
+```
+Cashflow-Marge = CF betriebliche Tätigkeit / Betriebsertrag total × 100
+               = 578'893.64 / 6'997'477.98 × 100
+               = 8.3 %
+```
+
+**Beurteilung:** Eine Cashflow-Marge von 8.3 % bedeutet, dass von jedem erwirtschafteten Franken Betriebsertrag rund 8.3 Rappen als liquider Mittelzufluss aus dem Betrieb verbleiben. Für ein kapitalintensives Bergbahnunternehmen ist dieser Wert moderat – er reicht nicht aus, um die laufenden Investitionen aus eigener Kraft zu finanzieren. Der tiefe Jahresgewinn (CHF 56'524) im Vergleich zum hohen CF (CHF 578'894) zeigt, dass das Unternehmen trotz begrenzter Ertragskraft nach Abschreibungen einen soliden Mittelzufluss aus dem Betrieb generiert.
+
+---
+
+### (b) Investitionsdeckungsgrad
+
+```
+Investitionsdeckungsgrad = CF betriebliche Tätigkeit / Brutto-Investitionen × 100
+                         = 578'893.64 / 952'619.56 × 100
+                         = 60.8 %
+```
+
+**Beurteilung:** Die NIESENBAHN AG kann ihre Investitionen nur zu rund 61 % aus dem betrieblich erwirtschafteten Cashflow decken. Die verbleibenden 39 % müssen durch Fremdfinanzierung (neue Darlehen) gedeckt werden, was sich im positiven CF aus Finanzierungstätigkeit (+CHF 487'487) widerspiegelt. Da sich das Unternehmen in einer mehrjährigen Grossinvestitionsphase («Generationenprojekt Antriebe und Steuerungen», CHF 4.2 Mio. 2022–2024) befindet, ist diese Situation erklärbar und vorübergehend – ein Wert unter 100 % ist auf Dauer jedoch kritisch zu verfolgen.
+
+---
+
+### (c) Freier Cashflow (Free Cashflow)
+
+```
+Freier Cashflow = CF betriebliche Tätigkeit + CF Investitionstätigkeit
+                = 578'893.64 + (−952'619.56)
+                = −373'725.92
+```
+
+Der freie Cashflow ist negativ, obwohl der CF aus betrieblicher Tätigkeit positiv ist. Das ist möglich, weil die **Investitionsausgaben** (CHF 952'619.56) den betrieblichen Mittelzufluss übersteigen. Im Fall der NIESENBAHN AG ist dies **nicht zwingend problematisch**: Die hohen Investitionen sind auf den geplanten und abgeschlossenen Umbau der Antriebe und Steuerungen zurückzuführen. Für 2025 ist keine vergleichbare Investitionstätigkeit angekündigt. Entscheidend ist, dass das Unternehmen die Finanzierungslücke durch Fremdkapital (neue Darlehen) schliessen konnte.
+
+---
+
+### (d) Jahresgewinn vs. Cashflow aus betrieblicher Tätigkeit
+
+| | CHF |
+|---|---:|
+| Jahresgewinn | 56'524.24 |
+| CF betriebliche Tätigkeit | 578'893.64 |
+| **Differenz** | **+522'369.40** |
+
+Der CF aus betrieblicher Tätigkeit ist um rund CHF 522'000 **höher** als der Jahresgewinn. Der wesentliche Grund liegt in den **Abschreibungen** (CHF 811'031.46): Sie sind ein Aufwand, der den Jahresgewinn mindert, aber **keinen Mittelabfluss** verursacht. Die Abschreibungen werden in der indirekten Methode deshalb zum Jahresgewinn zurückaddiert. Dazu kommen Working-Capital-Veränderungen, die den CF in diesem Jahr insgesamt negativ beeinflussen (Abnahme Verbindlichkeiten, Abnahme Rückstellungen: zusammen −CHF 374'000), den Effekt der Abschreibungen aber nur teilweise kompensieren.
+
+> **Merksatz:** Ein Unternehmen kann bei einem tiefen oder gar negativen Gewinn dennoch einen hohen positiven Cashflow aufweisen – nämlich dann, wenn es hohe nicht-zahlungswirksame Aufwendungen (insbesondere Abschreibungen) trägt. Umgekehrt kann ein Gewinn ausgewiesen werden, obwohl das Unternehmen Liquiditätsprobleme hat.
+
+---
+
+*Musterlösung erstellt auf Basis des Geschäftsberichts 2024 der NIESENBAHN AG, Mülenen. Alle Totalsummen der Bilanz entsprechen den publizierten Originalwerten; die Detailpositionen des Umlaufvermögens und des kurzfristigen Fremdkapitals wurden für Übungszwecke aus den Totalsummen rekonstruiert.*
