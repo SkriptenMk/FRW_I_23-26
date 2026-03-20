@@ -9,13 +9,18 @@ categories: [Analyse, MFR]
 
 ## Ausgangslage
 
-Die **NIESENBAHN AG** mit Sitz in Mülenen (BE) betreibt eine Standseilbahn auf den Niesen sowie zwei Berghäuser (Niesen Kulm und Elsigenalp). Die Gesellschaft schloss das Geschäftsjahr 2024 nach einer intensiven Investitionsphase ab. Im Präsidentenbericht wird von einem «gestärkten Anlagevermögen» und «erhöhten langfristigen Verbindlichkeiten» gesprochen.
+Die **NIESENBAHN AG** mit Sitz in Mülenen (BE) betreibt eine
+Standseilbahn auf den Niesen sowie zwei Berghäuser (Niesen Kulm und
+Elsigenalp). Die Gesellschaft schloss das Geschäftsjahr 2024 nach einer
+intensiven Investitionsphase ab. Im Präsidentenbericht wird von einem
+«gestärkten Anlagevermögen» und «erhöhten langfristigen
+Verbindlichkeiten» gesprochen. 
 
-Ihnen liegen folgende Auszüge aus der Jahresrechnung 2024 vor.
+Ihnen liegen untenstehende Auszüge aus der Jahresrechnung 2024 vor.
 
 ---
 
-### Bilanz (gekürzt)
+## Bilanz (gekürzt)
 
 | Bezeichnung | 31.12.2024 | 31.12.2023 |
 |---|---:|---:|
@@ -37,7 +42,7 @@ Ihnen liegen folgende Auszüge aus der Jahresrechnung 2024 vor.
 
 ---
 
-### Erfolgsrechnung 2024 (Kurzform)
+## Erfolgsrechnung 2024 (Kurzform)
 
 | Bezeichnung | CHF |
 |---|---:|
@@ -50,7 +55,7 @@ Ihnen liegen folgende Auszüge aus der Jahresrechnung 2024 vor.
 
 ---
 
-### Zusatzinformationen
+## Zusatzinformationen
 
 - Die **Brutto-Investitionen** in das Sachanlagevermögen betrugen im Geschäftsjahr 2024 insgesamt **CHF 952'619.56**. Es wurden keine Anlagen veräussert.
 - Im Berichtsjahr wurden **neue langfristige Darlehen** in der Höhe von **CHF 528'637.75** aufgenommen.
@@ -63,7 +68,9 @@ Ihnen liegen folgende Auszüge aus der Jahresrechnung 2024 vor.
 
 ### Aufgabe 1 – Mittelflussrechnung (indirekte Methode)
 
-Erstellen Sie für die NIESENBAHN AG die vollständige **Mittelflussrechnung** für das Geschäftsjahr 2024 nach der **indirekten Methode**.
+Erstellen Sie für die NIESENBAHN AG die vollständige
+**Mittelflussrechnung** für das Geschäftsjahr 2024 nach der **indirekten
+Methode**. 
 
 Gliedern Sie Ihre Darstellung in die drei Bereiche:
 
@@ -73,9 +80,12 @@ Gliedern Sie Ihre Darstellung in die drei Bereiche:
 
 **(c)** Cashflow aus Finanzierungstätigkeit
 
-Schliessen Sie die Rechnung mit der **Veränderung der flüssigen Mittel** und der Kontrollzeile (Bestand Anfang / Ende Jahr).
+Schliessen Sie die Rechnung mit der **Veränderung der flüssigen Mittel**
+und der Kontrollzeile (Bestand Anfang / Ende Jahr). 
 
-> **Hinweis zu den Abschreibungen:** Da keine Anlagen veräussert wurden, ergibt sich der Brutto-Investitionsbetrag direkt aus der Veränderung des Anlagevermögens zuzüglich der Abschreibungen.
+> **Hinweis zu den Abschreibungen:** Da keine Anlagen veräussert wurden,
+> ergibt sich der Brutto-Investitionsbetrag direkt aus der Veränderung des
+> Anlagevermögens zuzüglich der Abschreibungen. 
 
 ---
 
@@ -91,7 +101,8 @@ Für die betriebliche Tätigkeit liegen folgende Zusatzinformationen vor:
 | Personalaufwand | −3'660'923.06 |
 | Übriger betrieblicher Aufwand | −1'910'936.30 |
 
-Berechnen Sie den **Cashflow aus betrieblicher Tätigkeit** nach der **direkten Methode**.
+Berechnen Sie den **Cashflow aus betrieblicher Tätigkeit** nach der
+**direkten Methode**. 
 
 Verwenden Sie folgende Struktur:
 
@@ -108,13 +119,24 @@ Berücksichtigen Sie dabei die Veränderungen der relevanten Bilanzpositionen.
 
 ### Aufgabe 3 – Analyse und Interpretation
 
-**(a)** Berechnen Sie die **Cashflow-Marge** (Cashflow aus betrieblicher Tätigkeit im Verhältnis zum Betriebsertrag total). Beurteilen Sie das Ergebnis in zwei bis drei Sätzen.
+**(a)** Berechnen Sie die **Cashflow-Marge** (Cashflow aus betrieblicher
+Tätigkeit im Verhältnis zum Betriebsertrag total). Beurteilen Sie das
+Ergebnis in zwei bis drei Sätzen. 
 
-**(b)** Berechnen Sie den **Investitionsdeckungsgrad** (Cashflow aus betrieblicher Tätigkeit im Verhältnis zu den Brutto-Investitionen). Was sagt diese Kennzahl über die finanzielle Situation der NIESENBAHN AG aus?
+**(b)** Berechnen Sie den **Investitionsdeckungsgrad** (Cashflow aus
+betrieblicher Tätigkeit im Verhältnis zu den Brutto-Investitionen). Was
+sagt diese Kennzahl über die finanzielle Situation der NIESENBAHN AG
+aus? 
 
-**(c)** Die NIESENBAHN AG weist trotz eines positiven Cashflows aus betrieblicher Tätigkeit einen negativen **freien Cashflow** (Free Cashflow) aus. Erklären Sie, wie das möglich ist, und beurteilen Sie, ob dies im Fall der Niesenbahn problematisch ist.
+**(c)** Die NIESENBAHN AG weist trotz eines positiven Cashflows aus
+betrieblicher Tätigkeit einen negativen **freien Cashflow** (Free
+Cashflow) aus. Erklären Sie, wie das möglich ist, und beurteilen Sie, ob
+dies im Fall der Niesenbahn problematisch ist. 
 
-**(d)** Vergleichen Sie den **Jahresgewinn** (CHF 56'524.24) mit dem **Cashflow aus betrieblicher Tätigkeit**. Worin besteht der wesentliche Unterschied zwischen den beiden Grössen? Nennen Sie die wichtigste rechnerische Ursache für die Abweichung im vorliegenden Fall.
+**(d)** Vergleichen Sie den **Jahresgewinn** (CHF 56'524.24) mit dem
+**Cashflow aus betrieblicher Tätigkeit**. Worin besteht der wesentliche
+Unterschied zwischen den beiden Grössen? Nennen Sie die wichtigste
+rechnerische Ursache für die Abweichung im vorliegenden Fall. 
 
 ---
 
@@ -122,11 +144,14 @@ Berücksichtigen Sie dabei die Veränderungen der relevanten Bilanzpositionen.
 
 | Kennzahl | Formel |
 |---|---|
-| Cashflow-Marge | CF betriebliche Tätigkeit / Betriebsertrag × 100 |
-| Investitionsdeckungsgrad | CF betriebliche Tätigkeit / Brutto-Investitionen × 100 |
-| Freier Cashflow (Free CF) | CF betriebliche Tätigkeit + CF Investitionstätigkeit |
-| Selbstfinanzierungsgrad | CF betriebliche Tätigkeit / Brutto-Investitionen × 100 |
+| Cashflow-Marge | $\frac{\text{CF betriebliche Tätigkeit}}{\text{Betriebsertrag}} \times 100$ |
+| Investitionsdeckungsgrad | $\frac{\text{CF betriebliche Tätigkeit}}{\text{Brutto-Investitionen}} \times 100$ |
+| Freier Cashflow (Free CF) | $\text{CF betriebliche Tätigkeit} + \text{CF Investitionstätigkeit}$ |
+| Selbstfinanzierungsgrad | $\frac{\text{CF betriebliche Tätigkeit}}{\text{Brutto-Investitionen}} \times 100$ |
 
 ---
 
-*Quelle der Originaldaten: NIESENBAHN AG, Geschäftsbericht 2024 (119. Bericht). Die Bilanzpositionen des Umlaufvermögens und des kurzfristigen Fremdkapitals wurden für Übungszwecke detailliert aufgegliedert; alle Totalsummen entsprechen den publizierten Werten.*
+*Quelle der Originaldaten: NIESENBAHN AG, Geschäftsbericht 2024 (119.
+Bericht). Die Bilanzpositionen des Umlaufvermögens und des kurzfristigen
+Fremdkapitals wurden für Übungszwecke detailliert aufgegliedert; alle
+Totalsummen entsprechen den publizierten Werten.* 
