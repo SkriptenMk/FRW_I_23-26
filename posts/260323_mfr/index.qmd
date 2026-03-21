@@ -154,5 +154,9 @@ rechnerische Ursache für die Abweichung im vorliegenden Fall.
 
 [Zusatzaufgabe](zusatzaufgabe.qmd)
 
+*Quelle der Originaldaten: 
+[NIESENBAHN AG, Geschäftsbericht 2024 (119.
+Bericht)](https://www.niesen.ch/wp-content/uploads/2025/04/Niesenbahn_Geschaeftbericht-2024_ES_WEB.pdf).
+Die Bilanzpositionen des Umlaufvermögens und des kurzfristigen
 Fremdkapitals wurden für Übungszwecke detailliert aufgegliedert; alle
 Totalsummen entsprechen den publizierten Werten.* 
