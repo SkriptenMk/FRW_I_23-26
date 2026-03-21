@@ -7,7 +7,7 @@ Kontenrahmen KMU.
 
 ### Bilanzen (vor Gewinnverwendung)
 | Aktiven (in CHF 1'000) | 01.01.2025 | 31.12.2025 |
-| :--- | :--- | :--- |
+| :--- | ---: | ---: |
 | **Umlaufvermögen** | | |
 | Flüssige Mittel | 50 | 120 |
 | Forderungen aus Lieferungen und Leistungen | 120 | 150 |
@@ -16,9 +16,8 @@ Kontenrahmen KMU.
 | Mobile Sachanlagen | 400 | 450 |
 | Wertberichtigungen mobile Sachanlagen | - 100 | - 140 |
 | **Total Aktiven** | **670** | **760** |
-
+|   |   |   |
 | Passiven (in CHF 1'000) | 01.01.2025 | 31.12.2025 |
-| :--- | :--- | :--- |
 | **Kurzfristiges Fremdkapital** | | |
 | Verbindlichkeiten aus Lieferungen und Leistungen | 80 | 110 |
 | Kurzfristige verzinsliche Verbindlichkeiten | 90 | 70 |
@@ -30,7 +29,7 @@ Kontenrahmen KMU.
 
 ### Erfolgsrechnung 2025
 | Position (in CHF 1'000) | Betrag |
-| :--- | :--- |
+| :--- | ---: |
 | Handelserlöse | 1 000 |
 | Handelswarenaufwand | - 600 |
 | **Bruttogewinn** | **400** |
@@ -55,7 +54,10 @@ Kontenrahmen KMU.
 **A)** Erstellen Sie die Geldflussrechnung mit dem Fonds «Flüssige
        Mittel» für das Jahr 2025. Weisen Sie den Geldfluss aus
        Geschäftstätigkeit (Cashflow) nach der indirekten Methode aus. 
+
 **B)** Berechnen Sie in einer Zusatzaufgabe den Geldfluss aus
        Geschäftstätigkeit (Cashflow) auch nach der direkten Methode. 
 
 ---
+
+[Musterlösung der Zusatzaufgabe](musterloesung_zusatzaufgabe.qmd)
