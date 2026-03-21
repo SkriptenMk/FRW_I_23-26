@@ -1,0 +1,61 @@
+# Aufgabe zur Geldflussrechnung: Handels AG
+
+## Ausgangslage
+Von der Handels AG sind die folgenden Abschlussrechnungen für das Jahr
+2025 bekannt. Die Kontenbezeichnungen entsprechen dem Schweizer
+Kontenrahmen KMU. 
+
+### Bilanzen (vor Gewinnverwendung)
+| Aktiven (in CHF 1'000) | 01.01.2025 | 31.12.2025 |
+| :--- | :--- | :--- |
+| **Umlaufvermögen** | | |
+| Flüssige Mittel | 50 | 120 |
+| Forderungen aus Lieferungen und Leistungen | 120 | 150 |
+| Vorräte | 200 | 180 |
+| **Anlagevermögen** | | |
+| Mobile Sachanlagen | 400 | 450 |
+| Wertberichtigungen mobile Sachanlagen | - 100 | - 140 |
+| **Total Aktiven** | **670** | **760** |
+
+| Passiven (in CHF 1'000) | 01.01.2025 | 31.12.2025 |
+| :--- | :--- | :--- |
+| **Kurzfristiges Fremdkapital** | | |
+| Verbindlichkeiten aus Lieferungen und Leistungen | 80 | 110 |
+| Kurzfristige verzinsliche Verbindlichkeiten | 90 | 70 |
+| **Eigenkapital** | | |
+| Aktienkapital | 300 | 300 |
+| Gewinnreserven und Gewinnvortrag | 100 | 180 |
+| Jahresgewinn | 100 | 100 |
+| **Total Passiven** | **670** | **760** |
+
+### Erfolgsrechnung 2025
+| Position (in CHF 1'000) | Betrag |
+| :--- | :--- |
+| Handelserlöse | 1 000 |
+| Handelswarenaufwand | - 600 |
+| **Bruttogewinn** | **400** |
+| Personalaufwand | - 200 |
+| Sonstiger betrieblicher Aufwand | - 50 |
+| **EBITDA** | **150** |
+| Abschreibungen auf mobilen Sachanlagen | - 40 |
+| **EBIT** | **110** |
+| Finanzaufwand | - 10 |
+| **Jahresgewinn** | **100** |
+
+### Zusätzliche Angaben für das Jahr 2025
+1. Die Generalversammlung beschloss im Frühjahr 2025, aus dem
+   Vorjahresgewinn (CHF 100) eine Bardividende von CHF 20 auszuschütten.
+   Der Rest des alten Gewinns wurde den Gewinnreserven zugewiesen. 
+2. Es wurden neue mobile Sachanlagen für CHF 50 gekauft.
+3. Im Jahr 2025 wurden keine Sachanlagen verkauft.
+
+---
+
+## Aufgabenstellung
+**A)** Erstellen Sie die Geldflussrechnung mit dem Fonds «Flüssige
+       Mittel» für das Jahr 2025. Weisen Sie den Geldfluss aus
+       Geschäftstätigkeit (Cashflow) nach der indirekten Methode aus. 
+**B)** Berechnen Sie in einer Zusatzaufgabe den Geldfluss aus
+       Geschäftstätigkeit (Cashflow) auch nach der direkten Methode. 
+
+---
