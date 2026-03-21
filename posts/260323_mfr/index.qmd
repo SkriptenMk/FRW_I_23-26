@@ -1,7 +1,7 @@
 ---
 title: "Mittelflussrechnung am Beispiel der NIESENBAHN AG"
 author: "Jacques Mock Schindler"
-date: "2026-03-23"
+date: "2026-03-26"
 date-format: "D. MMMM YYYY"
 image: "image.png"
 categories: [Analyse, MFR]
