@@ -1,0 +1,81 @@
+# Musterlösung Zusatzaufgabe
+
+## Teil A: Geldflussrechnung der Handels AG für 2025 (in CHF 1'000)
+
+| Geldfluss aus Geschäftstätigkeit (indirekte Methode) | Betrag |
+| :--- | ---: |
+| Jahresgewinn | + 100 |
+| Abschreibungen auf Positionen des Anlagevermögens | + 40 |
+| Zunahme Forderungen aus Lieferungen und Leistungen | - 30 |
+| Abnahme Vorräte | + 20 |
+| Zunahme Verbindlichkeiten aus Lieferungen und Leistungen | + 30 |
+| **= Geldfluss aus Geschäftstätigkeit (Cashflow)** | **+ 160** |
+|   |   |
+| **Geldfluss aus Investitionstätigkeit** |  |
+| Investitionen in mobile Sachanlagen | - 50 |
+| **= Geldfluss aus Investitionstätigkeit** | **- 50** |
+|   |   |
+| **Geldfluss aus Finanzierungstätigkeit** |  |
+| Rückzahlungen von kurzfristigen Finanzverbindlichkeiten | - 20 |
+| Gewinnausschüttungen (Dividende) | - 20 |
+| **= Geldfluss aus Finanzierungstätigkeit** | **- 40** |
+|   |   |
+| **Veränderung des Fonds «Flüssige Mittel»** |  |
+| **= Zunahme flüssige Mittel** | **+ 70** |
+
+*Nachweis:*
+    
+* Bestand Flüssige Mittel am 01.01.2025: 50
+* Bestand Flüssige Mittel am 31.12.2025: 120
+* **Zunahme flüssige Mittel: + 70**
+
+---
+
+## Teil B: Zusatzaufgabe Cashflow nach der direkten Methode (in CHF 1'000)
+
+| Geldfluss aus Geschäftstätigkeit (direkte Methode) | Betrag |
+| :--- | ---: |
+| Einzahlungen von Kunden | + 970 |
+| Auszahlungen an Lieferanten | - 550 |
+| Auszahlungen für Personal | - 200 |
+| Auszahlungen für sonstigen betrieblichen Aufwand | - 50 |
+| Auszahlungen für Zinsen (Finanzaufwand) | - 10 |
+| **= Geldfluss aus Geschäftstätigkeit (Cashflow)** | **+ 160** |
+
+---
+
+## Ausführliche Erläuterungen zur Musterlösung
+
+### 1. Erläuterungen zur indirekten Methode (Teil A) 
+
+Der Cashflow wird hier berechnet, indem der Jahresgewinn um die nicht
+liquiditätswirksamen Aufwände korrigiert und die Veränderungen des
+Nettoumlaufvermögens berücksichtigt werden:
+
+* **Jahresgewinn (+ 100):** Ausgangspunkt der Berechnung gemäss Erfolgsrechnung.
+* **Abschreibungen (+ 40):** Abschreibungen sind ein buchhalterischer Aufwand, der keinen direkten Geldabfluss zur Folge hat. Daher werden sie zum Gewinn addiert. 
+* **Forderungen aus L&L (- 30):** Die Forderungen haben von 120 auf 150 zugenommen. Das bedeutet, dass Erlöse verbucht wurden, für die noch kein Geld eingegangen ist. Das bindet Liquidität, weshalb die Zunahme abgezogen wird.
+* **Vorräte (+ 20):** Der Warenbestand ist von 200 auf 180 gesunken. Der Abbau von Vorräten setzt Liquidität frei, weshalb der Betrag addiert wird.
+* **Verbindlichkeiten aus L&L (+ 30):** Die Lieferantenschulden sind von 80 auf 110 gestiegen. Da Rechnungen noch nicht bezahlt wurden, verbleibt die Liquidität vorübergehend im Unternehmen. Die Zunahme wird addiert.
+
+### 2. Erläuterungen zur direkten Methode (Teil B)
+Bei der direkten Methode werden die liquiditätswirksamen Erträge und
+Aufwände direkt hergeleitet, indem die Zahlen aus der Erfolgsrechnung um
+die Bestandsänderungen in der Bilanz korrigiert werden:
+
+* **Einzahlungen von Kunden (+ 970):** Die Handelserlöse betragen 1 000. Da die Forderungen aus L&L jedoch um 30 zugenommen haben, haben die Kunden 30 weniger bezahlt als fakturiert wurde (1 000 - 30 = 970).
+* **Auszahlungen an Lieferanten (- 550):** Dies erfordert zwei Schritte: 
+  1. *Wareneinkauf berechnen:* Der Handelswarenaufwand beträgt 600. Da das Lager um 20 abgebaut wurde, mussten wir 20 weniger einkaufen als verbraucht wurde. Der Wareneinkauf beträgt also 580.
+  2. *Zahlungen berechnen:* Wir haben für 580 eingekauft, aber die Verbindlichkeiten aus L&L haben um 30 zugenommen (wir schulden den Lieferanten mehr). Wir haben also 30 weniger bezahlt als eingekauft. Die effektiven Auszahlungen betragen somit 550 (580 - 30).
+* **Auszahlungen für Personal (- 200) & sonstiger Aufwand (- 50) &
+Zinsen (- 10):** Da es in der Bilanz keine entsprechenden
+Abgrenzungskonten (wie z.B. noch nicht bezahlte Löhne oder Zinsen) gibt,
+entsprechen diese Aufwände direkt den erfolgten Auszahlungen.
+
+**Fazit:** Beide Methoden führen exakt zum gleichen operativen Cashflow von + 160.
+
+### 3. Erläuterungen zum Investitions- und Finanzierungsbereich
+
+* **Investitionen in mobile Sachanlagen (- 50):** Die Zusatzangaben erwähnen den Kauf von Anlagen für CHF 50. 
+* **Rückzahlung Bankverbindlichkeiten (- 20):** Die kurzfristigen verzinslichen Verbindlichkeiten sind von 90 auf 70 gesunken. Dieser Schuldenabbau führt zu einem Geldabfluss.
+* **Gewinnausschüttung (- 20):** Gemäss Zusatzangaben wurden CHF 20 als Bardividende ausgezahlt. Der Rest des Vorjahresgewinns war eine reine Umbuchung in die Gewinnreserven (nicht liquiditätswirksam).

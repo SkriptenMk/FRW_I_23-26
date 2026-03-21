@@ -1,7 +1,7 @@
 ---
 title: "Mittelflussrechnung am Beispiel der NIESENBAHN AG"
 author: "Jacques Mock Schindler"
-date: "2026-03-23"
+date: "2026-03-26"
 date-format: "D. MMMM YYYY"
 image: "image.png"
 categories: [Analyse, MFR]
@@ -151,7 +151,12 @@ rechnerische Ursache für die Abweichung im vorliegenden Fall.
 
 [Musterlösung](musterloesung.qmd)
 
-*Quelle der Originaldaten: NIESENBAHN AG, Geschäftsbericht 2024 (119.
-Bericht). Die Bilanzpositionen des Umlaufvermögens und des kurzfristigen
+
+[Zusatzaufgabe](zusatzaufgabe.qmd)
+
+*Quelle der Originaldaten: 
+[NIESENBAHN AG, Geschäftsbericht 2024 (119.
+Bericht)](https://www.niesen.ch/wp-content/uploads/2025/04/Niesenbahn_Geschaeftbericht-2024_ES_WEB.pdf).
+Die Bilanzpositionen des Umlaufvermögens und des kurzfristigen
 Fremdkapitals wurden für Übungszwecke detailliert aufgegliedert; alle
 Totalsummen entsprechen den publizierten Werten.* 
