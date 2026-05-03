@@ -57,5 +57,5 @@ $$
 
 
 Für die graphische Darstellung des Break-Even-Points können die Erlös-
-und die Kostenfunktion in einem Diagramm dargsetellt werden. Der
+und die Kostenfunktion in einem Diagramm dargestellt werden. Der
 Break-Even-Point ist dann der Schnittpunkt der beiden Graphen.
