@@ -1,0 +1,11 @@
+---
+title: "Break-Even-Point"
+author: "Jacques Mock Schindler"
+date: "2026-05-04"
+date-format: "D. MMMM YYYY"
+image: "image.png"
+categories: [Break Even]
+---
+
+## Einleitung
+
