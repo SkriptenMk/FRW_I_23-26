@@ -14,13 +14,21 @@ die verkauft werden müssen, damit sich aus deren Produktion weder ein
 Gewinn noch ein Verlust ergibt. Dieser
 Punkt ist erreicht, wenn der Deckungsbeitrag der abgesetzten Produkte
 gleich gross ist, wie die durch deren Produktion anfallenden Fixkosten.
-Gleichwertig wie dieser kaufmännische Ansatz kann der Break-Even-Point
-auch durch die gleichsetzung der Erlös- mit der Kostenfunktion berechnet
-werden. 
+Zum selben Ergebnis führt die Gleichsetzung der Erlös- mit der
+Kostenfunktion. 
 
-$$
-e_{(x)} = k_{(x)}
-$$
+In den folgenden Berechnungen werden die folgenden Variabeln verwendet:
+
+| Variabel | Bedeutung |
+| :--- | :--- |
+| $e$ | Erlösfunktion |
+| $k$ | Kostenfunktion |
+| $p$ | Verkaufspreis |
+| $v$ | variable Kosten pro Stück |
+| $f$ | Fixkosten |
+| $x$ | Stückzahl |
+
+
 
 Dabei ist
 
@@ -47,14 +55,6 @@ x &= \frac{f}{p - v}\\
 \end{align}
 $$
 
-Wobei den Variabeln in den Funktionen die folgende Bedeutung zukommt:
-
-| Variabel | Bedeutung |
-| :--- | :--- |
-| $p$ | Verkaufspreis |
-| $v$ | variable Kosten pro Stück |
-| $f$ | Fixkosten |
-| $x$ | Stückzahl |
 
 Für die graphische Darstellung des Break-Even-Points können die Erlös-
 und die Kostenfunktion in einem Diagramm dargsetellt werden. Der
