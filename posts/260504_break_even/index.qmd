@@ -206,7 +206,7 @@ plt.show()
 ```
 
 
----
+--- 
 
 ### Übung 3: Rundung am Break-Even-Point
 
