@@ -1,0 +1,206 @@
+---
+title: "Break-Even-Point"
+author: "Jacques Mock Schindler"
+date: "2026-05-04"
+date-format: "D. MMMM YYYY"
+image: "image.png"
+categories: [Break Even]
+---
+
+## Einleitung
+
+Der Break-Even-Point (Gewinnschwelle) bezeichnet die Anzahl Einheiten,
+die verkauft werden müssen, damit sich aus deren Produktion weder ein
+Gewinn noch ein Verlust ergibt. Dieser
+Punkt ist erreicht, wenn der Deckungsbeitrag der abgesetzten Produkte
+gleich gross ist, wie die durch deren Produktion anfallenden Fixkosten.
+Zum selben Ergebnis führt die Gleichsetzung der Erlös- mit der
+Kostenfunktion. 
+
+In den folgenden Berechnungen werden die folgenden Variabeln verwendet:
+
+| Variabel | Bedeutung |
+| :--- | :--- |
+| $e$ | Erlösfunktion |
+| $k$ | Kostenfunktion |
+| $p$ | Verkaufspreis |
+| $v$ | variable Kosten pro Stück |
+| $f$ | Fixkosten |
+| $x$ | Stückzahl |
+
+
+
+Dabei ist
+
+$$
+e_{(x)} = px
+$$
+
+und
+
+$$
+k_{(x)} = vx + f
+$$
+
+Schritt für Schritt sieht die Auflösung der Gleichung nach $x$
+folgendermassen aus:
+
+$$
+\begin{align}
+e_{(x)} &= k_{(x)}\\
+px &= vx + f\\
+px - vx &= f\\
+x (p - v) &=f\\
+x &= \frac{f}{p - v}\\
+\end{align}
+$$
+
+
+Für die graphische Darstellung des Break-Even-Points können die Erlös-
+und die Kostenfunktion in einem Diagramm dargestellt werden. Der
+Break-Even-Point ist dann der Schnittpunkt der beiden Graphen.
+
+## Übungen
+
+### Übung 1: Kaufmännischer Ansatz
+
+Die Holzwerkstatt Bründler AG stellt handgefertigte Holzhocker her.
+Pro verkauftem Hocker erzielt sie einen Erlös von CHF 120.
+Die variablen Kosten pro Stück (Material, Fertigungslohn) betragen CHF 45.
+Die monatlichen Fixkosten (Miete, Maschinen, Verwaltung) belaufen sich auf
+CHF 6'000.
+
+Berechnen Sie mithilfe des kaufmännischen Ansatzes, wie viele Hocker die
+Holzwerkstatt Bründler AG pro Monat verkaufen muss, um den Break-Even-Point
+zu erreichen.
+
+#### Musterlösung
+
+Der kaufmännische Ansatz beruht auf dem Deckungsbeitrag pro Stück ($db$):
+
+$$
+db = p - v = 120 - 45 = 75 \text{ CHF/Stück}
+$$
+
+Am Break-Even-Point muss der gesamte Deckungsbeitrag die Fixkosten decken:
+
+$$
+x_{BEP} \cdot db = f
+$$
+
+$$
+x_{BEP} = \frac{f}{db} = \frac{6'000}{75} = 80 \text{ Stück}
+$$
+
+Die Holzwerkstatt Bründler AG muss pro Monat **80 Hocker** verkaufen, um
+weder Gewinn noch Verlust zu erzielen.
+
+---
+
+### Übung 2: Gleichsetzung von Erlös- und Kostenfunktion
+
+Die Softwareschule DataLearn GmbH bietet einen Online-Kurs für CHF 180 pro
+Teilnehmer an. Die variablen Kosten (Plattformgebühren, Support) betragen
+CHF 30 pro Teilnehmer. Die Fixkosten (Kursproduktion, Marketing,
+Serverinfrastruktur) belaufen sich auf CHF 12'000 pro Quartal.
+
+Ermitteln Sie den Break-Even-Point durch Gleichsetzung der Erlös- mit der
+Kostenfunktion. Stellen Sie die Lösung als vollständige Herleitung dar.
+
+#### Musterlösung
+
+Die Erlösfunktion lautet:
+
+$$
+e_{(x)} = px = 180x
+$$
+
+Die Kostenfunktion lautet:
+
+$$
+k_{(x)} = vx + f = 30x + 12'000
+$$
+
+Der Break-Even-Point ergibt sich durch Gleichsetzung der beiden Funktionen
+und Auflösung nach $x$:
+
+$$
+\begin{align*}
+e_{(x)} &= k_{(x)}\\
+180x &= 30x + 12'000\\
+180x - 30x &= 12'000\\
+150x &= 12'000\\
+x &= \frac{12'000}{150} = 80 \text{ Teilnehmer}
+\end{align*}
+$$
+
+DataLearn GmbH muss pro Quartal **80 Kursteilnehmer** gewinnen, um den
+Break-Even-Point zu erreichen.
+
+Zur Kontrolle lassen sich Erlös und Kosten beim ermittelten $x$ einsetzen:
+
+$$
+e_{(80)} = 180 \cdot 80 = 14'400 \text{ CHF}
+$$
+
+$$
+k_{(80)} = 30 \cdot 80 + 12'000 = 2'400 + 12'000 = 14'400 \text{ CHF} \checkmark
+$$
+
+Graphisch entspricht der Break-Even-Point dem Schnittpunkt der Erlös- und
+der Kostenfunktion:
+
+```{python}
+#| echo: false
+#| label: fig-bep
+#| fig-cap: "Break-Even-Point der DataLearn GmbH"
+#| fig-width: 6
+#| fig-height: 4
+
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
+import numpy as np
+
+# Parameter
+p, v, f = 180, 30, 12_000
+x_bep = f / (p - v)          # 80
+y_bep = p * x_bep             # 14 400
+
+x = np.linspace(0, 140, 300)
+e = p * x
+k = v * x + f
+
+fig, ax = plt.subplots(figsize=(6, 4))
+
+ax.plot(x, e, label=r"$e_{(x)} = 180x$", color="#2563eb", linewidth=1.8)
+ax.plot(x, k, label=r"$k_{(x)} = 30x + 12'000$", color="#dc2626", linewidth=1.8)
+
+# Fixkosten als gestrichelte Linie
+ax.axhline(f, color="gray", linewidth=1, linestyle="--", label=f"Fixkosten f = {f:,} CHF")
+
+# BEP markieren
+ax.plot(x_bep, y_bep, "ko", markersize=6, zorder=5)
+ax.annotate(
+    f"BEP ({int(x_bep)} TN | {int(y_bep):,} CHF)",
+    xy=(x_bep, y_bep),
+    xytext=(x_bep + 8, y_bep - 2_500),
+    fontsize=9,
+    arrowprops=dict(arrowstyle="->", color="black", lw=1),
+)
+
+# Gewinn-/Verlustbereiche schattieren
+ax.fill_between(x, e, k, where=(e > k), alpha=0.12, color="#16a34a", label="Gewinn")
+ax.fill_between(x, e, k, where=(e < k), alpha=0.12, color="#dc2626", label="Verlust")
+
+# Achsen
+ax.set_xlabel("Teilnehmerzahl $x$")
+ax.set_ylabel("CHF")
+ax.yaxis.set_major_formatter(ticker.FuncFormatter(lambda val, _: f"{int(val):,}"))
+ax.set_xlim(0, 140)
+ax.set_ylim(0, 26_000)
+ax.legend(fontsize=8, loc="upper left")
+ax.spines[["top", "right"]].set_visible(False)
+
+plt.tight_layout()
+plt.show()
+```
