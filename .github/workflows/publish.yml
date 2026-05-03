@@ -46,9 +46,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.TinyTeX
-          key: tinytex-v3-${{ runner.os }}-${{ hashFiles('.github/workflows/publish.yml') }}
+          key: tinytex-v4-${{ runner.os }}-${{ hashFiles('.github/workflows/publish.yml') }}
           restore-keys: |
-            tinytex-v3-${{ runner.os }}-
+            tinytex-v4-${{ runner.os }}-
 
       - name: Install TinyTeX
         if: steps.cache-tinytex.outputs.cache-hit != 'true'
