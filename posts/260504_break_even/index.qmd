@@ -47,7 +47,7 @@ folgendermassen aus:
 
 $$
 \begin{align}
-e &= k\\
+e_{(x)} &= k_{(x)}\\
 px &= vx + f\\
 px - vx &= f\\
 x (p - v) &=f\\
