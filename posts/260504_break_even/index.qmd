@@ -9,3 +9,53 @@ categories: [Break Even]
 
 ## Einleitung
 
+Der Break-Even-Point (Gewinnschwelle) bezeichnet die Anzahl Einheiten,
+die verkauft werden müssen, damit sich aus deren Produktion weder ein
+Gewinn noch ein Verlust ergibt. Dieser
+Punkt ist erreicht, wenn der Deckungsbeitrag der abgesetzten Produkte
+gleich gross ist, wie die durch deren Produktion anfallenden Fixkosten.
+Gleichwertig wie dieser kaufmännische Ansatz kann der Break-Even-Point
+auch durch die gleichsetzung der Erlös- mit der Kostenfunktion berechnet
+werden. 
+
+$$
+e_{(x)} = k_{(x)}
+$$
+
+Dabei ist
+
+$$
+e_{(x)} = px
+$$
+
+und
+
+$$
+k_{(x)} = vx + f
+$$
+
+Schritt für Schritt sieht die Auflösung der Gleichung nach $x$
+folgendermassen aus:
+
+$$
+\begin{align}
+e &= k\\
+px &= vx + f\\
+px - vx &= f\\
+x (p - v) &=f\\
+x &= \frac{f}{p - v}\\
+\end{align}
+$$
+
+Wobei den Variabeln in den Funktionen die folgende Bedeutung zukommt:
+
+| Variabel | Bedeutung |
+| :--- | :--- |
+| $p$ | Verkaufspreis |
+| $v$ | variable Kosten pro Stück |
+| $f$ | Fixkosten |
+| $x$ | Stückzahl |
+
+Für die graphische Darstellung des Break-Even-Points können die Erlös-
+und die Kostenfunktion in einem Diagramm dargsetellt werden. Der
+Break-Even-Point ist dann der Schnittpunkt der beiden Graphen.
