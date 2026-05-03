@@ -70,13 +70,6 @@ jobs:
           export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
           luaotfload-tool --update
 
-      - name: Cache Quarto freeze
-        uses: actions/cache@v4
-        with:
-          path: _freeze
-          key: quarto-freeze-${{ runner.os }}-${{ hashFiles('**/*.qmd', '**/*.md') }}
-          restore-keys: |
-            quarto-freeze-${{ runner.os }}-
 
       - name: Render Quarto Project
         run: quarto render
