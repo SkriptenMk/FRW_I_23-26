@@ -204,3 +204,61 @@ ax.spines[["top", "right"]].set_visible(False)
 plt.tight_layout()
 plt.show()
 ```
+
+
+---
+
+### Übung 3: Rundung am Break-Even-Point
+
+Das Yogastudio Balance betreibt in Winterthur Gruppenkurse. Pro Kursteilnehmer
+wird ein monatlicher Kursbeitrag von CHF 25 erhoben. Das Honorar der
+Kursleitung (variable Kosten) beträgt CHF 10 pro Teilnehmer. Die monatlichen
+Fixkosten (Miete, Versicherung, Verwaltung) belaufen sich auf CHF 4'100.
+
+Berechnen Sie den Break-Even-Point. Begründen Sie, auf welche ganze Stückzahl
+zu runden ist, und überprüfen Sie Ihre Antwort.
+
+#### Musterlösung
+
+Die Erlösfunktion lautet:
+
+$$
+e_{(x)} = 25x
+$$
+
+Die Kostenfunktion lautet:
+
+$$
+k_{(x)} = 10x + 4'100
+$$
+
+Gleichsetzung und Auflösung nach $x$:
+
+$$
+\begin{align*}
+e_{(x)} &= k_{(x)}\\
+25x &= 10x + 4'100\\
+15x &= 4'100\\
+x &= \frac{4'100}{15} = 273{,}\overline{3} \text{ Teilnehmer}
+\end{align*}
+$$
+
+Der rechnerische Break-Even-Point liegt bei $273{,}\overline{3}$ Teilnehmern —
+also zwischen zwei ganzen Zahlen. Da Teilnehmer nur in ganzen Einheiten gezählt
+werden können, muss gerundet werden.
+
+**Warum zwingend aufrunden?**
+
+Die Probe zeigt, weshalb kaufmännisches Runden (auf 273) hier falsch wäre:
+
+| Teilnehmerzahl | Erlös | Kosten | Ergebnis |
+| ---: | ---: | ---: | ---: |
+| 273 | CHF 6'825 | CHF 6'830 | **−CHF 5 (Verlust)** |
+| 274 | CHF 6'850 | CHF 6'840 | **+CHF 10 (Gewinn)** |
+
+Bei 273 Teilnehmern werden die Fixkosten noch nicht vollständig gedeckt —
+das Studio macht einen Verlust von CHF 5. Den Break-Even-Point erreicht das
+Yogastudio Balance erst ab **274 Teilnehmern**.
+
+Am Break-Even-Point ist daher immer **auf die nächste ganze Einheit
+aufzurunden**, unabhängig vom Nachkommaanteil.
